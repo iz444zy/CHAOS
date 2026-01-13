@@ -6,3 +6,4 @@
 {"replay": 6, "timestamp": "2026-01-04T02:25:34-05:00", "subject": "docs: add session handoff for continuation"}
 {"replay": 7, "timestamp": "2026-01-12T22:12:27-05:00", "subject": "refactor(commands): replace compact with session-handoff workflow"}
 {"replay": 8, "timestamp": "2026-01-12T22:27:09-05:00", "subject": "refactor(workflow): optimize for distribution and add improvements"}
+{"replay": 9, "timestamp": "2026-01-12T23:08:43-05:00", "subject": "docs: simplify distribution to macos app only"}
