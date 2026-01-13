@@ -8,3 +8,4 @@
 {"replay": 8, "timestamp": "2026-01-12T22:27:09-05:00", "subject": "refactor(workflow): optimize for distribution and add improvements"}
 {"replay": 9, "timestamp": "2026-01-12T23:08:43-05:00", "subject": "docs: simplify distribution to macos app only"}
 {"replay": 10, "timestamp": "2026-01-12T23:09:11-05:00", "subject": "fix: update spec file to use DEV-WF-ICON.icns"}
+{"replay": 11, "timestamp": "2026-01-12T23:09:24-05:00", "subject": "fix: handle None icon_path in spec file"}
