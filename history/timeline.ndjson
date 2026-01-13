@@ -9,3 +9,4 @@
 {"replay": 9, "timestamp": "2026-01-12T23:08:43-05:00", "subject": "docs: simplify distribution to macos app only"}
 {"replay": 10, "timestamp": "2026-01-12T23:09:11-05:00", "subject": "fix: update spec file to use DEV-WF-ICON.icns"}
 {"replay": 11, "timestamp": "2026-01-12T23:09:24-05:00", "subject": "fix: handle None icon_path in spec file"}
+{"replay": 12, "timestamp": "2026-01-13T00:31:05-05:00", "subject": "fix: bundle .claude folder in app and handle frozen app paths"}
