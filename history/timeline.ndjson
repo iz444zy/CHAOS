@@ -14,3 +14,4 @@
 {"replay": 14, "timestamp": "2026-02-24T19:26:17-05:00", "subject": "docs(reference): add 18-document best practices library with master index"}
 {"replay": 15, "timestamp": "2026-02-24T19:26:31-05:00", "subject": "feat(docs): add automated TOC generation workflow"}
 {"replay": 16, "timestamp": "2026-02-24T19:26:46-05:00", "subject": "docs(workflow): add scholarly references and SWEBOK alignment"}
+{"replay": 17, "timestamp": "2026-02-24T19:27:00-05:00", "subject": "docs(commands): add authoritative source references"}
