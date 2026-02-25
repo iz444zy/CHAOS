@@ -22,3 +22,4 @@
 {"replay": 22, "timestamp": "2026-02-24T20:24:31-05:00", "subject": "refactor: slim core docs for token efficiency"}
 {"replay": 23, "timestamp": "2026-02-24T20:24:37-05:00", "subject": "refactor: slim skill files with lazy-load references"}
 {"replay": 24, "timestamp": "2026-02-24T20:24:41-05:00", "subject": "docs: add project management files and organization reference"}
+{"replay": 25, "timestamp": "2026-02-24T20:28:52-05:00", "subject": "feat: add token budget system with per-step tracking"}
