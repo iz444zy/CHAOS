@@ -26,3 +26,4 @@
 {"replay": 26, "timestamp": "2026-02-24T21:09:55-05:00", "subject": "docs: add workflow architecture and audit report"}
 {"replay": 27, "timestamp": "2026-02-24T21:13:34-05:00", "subject": "fix: resolve 8 critical audit findings across 26 files"}
 {"replay": 28, "timestamp": "2026-02-24T21:36:35-05:00", "subject": "docs: slim PYDEV-WORKFLOW-INDEX.MD to routing/hierarchy document"}
+{"replay": 29, "timestamp": "2026-02-24T21:43:25-05:00", "subject": "docs: add frontend reference docs (React, Next.js, TypeScript)"}
