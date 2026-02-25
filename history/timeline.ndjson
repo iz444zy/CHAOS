@@ -17,3 +17,4 @@
 {"replay": 17, "timestamp": "2026-02-24T19:27:00-05:00", "subject": "docs(commands): add authoritative source references"}
 {"replay": 18, "timestamp": "2026-02-24T19:27:13-05:00", "subject": "docs(readme): document reference library structure"}
 {"replay": 19, "timestamp": "2026-02-24T19:27:27-05:00", "subject": "docs: initialize DEV-LOG with documentation expansion entry"}
+{"replay": 20, "timestamp": "2026-02-24T19:27:47-05:00", "subject": "docs(devlog): add commit hashes to documentation expansion entry"}
