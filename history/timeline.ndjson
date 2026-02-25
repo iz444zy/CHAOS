@@ -30,3 +30,4 @@
 {"replay": 30, "timestamp": "2026-02-24T21:43:32-05:00", "subject": "docs: simplify TOC-PROMPT.md to match actual TOC format"}
 {"replay": 31, "timestamp": "2026-02-24T21:43:38-05:00", "subject": "docs: document settings.local.json permissions pattern"}
 {"replay": 32, "timestamp": "2026-02-24T21:43:43-05:00", "subject": "test: add markdown link validation test"}
+{"replay": 33, "timestamp": "2026-02-24T21:43:51-05:00", "subject": "docs: update TODO, TOC, and DEV-LOG for backlog sweep"}
