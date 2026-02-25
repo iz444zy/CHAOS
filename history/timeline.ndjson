@@ -11,3 +11,4 @@
 {"replay": 11, "timestamp": "2026-01-12T23:09:24-05:00", "subject": "fix: handle None icon_path in spec file"}
 {"replay": 12, "timestamp": "2026-01-13T00:31:05-05:00", "subject": "fix: bundle .claude folder in app and handle frozen app paths"}
 {"replay": 13, "timestamp": "2026-02-19T20:51:03-05:00", "subject": "docs(claude): add commit workflow, DEV-LOG rules, and reference lookup"}
+{"replay": 14, "timestamp": "2026-02-24T19:26:17-05:00", "subject": "docs(reference): add 18-document best practices library with master index"}
