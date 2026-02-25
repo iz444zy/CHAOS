@@ -28,3 +28,4 @@
 {"replay": 28, "timestamp": "2026-02-24T21:36:35-05:00", "subject": "docs: slim PYDEV-WORKFLOW-INDEX.MD to routing/hierarchy document"}
 {"replay": 29, "timestamp": "2026-02-24T21:43:25-05:00", "subject": "docs: add frontend reference docs (React, Next.js, TypeScript)"}
 {"replay": 30, "timestamp": "2026-02-24T21:43:32-05:00", "subject": "docs: simplify TOC-PROMPT.md to match actual TOC format"}
+{"replay": 31, "timestamp": "2026-02-24T21:43:38-05:00", "subject": "docs: document settings.local.json permissions pattern"}
