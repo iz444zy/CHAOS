@@ -19,3 +19,4 @@
 {"replay": 19, "timestamp": "2026-02-24T19:27:27-05:00", "subject": "docs: initialize DEV-LOG with documentation expansion entry"}
 {"replay": 20, "timestamp": "2026-02-24T19:27:47-05:00", "subject": "docs(devlog): add commit hashes to documentation expansion entry"}
 {"replay": 21, "timestamp": "2026-02-24T20:24:27-05:00", "subject": "refactor: remove duplicate documentation files"}
+{"replay": 22, "timestamp": "2026-02-24T20:24:31-05:00", "subject": "refactor: slim core docs for token efficiency"}
