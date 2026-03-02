@@ -34,3 +34,4 @@
 {"replay": 34, "timestamp": "2026-02-24T21:46:39-05:00", "subject": "fix: resolve 15 broken internal markdown links across 11 files"}
 {"replay": 35, "timestamp": "2026-03-02T00:28:43-05:00", "subject": "feat: v2.0.0 — autonomous agent system with PM orchestrator"}
 {"replay": 36, "timestamp": "2026-03-02T00:34:39-05:00", "subject": "docs: update TABLE-OF-CONTENTS and DEV-LOG for v2.0.0"}
+{"replay": 37, "timestamp": "2026-03-02T00:40:48-05:00", "subject": "refactor: installer exports full product (CLAUDE.md, docs/, .cursorrules)"}
