@@ -53,3 +53,4 @@
 {"replay": 53, "timestamp": "2026-03-05T21:39:59-05:00", "subject": "feat: wire up new agent dialog and PM screen"}
 {"replay": 54, "timestamp": "2026-03-05T21:40:26-05:00", "subject": "fix: add tomli_w dep and editable install for CI"}
 {"replay": 55, "timestamp": "2026-03-05T21:42:52-05:00", "subject": "fix: resolve 3 ruff errors in workspace.py"}
+{"replay": 56, "timestamp": "2026-03-05T21:46:43-05:00", "subject": "Merge pull request #1 from luvisaisa/fix/ci-ruff-workspace"}
