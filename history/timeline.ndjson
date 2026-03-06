@@ -59,3 +59,4 @@
 {"replay": 59, "timestamp": "2026-03-05T23:34:53-05:00", "subject": "fix(api): address security audit findings F01-F08"}
 {"replay": 60, "timestamp": "2026-03-06T00:02:11-05:00", "subject": "feat(native): SwiftUI macOS app (Phases N2-N5)"}
 {"replay": 61, "timestamp": "2026-03-06T00:08:53-05:00", "subject": "feat: optimize 5 agents, add 15 new agents, add testing suite"}
+{"replay": 62, "timestamp": "2026-03-06T00:11:21-05:00", "subject": "feat(native): add TODO panel, fix text input, add help overlay"}
