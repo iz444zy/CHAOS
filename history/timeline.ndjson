@@ -54,3 +54,4 @@
 {"replay": 54, "timestamp": "2026-03-05T21:40:26-05:00", "subject": "fix: add tomli_w dep and editable install for CI"}
 {"replay": 55, "timestamp": "2026-03-05T21:42:52-05:00", "subject": "fix: resolve 3 ruff errors in workspace.py"}
 {"replay": 56, "timestamp": "2026-03-05T21:46:43-05:00", "subject": "Merge pull request #1 from luvisaisa/fix/ci-ruff-workspace"}
+{"replay": 57, "timestamp": "2026-03-05T21:55:11-05:00", "subject": "docs: update README, TOC, DEV-LOG, TODO, and ARCHITECTURE"}
