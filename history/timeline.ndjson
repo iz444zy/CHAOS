@@ -51,3 +51,4 @@
 {"replay": 51, "timestamp": "2026-03-05T21:35:16-05:00", "subject": "fix: TUI widget bugs — forward kwargs, rename _render collision"}
 {"replay": 52, "timestamp": "2026-03-05T21:38:52-05:00", "subject": "fix: resolve 30 ruff lint errors in src/cw/"}
 {"replay": 53, "timestamp": "2026-03-05T21:39:59-05:00", "subject": "feat: wire up new agent dialog and PM screen"}
+{"replay": 54, "timestamp": "2026-03-05T21:40:26-05:00", "subject": "fix: add tomli_w dep and editable install for CI"}
