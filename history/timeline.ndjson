@@ -43,3 +43,4 @@
 {"replay": 43, "timestamp": "2026-03-05T20:23:36-05:00", "subject": "feat: chain-1 wave 4 — smart pipeline adjustment rules"}
 {"replay": 44, "timestamp": "2026-03-05T20:24:53-05:00", "subject": "docs: mark chain-1 complete in TODO.md and DEV-LOG.md"}
 {"replay": 45, "timestamp": "2026-03-05T20:39:55-05:00", "subject": "test: add 114 tests for 6 untested context modules"}
+{"replay": 46, "timestamp": "2026-03-05T21:25:32-05:00", "subject": "fix: resolve 12 audit findings — CI, linting, tests, package structure"}
