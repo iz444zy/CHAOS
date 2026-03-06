@@ -62,3 +62,4 @@
 {"replay": 62, "timestamp": "2026-03-06T00:11:21-05:00", "subject": "feat(native): add TODO panel, fix text input, add help overlay"}
 {"replay": 63, "timestamp": "2026-03-06T00:17:37-05:00", "subject": "fix: resolve all 77 failing agent quality tests"}
 {"replay": 64, "timestamp": "2026-03-06T00:34:30-05:00", "subject": "docs: add CURRENT-STATE.md comprehensive project audit"}
+{"replay": 65, "timestamp": "2026-03-06T00:57:00-05:00", "subject": "docs: enforce feature branch + PR workflow in CLAUDE.md"}
