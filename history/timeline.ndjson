@@ -57,3 +57,4 @@
 {"replay": 57, "timestamp": "2026-03-05T21:55:11-05:00", "subject": "docs: update README, TOC, DEV-LOG, TODO, and ARCHITECTURE"}
 {"replay": 58, "timestamp": "2026-03-05T22:48:16-05:00", "subject": "feat(api): add FastAPI server for native GUI (Phase N1)"}
 {"replay": 59, "timestamp": "2026-03-05T23:34:53-05:00", "subject": "fix(api): address security audit findings F01-F08"}
+{"replay": 60, "timestamp": "2026-03-06T00:02:11-05:00", "subject": "feat(native): SwiftUI macOS app (Phases N2-N5)"}
