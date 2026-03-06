@@ -41,3 +41,4 @@
 {"replay": 41, "timestamp": "2026-03-05T20:21:21-05:00", "subject": "feat: chain-1 wave 3 — pipeline handoffs, decision rules, workflow state"}
 {"replay": 42, "timestamp": "2026-03-05T20:22:09-05:00", "subject": "feat: v3.0 context database — SQLite/FTS5 knowledge store with full pipeline"}
 {"replay": 43, "timestamp": "2026-03-05T20:23:36-05:00", "subject": "feat: chain-1 wave 4 — smart pipeline adjustment rules"}
+{"replay": 44, "timestamp": "2026-03-05T20:24:53-05:00", "subject": "docs: mark chain-1 complete in TODO.md and DEV-LOG.md"}
