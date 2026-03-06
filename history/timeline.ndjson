@@ -37,3 +37,4 @@
 {"replay": 37, "timestamp": "2026-03-02T00:40:48-05:00", "subject": "refactor: installer exports full product (CLAUDE.md, docs/, .cursorrules)"}
 {"replay": 38, "timestamp": "2026-03-02T00:49:41-05:00", "subject": "feat(docs-agent): add DEV-LOG maintenance as primary responsibility"}
 {"replay": 39, "timestamp": "2026-03-05T20:10:26-05:00", "subject": "feat: chain-1 wave 1 — recover agents, fix counts, add checkpoint protocol, hook patterns"}
+{"replay": 40, "timestamp": "2026-03-05T20:17:57-05:00", "subject": "feat: chain-1 wave 2 — artifact protocol, context bus, produces/consumes, verify triage"}
