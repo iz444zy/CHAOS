@@ -78,3 +78,4 @@
 {"replay": 78, "timestamp": "2026-03-08T17:16:35-04:00", "subject": "fix: rename agent-testing to agent_testing for valid Python package name"}
 {"replay": 79, "timestamp": "2026-03-08T17:49:51-04:00", "subject": "fix: resolve mypy no-any-return in conftest fixture"}
 {"replay": 80, "timestamp": "2026-03-08T17:53:02-04:00", "subject": "fix: add httpx and pytest-asyncio to dev requirements"}
+{"replay": 81, "timestamp": "2026-03-08T17:56:49-04:00", "subject": "Merge pull request #8 from luvisaisa/fix/rename-agent-testing-package"}
