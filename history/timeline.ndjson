@@ -85,3 +85,4 @@
 {"replay": 85, "timestamp": "2026-03-11T19:20:42-04:00", "subject": "feat: add /sprint command for living doc sync"}
 {"replay": 86, "timestamp": "2026-03-11T19:20:43-04:00", "subject": "docs: add sprint cadence protocol to CLAUDE.md"}
 {"replay": 87, "timestamp": "2026-03-11T19:20:43-04:00", "subject": "docs: add sprint-reports structure with template and initial reports"}
+{"replay": 88, "timestamp": "2026-03-11T19:21:03-04:00", "subject": "docs: add v3.1.0-v3.1.2 changelog entries for PRs #4-#8"}
