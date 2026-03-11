@@ -80,3 +80,4 @@
 {"replay": 80, "timestamp": "2026-03-08T17:53:02-04:00", "subject": "fix: add httpx and pytest-asyncio to dev requirements"}
 {"replay": 81, "timestamp": "2026-03-08T17:56:49-04:00", "subject": "Merge pull request #8 from luvisaisa/fix/rename-agent-testing-package"}
 {"replay": 82, "timestamp": "2026-03-11T19:20:10-04:00", "subject": "refactor: move docs/agent-research and docs/planning to dev-doc/"}
+{"replay": 83, "timestamp": "2026-03-11T19:20:21-04:00", "subject": "docs: add root project files — ARCHITECTURE, BUSINESS-ANALYSIS, ROADMAP, IMPLEMENTATION-PLAN"}
