@@ -83,3 +83,4 @@
 {"replay": 83, "timestamp": "2026-03-11T19:20:21-04:00", "subject": "docs: add root project files — ARCHITECTURE, BUSINESS-ANALYSIS, ROADMAP, IMPLEMENTATION-PLAN"}
 {"replay": 84, "timestamp": "2026-03-11T19:20:21-04:00", "subject": "docs: update CURRENT-STATE.md with v3.1.x counts and version info"}
 {"replay": 85, "timestamp": "2026-03-11T19:20:42-04:00", "subject": "feat: add /sprint command for living doc sync"}
+{"replay": 86, "timestamp": "2026-03-11T19:20:43-04:00", "subject": "docs: add sprint cadence protocol to CLAUDE.md"}
