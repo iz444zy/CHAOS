@@ -88,3 +88,4 @@
 {"replay": 88, "timestamp": "2026-03-11T19:21:03-04:00", "subject": "docs: add v3.1.0-v3.1.2 changelog entries for PRs #4-#8"}
 {"replay": 89, "timestamp": "2026-03-11T19:21:03-04:00", "subject": "docs: add DEV-LOG entries for PRs #4-#8 and doc-sync sprint"}
 {"replay": 90, "timestamp": "2026-03-11T19:21:04-04:00", "subject": "docs: rewrite TABLE-OF-CONTENTS — 53 commands, 30 skills, all new files"}
+{"replay": 91, "timestamp": "2026-03-11T19:21:04-04:00", "subject": "docs: convert SPRINT-REPORT.md to index with dated report table"}
