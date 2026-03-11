@@ -93,3 +93,4 @@
 {"replay": 93, "timestamp": "2026-03-11T19:21:16-04:00", "subject": "docs: add CONTRIBUTING.md with setup, workflow, and pre-commit gates"}
 {"replay": 94, "timestamp": "2026-03-11T19:21:16-04:00", "subject": "docs: add SECURITY.md with vulnerability reporting policy"}
 {"replay": 95, "timestamp": "2026-03-11T19:21:16-04:00", "subject": "docs: add USAGE-GUIDE.md with daily workflow and feature walkthrough"}
+{"replay": 96, "timestamp": "2026-03-11T19:27:29-04:00", "subject": "fix: remove broken links to files from other branches"}
