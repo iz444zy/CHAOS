@@ -118,3 +118,4 @@
 {"replay": 118, "timestamp": "2026-03-12T18:31:11-04:00", "subject": "refactor: remove stale docs/skills, archive migration scripts"}
 {"replay": 119, "timestamp": "2026-03-12T18:31:20-04:00", "subject": "refactor: trim CURRENT-STATE.md redundant content"}
 {"replay": 120, "timestamp": "2026-03-12T18:31:25-04:00", "subject": "test: add archive dir to markdown link test exclusions"}
+{"replay": 121, "timestamp": "2026-03-12T18:31:36-04:00", "subject": "docs: sprint sync v3.4.0 — update counts and living docs"}
