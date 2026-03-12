@@ -116,3 +116,4 @@
 {"replay": 116, "timestamp": "2026-03-12T18:30:54-04:00", "subject": "fix: quote allowed-tools and argument-hint values in 34 skills"}
 {"replay": 117, "timestamp": "2026-03-12T18:31:01-04:00", "subject": "fix: add full frontmatter schema to 7 minimal skills"}
 {"replay": 118, "timestamp": "2026-03-12T18:31:11-04:00", "subject": "refactor: remove stale docs/skills, archive migration scripts"}
+{"replay": 119, "timestamp": "2026-03-12T18:31:20-04:00", "subject": "refactor: trim CURRENT-STATE.md redundant content"}
