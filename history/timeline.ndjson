@@ -100,3 +100,4 @@
 {"replay": 100, "timestamp": "2026-03-11T19:32:28-04:00", "subject": "Merge pull request #10 from luvisaisa/feat/sprint-system"}
 {"replay": 101, "timestamp": "2026-03-11T19:32:44-04:00", "subject": "Merge pull request #11 from luvisaisa/docs/living-docs-sync"}
 {"replay": 102, "timestamp": "2026-03-11T19:32:58-04:00", "subject": "Merge pull request #12 from luvisaisa/docs/contributor-guides"}
+{"replay": 103, "timestamp": "2026-03-11T20:06:05-04:00", "subject": "feat: cross-tool accessibility — skills/commands symlinks, SKILL-TOC, COMMAND-TOC, docs consolidation"}
