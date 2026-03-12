@@ -104,3 +104,4 @@
 {"replay": 104, "timestamp": "2026-03-11T20:18:21-04:00", "subject": "docs: sprint sync v3.2.0 + v3.3.0 — sprint reports, version bumps"}
 {"replay": 105, "timestamp": "2026-03-11T20:27:09-04:00", "subject": "Merge pull request #13 from luvisaisa/docs/sprint-sync-v3.3"}
 {"replay": 106, "timestamp": "2026-03-11T20:41:05-04:00", "subject": "feat: add claude-commands Copilot CLI extension + fix COMMAND-README"}
+{"replay": 107, "timestamp": "2026-03-11T20:42:32-04:00", "subject": "Merge pull request #14 from luvisaisa/feat/claude-commands-extension"}
