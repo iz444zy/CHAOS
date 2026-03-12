@@ -114,3 +114,4 @@
 {"replay": 114, "timestamp": "2026-03-11T23:52:54-04:00", "subject": "Merge pull request #17 from luvisaisa/feat/commands-to-skills-migration"}
 {"replay": 115, "timestamp": "2026-03-12T18:30:40-04:00", "subject": "fix: resolve 13 skill YAML frontmatter parse errors"}
 {"replay": 116, "timestamp": "2026-03-12T18:30:54-04:00", "subject": "fix: quote allowed-tools and argument-hint values in 34 skills"}
+{"replay": 117, "timestamp": "2026-03-12T18:31:01-04:00", "subject": "fix: add full frontmatter schema to 7 minimal skills"}
