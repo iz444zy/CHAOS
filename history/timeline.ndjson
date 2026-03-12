@@ -121,3 +121,4 @@
 {"replay": 121, "timestamp": "2026-03-12T18:31:36-04:00", "subject": "docs: sprint sync v3.4.0 — update counts and living docs"}
 {"replay": 122, "timestamp": "2026-03-12T19:02:10-04:00", "subject": "Merge pull request #18 from luvisaisa/fix/yaml-org-cleanup"}
 {"replay": 123, "timestamp": "2026-03-12T19:20:08-04:00", "subject": "feat: add webapp installer core, API, and UI"}
+{"replay": 124, "timestamp": "2026-03-12T19:20:08-04:00", "subject": "feat: add 'cw setup' CLI command to launch installer webapp"}
