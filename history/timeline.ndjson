@@ -107,3 +107,4 @@
 {"replay": 107, "timestamp": "2026-03-11T20:42:32-04:00", "subject": "Merge pull request #14 from luvisaisa/feat/claude-commands-extension"}
 {"replay": 108, "timestamp": "2026-03-11T22:14:43-04:00", "subject": "feat: agent & command refactor — agents, hooks, enriched skills"}
 {"replay": 109, "timestamp": "2026-03-11T22:21:31-04:00", "subject": "docs: add context gathering protocol and agent baseline to CLAUDE.md"}
+{"replay": 110, "timestamp": "2026-03-11T22:26:17-04:00", "subject": "docs: add agent script suite and test coverage tasks to TODO.md"}
