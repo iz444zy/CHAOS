@@ -159,3 +159,4 @@
 {"replay": 159, "timestamp": "2026-03-13T05:05:49-04:00", "subject": "docs: sprint sync — docs reorganization (v3.6.1)"}
 {"replay": 160, "timestamp": "2026-03-13T05:06:55-04:00", "subject": "feat: add git monitor daemon for continuous test coverage automation"}
 {"replay": 161, "timestamp": "2026-03-13T05:42:17-04:00", "subject": "feat: implement CHAOS Engine database layer"}
+{"replay": 162, "timestamp": "2026-03-13T06:01:25-04:00", "subject": "fix(security): patch SQL injection, harden bus and config"}
