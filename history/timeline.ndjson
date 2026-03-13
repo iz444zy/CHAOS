@@ -184,3 +184,4 @@
 {"replay": 184, "timestamp": "2026-03-13T17:18:15-04:00", "subject": "docs: sprint sync v3.6.2 — state alignment, CHAOS Engine inventory, test counts"}
 {"replay": 185, "timestamp": "2026-03-14T16:36:44-04:00", "subject": "docs: merge origin/main into docs/update — resolve sprint sync conflicts"}
 {"replay": 186, "timestamp": "2026-03-14T16:48:52-04:00", "subject": "Merge pull request #40 from luvisaisa/docs/update"}
+{"replay": 187, "timestamp": "2026-03-13T00:06:44-04:00", "subject": "feat: add git worktree management — bash script + cw CLI command"}
