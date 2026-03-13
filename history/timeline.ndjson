@@ -130,3 +130,4 @@
 {"replay": 130, "timestamp": "2026-03-12T20:00:09-04:00", "subject": "Merge pull request #20 from luvisaisa/feat/webapp-installer"}
 {"replay": 131, "timestamp": "2026-03-12T20:05:17-04:00", "subject": "fix: use Optional[] for Python 3.9 compat in Typer signatures"}
 {"replay": 132, "timestamp": "2026-03-12T20:05:21-04:00", "subject": "chore: ignore UP045 ruff rule, fix line length in test"}
+{"replay": 133, "timestamp": "2026-03-12T20:12:37-04:00", "subject": "Merge pull request #21 from luvisaisa/fix/py39-type-hints"}
