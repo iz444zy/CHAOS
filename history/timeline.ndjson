@@ -182,3 +182,4 @@
 {"replay": 182, "timestamp": "2026-03-13T17:06:05-04:00", "subject": "plan: merge faq-agent, git-manager-agent, and token-benchmarking planning docs"}
 {"replay": 183, "timestamp": "2026-03-13T17:06:38-04:00", "subject": "Merge pull request #39 from luvisaisa/plan/merge-planning-docs"}
 {"replay": 184, "timestamp": "2026-03-13T17:18:15-04:00", "subject": "docs: sprint sync v3.6.2 — state alignment, CHAOS Engine inventory, test counts"}
+{"replay": 185, "timestamp": "2026-03-14T16:36:44-04:00", "subject": "docs: merge origin/main into docs/update — resolve sprint sync conflicts"}
