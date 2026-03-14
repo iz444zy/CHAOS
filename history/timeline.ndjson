@@ -192,3 +192,4 @@
 {"replay": 192, "timestamp": "2026-03-14T17:27:25-04:00", "subject": "Merge pull request #43 from luvisaisa/feat/worktree-sync"}
 {"replay": 193, "timestamp": "2026-03-14T17:32:03-04:00", "subject": "fix: worktree sync uses merge --ff-only instead of rebase"}
 {"replay": 194, "timestamp": "2026-03-14T17:36:26-04:00", "subject": "feat: separate sync (merge) and rebase commands for worktree management"}
+{"replay": 195, "timestamp": "2026-03-14T17:43:41-04:00", "subject": "Potential fix for pull request finding"}
