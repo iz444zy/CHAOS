@@ -215,3 +215,4 @@
 {"replay": 215, "timestamp": "2026-03-23T03:37:23-04:00", "subject": "fix: repair broken docs/user/ cross-references across 19 agent files and CLAUDE.md"}
 {"replay": 216, "timestamp": "2026-03-23T03:38:06-04:00", "subject": "chore: unify all version sources to 4.0.0"}
 {"replay": 217, "timestamp": "2026-03-23T03:39:08-04:00", "subject": "refactor: flatten archive/archive/ into archive/"}
+{"replay": 218, "timestamp": "2026-03-23T03:40:32-04:00", "subject": "docs: update TODO.md — mark P4a, P5 tasks complete"}
