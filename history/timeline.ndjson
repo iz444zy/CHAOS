@@ -212,3 +212,4 @@
 {"replay": 212, "timestamp": "2026-03-23T03:13:17-04:00", "subject": "docs: promote ARCHITECTURE-v4-DRAFT to official ARCHITECTURE.md v4.0.0"}
 {"replay": 213, "timestamp": "2026-03-23T03:26:48-04:00", "subject": "docs: rewrite living docs for v4, create refactor phased plans"}
 {"replay": 214, "timestamp": "2026-03-23T03:34:55-04:00", "subject": "docs: update README, INSTALL, TABLE-OF-CONTENTS for v4.0.0"}
+{"replay": 215, "timestamp": "2026-03-23T03:37:23-04:00", "subject": "fix: repair broken docs/user/ cross-references across 19 agent files and CLAUDE.md"}
