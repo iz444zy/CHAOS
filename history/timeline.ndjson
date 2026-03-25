@@ -224,3 +224,4 @@
 {"replay": 224, "timestamp": "2026-03-25T16:17:57-04:00", "subject": "Update CONTRIBUTING.md"}
 {"replay": 225, "timestamp": "2026-03-25T16:18:08-04:00", "subject": "Update scripts/vba/README.md"}
 {"replay": 226, "timestamp": "2026-03-25T20:19:25Z", "subject": "Initial plan"}
+{"replay": 227, "timestamp": "2026-03-25T20:21:21Z", "subject": "docs: update P6 plan — remove claude_setup.py, claude-setup.spec, native/ from target root structure"}
