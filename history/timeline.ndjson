@@ -219,3 +219,4 @@
 {"replay": 219, "timestamp": "2026-03-23T04:00:44-04:00", "subject": "docs: complete remaining P1-P7 items — DEV-LOG, SPRINT-REPORT, CONTRIBUTING, TOCs, cleanup"}
 {"replay": 220, "timestamp": "2026-03-25T12:04:52-04:00", "subject": "fix: QA sweep — broken links, stale paths, TOC accuracy, INSTALL setup sections"}
 {"replay": 221, "timestamp": "2026-03-25T12:13:20-04:00", "subject": "fix: resolve 3 low-severity audit findings"}
+{"replay": 222, "timestamp": "2026-03-25T12:44:51-04:00", "subject": "refactor!: remove legacy GUI, TUI, and API backend code"}
