@@ -217,3 +217,4 @@
 {"replay": 217, "timestamp": "2026-03-23T03:39:08-04:00", "subject": "refactor: flatten archive/archive/ into archive/"}
 {"replay": 218, "timestamp": "2026-03-23T03:40:32-04:00", "subject": "docs: update TODO.md — mark P4a, P5 tasks complete"}
 {"replay": 219, "timestamp": "2026-03-23T04:00:44-04:00", "subject": "docs: complete remaining P1-P7 items — DEV-LOG, SPRINT-REPORT, CONTRIBUTING, TOCs, cleanup"}
+{"replay": 220, "timestamp": "2026-03-25T12:04:52-04:00", "subject": "fix: QA sweep — broken links, stale paths, TOC accuracy, INSTALL setup sections"}
