@@ -220,3 +220,4 @@
 {"replay": 220, "timestamp": "2026-03-25T12:04:52-04:00", "subject": "fix: QA sweep — broken links, stale paths, TOC accuracy, INSTALL setup sections"}
 {"replay": 221, "timestamp": "2026-03-25T12:13:20-04:00", "subject": "fix: resolve 3 low-severity audit findings"}
 {"replay": 222, "timestamp": "2026-03-25T12:44:51-04:00", "subject": "refactor!: remove legacy GUI, TUI, and API backend code"}
+{"replay": 223, "timestamp": "2026-03-25T16:17:35-04:00", "subject": "Update dev-doc/main/SKILL-TOC.md"}
