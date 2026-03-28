@@ -236,3 +236,4 @@
 {"replay": 236, "timestamp": "2026-03-28T05:35:46-04:00", "subject": "fix: resolve 11 audit findings — version, permissions, extension security, READMEs"}
 {"replay": 237, "timestamp": "2026-03-28T05:38:26-04:00", "subject": "Merge pull request #53 from luvisaisa/audit-fixes"}
 {"replay": 238, "timestamp": "2026-03-28T06:14:18-04:00", "subject": "fix(agents): correct frontmatter fields and model IDs in all 31 agent files"}
+{"replay": 239, "timestamp": "2026-03-28T06:27:36-04:00", "subject": "feat(agents): add tools frontmatter and MCP integration notes to all 31 agents"}
