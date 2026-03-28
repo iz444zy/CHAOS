@@ -244,3 +244,4 @@
 {"replay": 244, "timestamp": "2026-03-28T09:00:26-04:00", "subject": "docs: add agent-to-script requirements matrix"}
 {"replay": 245, "timestamp": "2026-03-28T09:03:21-04:00", "subject": "Update MASTER-RESEARCH-REPORT.md"}
 {"replay": 246, "timestamp": "2026-03-28T09:04:38-04:00", "subject": "Update AGENT-SCRIPT-REQUIREMENTS.md"}
+{"replay": 247, "timestamp": "2026-03-28T09:05:25-04:00", "subject": "Merge pull request #55 from luvisaisa/docs/agent-skill-command-research"}
