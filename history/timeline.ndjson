@@ -239,3 +239,4 @@
 {"replay": 239, "timestamp": "2026-03-28T06:27:36-04:00", "subject": "feat(agents): add tools frontmatter and MCP integration notes to all 31 agents"}
 {"replay": 240, "timestamp": "2026-03-28T06:35:11-04:00", "subject": "docs(roadmap): rewrite milestones with accurate status and remaining work"}
 {"replay": 241, "timestamp": "2026-03-28T07:33:53-04:00", "subject": "Merge pull request #54 from luvisaisa/audit-fixes"}
+{"replay": 242, "timestamp": "2026-03-28T09:00:04-04:00", "subject": "chore: archive completed refactor planning phases"}
