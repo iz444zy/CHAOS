@@ -231,3 +231,4 @@
 {"replay": 231, "timestamp": "2026-03-28T03:53:17-04:00", "subject": "research: YC application"}
 {"replay": 232, "timestamp": "2026-03-28T04:43:00-04:00", "subject": "fix: unify .claude and .github skills/agents for both CLIs"}
 {"replay": 233, "timestamp": "2026-03-28T04:43:53-04:00", "subject": "Merge pull request #51 from luvisaisa/audit-3.28.26"}
+{"replay": 234, "timestamp": "2026-03-28T05:16:08-04:00", "subject": "docs: project audit report & sprint sync — health 6.8/10, 13 findings"}
