@@ -240,3 +240,4 @@
 {"replay": 240, "timestamp": "2026-03-28T06:35:11-04:00", "subject": "docs(roadmap): rewrite milestones with accurate status and remaining work"}
 {"replay": 241, "timestamp": "2026-03-28T07:33:53-04:00", "subject": "Merge pull request #54 from luvisaisa/audit-fixes"}
 {"replay": 242, "timestamp": "2026-03-28T09:00:04-04:00", "subject": "chore: archive completed refactor planning phases"}
+{"replay": 243, "timestamp": "2026-03-28T09:00:16-04:00", "subject": "docs: add master research report for agent/skill/command refactor"}
