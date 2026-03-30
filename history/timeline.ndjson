@@ -262,3 +262,4 @@
 {"replay": 262, "timestamp": "2026-03-29T21:39:31-04:00", "subject": "feat(agents): add research-agent for technology evaluation and prior art"}
 {"replay": 263, "timestamp": "2026-03-30T17:44:32-04:00", "subject": "refactor(audit): overhaul /audit — retire project-audit agent, enrich skill + command"}
 {"replay": 264, "timestamp": "2026-03-30T19:29:15-04:00", "subject": "refactor: overhaul commands, consolidate TOCs, add analyze/cleanup/dev-log-generate"}
+{"replay": 265, "timestamp": "2026-03-30T19:32:15-04:00", "subject": "Merge pull request #58 from luvisaisa/agent-QA"}
