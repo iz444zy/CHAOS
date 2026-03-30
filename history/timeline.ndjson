@@ -255,3 +255,4 @@
 {"replay": 255, "timestamp": "2026-03-28T17:22:58-04:00", "subject": "Merge pull request #56 from luvisaisa/docs/cross-clone-pm-daemon"}
 {"replay": 256, "timestamp": "2026-03-29T15:50:37-04:00", "subject": "fix: convert .github/agents symlinks to regular files"}
 {"replay": 257, "timestamp": "2026-03-29T20:25:49-04:00", "subject": "refactor: deduplicate agent boilerplate, centralize git/worktree protocols in CLAUDE.md"}
+{"replay": 258, "timestamp": "2026-03-29T20:31:32-04:00", "subject": "refactor(brainstorm-agent): add keyword extrapolation workflow and interactive mode"}
