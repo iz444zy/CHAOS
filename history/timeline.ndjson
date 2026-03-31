@@ -265,3 +265,4 @@
 {"replay": 265, "timestamp": "2026-03-30T19:32:15-04:00", "subject": "Merge pull request #58 from luvisaisa/agent-QA"}
 {"replay": 266, "timestamp": "2026-03-30T19:44:34-04:00", "subject": "chore: project cleanup — deduplicate files, fix links, archive legacy phases"}
 {"replay": 267, "timestamp": "2026-03-30T20:17:41-04:00", "subject": "docs: add COMPONENT-WEB.md — full architecture map, archive legacy UI"}
+{"replay": 268, "timestamp": "2026-03-30T22:00:47-04:00", "subject": "docs: add process report and whiteboard layout guide"}
