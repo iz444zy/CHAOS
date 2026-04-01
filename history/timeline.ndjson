@@ -270,3 +270,4 @@
 {"replay": 270, "timestamp": "2026-04-01T15:40:39-04:00", "subject": "Merge pull request #59 from luvisaisa/chore/skills-consolidation"}
 {"replay": 271, "timestamp": "2026-04-01T15:47:50-04:00", "subject": "fix(worktree): auto-detect default branch, improve create and status"}
 {"replay": 272, "timestamp": "2026-04-01T15:49:42-04:00", "subject": "Merge pull request #60 from luvisaisa/fix/worktree-default-branch"}
+{"replay": 273, "timestamp": "2026-04-01T17:34:58-04:00", "subject": "refactor: integrate ecosystem research into 13 language/domain agents"}
