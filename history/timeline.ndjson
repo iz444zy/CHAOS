@@ -278,3 +278,4 @@
 {"replay": 278, "timestamp": "2026-04-01T19:38:29-04:00", "subject": "feat: add P0 quality scripts — coverage-check.py and security-scan.py"}
 {"replay": 279, "timestamp": "2026-04-01T19:38:37-04:00", "subject": "feat: add P0 generator scripts — toc-generate.py and devlog-generate.py"}
 {"replay": 280, "timestamp": "2026-04-01T19:38:44-04:00", "subject": "docs: create CODEBASE-FAQ.md for docs-agent Q&A tier 1"}
+{"replay": 281, "timestamp": "2026-04-01T19:40:56-04:00", "subject": "fix: add output format and autonomy sections to 13 agent skills"}
