@@ -268,3 +268,4 @@
 {"replay": 268, "timestamp": "2026-03-30T22:00:47-04:00", "subject": "docs: add process report and whiteboard layout guide"}
 {"replay": 269, "timestamp": "2026-03-30T22:09:56-04:00", "subject": "refactor: consolidate commands into unified skills system"}
 {"replay": 270, "timestamp": "2026-04-01T15:40:39-04:00", "subject": "Merge pull request #59 from luvisaisa/chore/skills-consolidation"}
+{"replay": 271, "timestamp": "2026-04-01T15:47:50-04:00", "subject": "fix(worktree): auto-detect default branch, improve create and status"}
