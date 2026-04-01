@@ -275,3 +275,4 @@
 {"replay": 275, "timestamp": "2026-04-01T17:49:31-04:00", "subject": "fix(git): detect default branch dynamically in pr-create"}
 {"replay": 276, "timestamp": "2026-04-01T17:50:29-04:00", "subject": "Merge pull request #61 from luvisaisa/refactor/language-agents-ecosystem"}
 {"replay": 277, "timestamp": "2026-04-01T19:38:20-04:00", "subject": "feat: add scripts-agent, platform.sh lib, and updated research report"}
+{"replay": 278, "timestamp": "2026-04-01T19:38:29-04:00", "subject": "feat: add P0 quality scripts — coverage-check.py and security-scan.py"}
