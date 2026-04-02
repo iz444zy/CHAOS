@@ -284,3 +284,4 @@
 {"replay": 284, "timestamp": "2026-04-01T20:17:32-04:00", "subject": "feat(scripts): add P2 engine bridge scripts"}
 {"replay": 285, "timestamp": "2026-04-01T20:17:32-04:00", "subject": "feat(scripts): add metrics-collector diagnostic script"}
 {"replay": 286, "timestamp": "2026-04-01T20:17:32-04:00", "subject": "feat(agents): create ui-ux-agent SKILL.md"}
+{"replay": 287, "timestamp": "2026-04-01T20:17:32-04:00", "subject": "feat(agents): rewrite docs-agent skill (Phase A)"}
