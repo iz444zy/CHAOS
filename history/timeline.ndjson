@@ -285,3 +285,4 @@
 {"replay": 285, "timestamp": "2026-04-01T20:17:32-04:00", "subject": "feat(scripts): add metrics-collector diagnostic script"}
 {"replay": 286, "timestamp": "2026-04-01T20:17:32-04:00", "subject": "feat(agents): create ui-ux-agent SKILL.md"}
 {"replay": 287, "timestamp": "2026-04-01T20:17:32-04:00", "subject": "feat(agents): rewrite docs-agent skill (Phase A)"}
+{"replay": 288, "timestamp": "2026-04-01T21:29:34-04:00", "subject": "docs: sprint sync — update all living docs for v4.0.3 scripts & agent compliance"}
