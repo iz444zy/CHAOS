@@ -281,3 +281,4 @@
 {"replay": 281, "timestamp": "2026-04-01T19:40:56-04:00", "subject": "fix: add output format and autonomy sections to 13 agent skills"}
 {"replay": 282, "timestamp": "2026-04-01T19:45:11-04:00", "subject": "feat: add lint-staged.py — run linters only on git-staged files"}
 {"replay": 283, "timestamp": "2026-04-01T19:45:21-04:00", "subject": "feat: add P1 diagnostic scripts — agent-health, test-report, dependency-audit"}
+{"replay": 284, "timestamp": "2026-04-01T20:17:32-04:00", "subject": "feat(scripts): add P2 engine bridge scripts"}
