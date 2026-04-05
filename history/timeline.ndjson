@@ -299,3 +299,4 @@
 {"replay": 299, "timestamp": "2026-04-05T03:09:44-04:00", "subject": "feat(mcp): harden server with input validation, error handling, and tests"}
 {"replay": 300, "timestamp": "2026-04-05T03:23:41-04:00", "subject": "feat(mcp): wire engine database layer into MCP server"}
 {"replay": 301, "timestamp": "2026-04-05T03:39:29-04:00", "subject": "chore: upgrade Python requirement to 3.14"}
+{"replay": 302, "timestamp": "2026-04-05T03:43:32-04:00", "subject": "fix: repair broken markdown links and context_store test assertions"}
