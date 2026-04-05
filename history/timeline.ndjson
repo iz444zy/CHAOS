@@ -290,3 +290,4 @@
 {"replay": 290, "timestamp": "2026-04-01T22:31:21-04:00", "subject": "Merge pull request #62 from luvisaisa/feat/agent-QA-v2"}
 {"replay": 291, "timestamp": "2026-04-04T23:39:56-04:00", "subject": "chore: cleanup — fix broken links, sync agent/skill counts, remove dupe dir"}
 {"replay": 292, "timestamp": "2026-04-05T00:00:37-04:00", "subject": "fix: resolve stale tests, mypy errors, and format codebase"}
+{"replay": 293, "timestamp": "2026-04-05T00:50:04-04:00", "subject": "Merge pull request #63 from luvisaisa/chore/cleanup-2026-04-05"}
