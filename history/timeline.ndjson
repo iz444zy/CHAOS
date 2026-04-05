@@ -302,3 +302,4 @@
 {"replay": 302, "timestamp": "2026-04-05T03:43:32-04:00", "subject": "fix: repair broken markdown links and context_store test assertions"}
 {"replay": 303, "timestamp": "2026-04-05T04:41:41-04:00", "subject": "feat(mcp): fix bugs, add 9 engine tools, build ingestion pipeline"}
 {"replay": 304, "timestamp": "2026-04-05T04:44:36-04:00", "subject": "Merge pull request #68 from luvisaisa/feat/mcp-db-refinement"}
+{"replay": 305, "timestamp": "2026-04-05T04:47:31-04:00", "subject": "chore: gitignore uv.lock"}
