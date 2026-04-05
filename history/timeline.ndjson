@@ -304,3 +304,4 @@
 {"replay": 304, "timestamp": "2026-04-05T04:44:36-04:00", "subject": "Merge pull request #68 from luvisaisa/feat/mcp-db-refinement"}
 {"replay": 305, "timestamp": "2026-04-05T04:47:31-04:00", "subject": "chore: gitignore uv.lock"}
 {"replay": 306, "timestamp": "2026-04-05T04:49:40-04:00", "subject": "fix(mcp): pass correct kwarg to recover_stale_tasks"}
+{"replay": 307, "timestamp": "2026-04-05T05:09:51-04:00", "subject": "feat(mcp): add engine_context_list and engine_context_list_keys browse tools"}
