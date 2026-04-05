@@ -294,3 +294,4 @@
 {"replay": 294, "timestamp": "2026-04-05T01:23:39-04:00", "subject": "refactor(docs-agent): consolidate to single source of truth, delete faq-agent"}
 {"replay": 295, "timestamp": "2026-04-05T01:52:24-04:00", "subject": "Merge pull request #64 from luvisaisa/feat/overhaul-docs-pm-agents"}
 {"replay": 296, "timestamp": "2026-04-05T02:50:16-04:00", "subject": "feat(engine): add database seed scripts and fix context_store GUC"}
+{"replay": 297, "timestamp": "2026-04-05T02:50:27-04:00", "subject": "docs: sprint sync — database seed scripts v4.0.4"}
