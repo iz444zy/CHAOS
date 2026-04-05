@@ -288,3 +288,4 @@
 {"replay": 288, "timestamp": "2026-04-01T21:29:34-04:00", "subject": "docs: sprint sync — update all living docs for v4.0.3 scripts & agent compliance"}
 {"replay": 289, "timestamp": "2026-04-02T02:16:20Z", "subject": "fix: apply all PR review feedback (16 issues across 9 files)"}
 {"replay": 290, "timestamp": "2026-04-01T22:31:21-04:00", "subject": "Merge pull request #62 from luvisaisa/feat/agent-QA-v2"}
+{"replay": 291, "timestamp": "2026-04-04T23:39:56-04:00", "subject": "chore: cleanup — fix broken links, sync agent/skill counts, remove dupe dir"}
