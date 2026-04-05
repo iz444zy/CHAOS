@@ -296,3 +296,4 @@
 {"replay": 296, "timestamp": "2026-04-05T02:50:16-04:00", "subject": "feat(engine): add database seed scripts and fix context_store GUC"}
 {"replay": 297, "timestamp": "2026-04-05T02:50:27-04:00", "subject": "docs: sprint sync — database seed scripts v4.0.4"}
 {"replay": 298, "timestamp": "2026-04-05T02:51:48-04:00", "subject": "Merge pull request #65 from luvisaisa/feat/overhaul-docs-pm-agents"}
+{"replay": 299, "timestamp": "2026-04-05T03:09:44-04:00", "subject": "feat(mcp): harden server with input validation, error handling, and tests"}
