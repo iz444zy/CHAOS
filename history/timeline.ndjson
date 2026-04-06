@@ -321,3 +321,4 @@
 {"replay": 321, "timestamp": "2026-04-05T20:44:30-04:00", "subject": "test: add AnalyticsStore + MCP analytics tool tests (119 cases)"}
 {"replay": 322, "timestamp": "2026-04-05T20:49:52-04:00", "subject": "docs: sprint sync — token analytics v4.1.1"}
 {"replay": 323, "timestamp": "2026-04-05T20:56:20-04:00", "subject": "Merge pull request #71 from luvisaisa/feat/token-analytics"}
+{"replay": 324, "timestamp": "2026-04-05T21:51:14-04:00", "subject": "feat: add MCP discovery tools, expand context DB coverage"}
