@@ -341,3 +341,4 @@
 {"replay": 341, "timestamp": "2026-04-06T21:09:12-04:00", "subject": "Merge audit/project-health-2026-04-06: full project health audit"}
 {"replay": 342, "timestamp": "2026-04-06T21:09:19-04:00", "subject": "Merge fix/aud27-aud28-security-types: remove shell=True + fix 6 mypy errors"}
 {"replay": 343, "timestamp": "2026-04-06T21:09:25-04:00", "subject": "Merge fix/aud29-test-failures: fix 11 failing tests + Windows session hang (AUD26/AUD29)"}
+{"replay": 344, "timestamp": "2026-04-06T21:09:31-04:00", "subject": "Merge fix/cq1-scripts-logging: replace ~73 print() with logging in scripts/"}
