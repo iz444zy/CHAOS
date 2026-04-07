@@ -334,3 +334,4 @@
 {"replay": 334, "timestamp": "2026-04-06T19:16:30-04:00", "subject": "docs: sync stale counts across non-living docs"}
 {"replay": 335, "timestamp": "2026-04-06T19:16:53-04:00", "subject": "Merge pull request #74 from luvisaisa/chore/cleanup-analyze-findings"}
 {"replay": 336, "timestamp": "2026-04-06T19:43:41-04:00", "subject": "audit: full project health audit 2026-04-06 — health 7.5/10"}
+{"replay": 337, "timestamp": "2026-04-06T20:41:48-04:00", "subject": "fix: remove shell=True in harness.py and fix 6 mypy type errors"}
