@@ -398,3 +398,4 @@
 {"replay": 398, "timestamp": "2026-04-07T17:44:06-04:00", "subject": "feat(mcp): add Docker support for streamable-http MCP server"}
 {"replay": 399, "timestamp": "2026-04-07T17:46:07-04:00", "subject": "feat(sync): add conflict_strategy with -X ours auto-resolve"}
 {"replay": 400, "timestamp": "2026-04-07T18:02:53-04:00", "subject": "auto-merge (ours): CHAOS-workspace/chore/optimization-phase1-20260407"}
+{"replay": 401, "timestamp": "2026-04-07T18:02:55-04:00", "subject": "auto-merge (ours): claude-workflow/feat/dashboard-phase1-hub-tools"}
