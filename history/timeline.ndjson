@@ -391,3 +391,4 @@
 {"replay": 391, "timestamp": "2026-04-07T17:18:53-04:00", "subject": "feat(dashboard): add MCP hub tools and live sync awareness"}
 {"replay": 392, "timestamp": "2026-04-07T17:35:52-04:00", "subject": "feat(sync): local clone merge + remote poll + ntfy notifications"}
 {"replay": 393, "timestamp": "2026-04-07T17:35:53-04:00", "subject": "chore: optimization phase 4 — analysis reports and cleanup"}
+{"replay": 394, "timestamp": "2026-04-07T17:35:53-04:00", "subject": "chore: optimization phase 4 — analysis reports and cleanup"}
