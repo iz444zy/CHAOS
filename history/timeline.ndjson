@@ -373,3 +373,4 @@
 {"replay": 373, "timestamp": "2026-04-07T02:18:12-04:00", "subject": "docs: archive session logs for both active clones"}
 {"replay": 374, "timestamp": "2026-04-07T14:08:05-04:00", "subject": "chore(cleanup): full audit cleanup — fix 25+ stale doc values, archive dupes, fix lint"}
 {"replay": 375, "timestamp": "2026-04-07T14:08:05-04:00", "subject": "chore(cleanup): full audit cleanup — fix 25+ stale doc values, archive dupes, fix lint"}
+{"replay": 376, "timestamp": "2026-04-07T16:06:04-04:00", "subject": "feat(sync): add agent activity tracking across clones"}
