@@ -377,3 +377,4 @@
 {"replay": 377, "timestamp": "2026-04-07T16:08:39-04:00", "subject": "chore: optimization phase 1 — 6 quick wins"}
 {"replay": 378, "timestamp": "2026-04-07T16:08:39-04:00", "subject": "chore: optimization phase 1 — 6 quick wins"}
 {"replay": 379, "timestamp": "2026-04-07T16:16:13-04:00", "subject": "feat(mcp): add Docker container for MCP server"}
+{"replay": 380, "timestamp": "2026-04-07T16:22:53-04:00", "subject": "refactor(scripts): decompose build_project_workbook.py into workbook package"}
