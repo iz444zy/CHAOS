@@ -386,3 +386,4 @@
 {"replay": 386, "timestamp": "2026-04-07T16:31:09-04:00", "subject": "docs(sync): enable --integration by default in /sync skill"}
 {"replay": 387, "timestamp": "2026-04-07T16:36:06-04:00", "subject": "fix(sync): suppress console window flashing on Windows"}
 {"replay": 388, "timestamp": "2026-04-07T17:15:15-04:00", "subject": "chore: optimization phase 3 — deep optimization"}
+{"replay": 389, "timestamp": "2026-04-07T17:15:15-04:00", "subject": "chore: optimization phase 3 — deep optimization"}
