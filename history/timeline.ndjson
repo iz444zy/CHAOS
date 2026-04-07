@@ -387,3 +387,4 @@
 {"replay": 387, "timestamp": "2026-04-07T16:36:06-04:00", "subject": "fix(sync): suppress console window flashing on Windows"}
 {"replay": 388, "timestamp": "2026-04-07T17:15:15-04:00", "subject": "chore: optimization phase 3 — deep optimization"}
 {"replay": 389, "timestamp": "2026-04-07T17:15:15-04:00", "subject": "chore: optimization phase 3 — deep optimization"}
+{"replay": 390, "timestamp": "2026-04-07T17:18:53-04:00", "subject": "feat(dashboard): add MCP hub tools and live sync awareness"}
