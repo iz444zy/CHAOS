@@ -375,3 +375,4 @@
 {"replay": 375, "timestamp": "2026-04-07T14:08:05-04:00", "subject": "chore(cleanup): full audit cleanup — fix 25+ stale doc values, archive dupes, fix lint"}
 {"replay": 376, "timestamp": "2026-04-07T16:06:04-04:00", "subject": "feat(sync): add agent activity tracking across clones"}
 {"replay": 377, "timestamp": "2026-04-07T16:08:39-04:00", "subject": "chore: optimization phase 1 — 6 quick wins"}
+{"replay": 378, "timestamp": "2026-04-07T16:08:39-04:00", "subject": "chore: optimization phase 1 — 6 quick wins"}
