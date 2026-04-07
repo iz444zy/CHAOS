@@ -371,3 +371,4 @@
 {"replay": 371, "timestamp": "2026-04-07T02:09:28-04:00", "subject": "test: add comprehensive coverage tests across all modules"}
 {"replay": 372, "timestamp": "2026-04-07T02:11:31-04:00", "subject": "Merge branch 'test/coverage-100' of https://github.com/luvisaisa/claude-workflow"}
 {"replay": 373, "timestamp": "2026-04-07T02:18:12-04:00", "subject": "docs: archive session logs for both active clones"}
+{"replay": 374, "timestamp": "2026-04-07T14:08:05-04:00", "subject": "chore(cleanup): full audit cleanup — fix 25+ stale doc values, archive dupes, fix lint"}
