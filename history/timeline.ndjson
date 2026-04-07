@@ -356,3 +356,4 @@
 {"replay": 356, "timestamp": "2026-04-07T00:12:03-04:00", "subject": "feat(sync): add live file change tracking between clones"}
 {"replay": 357, "timestamp": "2026-04-07T00:15:57-04:00", "subject": "test(engine): add 204 tests for all engine services"}
 {"replay": 358, "timestamp": "2026-04-07T00:19:00-04:00", "subject": "fix(tests): fix save_config patch path, provider registry empty list, seed_utils assertion"}
+{"replay": 359, "timestamp": "2026-04-07T00:19:08-04:00", "subject": "test(api): add 102 tests for engine API routes"}
