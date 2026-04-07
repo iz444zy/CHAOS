@@ -379,3 +379,4 @@
 {"replay": 379, "timestamp": "2026-04-07T16:16:13-04:00", "subject": "feat(mcp): add Docker container for MCP server"}
 {"replay": 380, "timestamp": "2026-04-07T16:22:53-04:00", "subject": "refactor(scripts): decompose build_project_workbook.py into workbook package"}
 {"replay": 381, "timestamp": "2026-04-07T16:22:53-04:00", "subject": "refactor(scripts): decompose build_project_workbook.py into workbook package"}
+{"replay": 382, "timestamp": "2026-04-07T16:24:52-04:00", "subject": "feat(sync): add merge ingestor daemon for integration clone"}
