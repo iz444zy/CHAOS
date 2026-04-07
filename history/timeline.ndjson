@@ -336,3 +336,4 @@
 {"replay": 336, "timestamp": "2026-04-06T19:43:41-04:00", "subject": "audit: full project health audit 2026-04-06 — health 7.5/10"}
 {"replay": 337, "timestamp": "2026-04-06T20:41:48-04:00", "subject": "fix: remove shell=True in harness.py and fix 6 mypy type errors"}
 {"replay": 338, "timestamp": "2026-04-06T20:44:49-04:00", "subject": "refactor: replace print() with logging in scripts/ (CQ1)"}
+{"replay": 339, "timestamp": "2026-04-06T20:48:57-04:00", "subject": "fix: fix 11 failing tests across 6 test files"}
