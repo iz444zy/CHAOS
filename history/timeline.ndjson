@@ -366,3 +366,4 @@
 {"replay": 366, "timestamp": "2026-04-07T01:00:20-04:00", "subject": "docs: retro-futurism aesthetic + research integration for dashboard"}
 {"replay": 367, "timestamp": "2026-04-07T01:01:02-04:00", "subject": "test: add 251 tests for remaining coverage gaps"}
 {"replay": 368, "timestamp": "2026-04-07T01:10:51-04:00", "subject": "docs: full research integration + optimization specs for dashboard"}
+{"replay": 369, "timestamp": "2026-04-07T01:31:38-04:00", "subject": "feat(sync): add cross-clone significance alerts and mesh checker"}
