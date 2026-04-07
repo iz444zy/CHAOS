@@ -395,3 +395,4 @@
 {"replay": 395, "timestamp": "2026-04-07T17:41:04-04:00", "subject": "auto-merge: claude-workflow/feat/dashboard-phase1-hub-tools"}
 {"replay": 396, "timestamp": "2026-04-07T17:42:17-04:00", "subject": "feat(sync): auto-stash dirty tree before merge, safer conflict handling"}
 {"replay": 397, "timestamp": "2026-04-07T17:43:26-04:00", "subject": "Merge branch 'CHAOS-workspace/chore/optimization-phase1-20260407' into integration/live"}
+{"replay": 398, "timestamp": "2026-04-07T17:44:06-04:00", "subject": "feat(mcp): add Docker support for streamable-http MCP server"}
