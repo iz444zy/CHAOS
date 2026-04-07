@@ -381,3 +381,4 @@
 {"replay": 381, "timestamp": "2026-04-07T16:22:53-04:00", "subject": "refactor(scripts): decompose build_project_workbook.py into workbook package"}
 {"replay": 382, "timestamp": "2026-04-07T16:24:52-04:00", "subject": "feat(sync): add merge ingestor daemon for integration clone"}
 {"replay": 383, "timestamp": "2026-04-07T16:25:28-04:00", "subject": "chore: optimization phase 2 — structural improvements"}
+{"replay": 384, "timestamp": "2026-04-07T16:25:28-04:00", "subject": "chore: optimization phase 2 — structural improvements"}
