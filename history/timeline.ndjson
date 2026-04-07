@@ -376,3 +376,4 @@
 {"replay": 376, "timestamp": "2026-04-07T16:06:04-04:00", "subject": "feat(sync): add agent activity tracking across clones"}
 {"replay": 377, "timestamp": "2026-04-07T16:08:39-04:00", "subject": "chore: optimization phase 1 — 6 quick wins"}
 {"replay": 378, "timestamp": "2026-04-07T16:08:39-04:00", "subject": "chore: optimization phase 1 — 6 quick wins"}
+{"replay": 379, "timestamp": "2026-04-07T16:16:13-04:00", "subject": "feat(mcp): add Docker container for MCP server"}
