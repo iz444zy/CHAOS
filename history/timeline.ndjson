@@ -425,3 +425,4 @@
 {"replay": 425, "timestamp": "2026-04-08T15:28:40-04:00", "subject": "auto-merge: claude-workflow/test/coverage-75-target"}
 {"replay": 426, "timestamp": "2026-04-08T16:36:01-04:00", "subject": "Merge pull request #80 from luvisaisa/integration/live"}
 {"replay": 427, "timestamp": "2026-04-08T17:19:20-04:00", "subject": "docs: revise roadmap -- skip M1, target May 1st with Alpha/Beta/Gamma phases"}
+{"replay": 428, "timestamp": "2026-04-08T17:28:02-04:00", "subject": "docs: add multi-clone sprint schedule for May 1st ship target"}
