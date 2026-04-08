@@ -418,3 +418,4 @@
 {"replay": 418, "timestamp": "2026-04-08T12:37:01-04:00", "subject": "auto-merge: CHAOS-workspace/feature/ws4-quality-polish"}
 {"replay": 419, "timestamp": "2026-04-08T13:39:29-04:00", "subject": "docs: archive ARCHITECTURE-v4-DRAFT, update business plan with YC pitch and current stats"}
 {"replay": 420, "timestamp": "2026-04-08T14:48:33-04:00", "subject": "fix(docs): resolve PR #80 review — stats consistency, agent tool scopes, code correctness"}
+{"replay": 421, "timestamp": "2026-04-08T14:50:26-04:00", "subject": "fix(docs): resolve PR #80 minor review items — code fences, examples, correctness"}
