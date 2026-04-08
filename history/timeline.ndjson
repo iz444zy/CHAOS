@@ -403,3 +403,4 @@
 {"replay": 403, "timestamp": "2026-04-07T18:31:43-04:00", "subject": "fix(sync): resolve 4 merge ingestor bugs blocking hub integration"}
 {"replay": 404, "timestamp": "2026-04-08T00:39:45-04:00", "subject": "fix: address Copilot PR review feedback"}
 {"replay": 405, "timestamp": "2026-04-08T00:42:14-04:00", "subject": "Merge pull request #77 from luvisaisa/integration/live"}
+{"replay": 406, "timestamp": "2026-04-08T00:26:52-04:00", "subject": "feat(sync): add branch finalization to merge ingestor"}
