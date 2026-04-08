@@ -401,3 +401,4 @@
 {"replay": 401, "timestamp": "2026-04-07T18:02:55-04:00", "subject": "auto-merge (ours): claude-workflow/feat/dashboard-phase1-hub-tools"}
 {"replay": 402, "timestamp": "2026-04-07T18:31:02-04:00", "subject": "auto-merge: origin/docs/mcp-platform-expansion"}
 {"replay": 403, "timestamp": "2026-04-07T18:31:43-04:00", "subject": "fix(sync): resolve 4 merge ingestor bugs blocking hub integration"}
+{"replay": 404, "timestamp": "2026-04-08T00:39:45-04:00", "subject": "fix: address Copilot PR review feedback"}
