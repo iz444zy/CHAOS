@@ -439,3 +439,4 @@
 {"replay": 439, "timestamp": "2026-04-08T18:44:30-04:00", "subject": "feat(project-qa): add ff (fire-and-forget) execution mode"}
 {"replay": 440, "timestamp": "2026-04-08T18:46:37-04:00", "subject": "feat(project-qa): split analysis and execution into separate stages"}
 {"replay": 441, "timestamp": "2026-04-08T18:48:36-04:00", "subject": "feat(project-qa): add archive consolidation policy with legacy timeline"}
+{"replay": 442, "timestamp": "2026-04-08T18:51:54-04:00", "subject": "docs: add session report 2026-04-08 with full analytics and timeline"}
