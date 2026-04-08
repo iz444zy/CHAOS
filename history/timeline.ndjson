@@ -416,3 +416,4 @@
 {"replay": 416, "timestamp": "2026-04-08T11:15:43-04:00", "subject": "docs(plans): consolidate plans — archive 17 completed, create M1 distribution plan"}
 {"replay": 417, "timestamp": "2026-04-08T12:36:57-04:00", "subject": "docs(reference): fill 47 stubs, fix 13 agents, fix 7 skill refs"}
 {"replay": 418, "timestamp": "2026-04-08T12:37:01-04:00", "subject": "auto-merge: CHAOS-workspace/feature/ws4-quality-polish"}
+{"replay": 419, "timestamp": "2026-04-08T13:39:29-04:00", "subject": "docs: archive ARCHITECTURE-v4-DRAFT, update business plan with YC pitch and current stats"}
