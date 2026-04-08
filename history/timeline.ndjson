@@ -437,3 +437,4 @@
 {"replay": 437, "timestamp": "2026-04-08T18:36:13-04:00", "subject": "docs: address review findings — status enum, lifecycle, observability, stretch goals"}
 {"replay": 438, "timestamp": "2026-04-08T18:41:10-04:00", "subject": "feat: add /project-qa skill — holistic codebase QA with preference profiling"}
 {"replay": 439, "timestamp": "2026-04-08T18:44:30-04:00", "subject": "feat(project-qa): add ff (fire-and-forget) execution mode"}
+{"replay": 440, "timestamp": "2026-04-08T18:46:37-04:00", "subject": "feat(project-qa): split analysis and execution into separate stages"}
