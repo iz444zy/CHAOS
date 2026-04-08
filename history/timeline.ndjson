@@ -410,3 +410,4 @@
 {"replay": 410, "timestamp": "2026-04-08T01:28:20-04:00", "subject": "docs: sprint sync -- test fix sprint"}
 {"replay": 411, "timestamp": "2026-04-08T01:28:56-04:00", "subject": "auto-merge: claude-workflow/test/coverage-75-target"}
 {"replay": 412, "timestamp": "2026-04-08T09:35:33-04:00", "subject": "docs: add social media content essays — 4 topics, 13 files"}
+{"replay": 413, "timestamp": "2026-04-08T09:35:38-04:00", "subject": "auto-merge: CHAOS-workspace/docs/social-media-content"}
