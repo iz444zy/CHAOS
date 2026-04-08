@@ -438,3 +438,4 @@
 {"replay": 438, "timestamp": "2026-04-08T18:41:10-04:00", "subject": "feat: add /project-qa skill — holistic codebase QA with preference profiling"}
 {"replay": 439, "timestamp": "2026-04-08T18:44:30-04:00", "subject": "feat(project-qa): add ff (fire-and-forget) execution mode"}
 {"replay": 440, "timestamp": "2026-04-08T18:46:37-04:00", "subject": "feat(project-qa): split analysis and execution into separate stages"}
+{"replay": 441, "timestamp": "2026-04-08T18:48:36-04:00", "subject": "feat(project-qa): add archive consolidation policy with legacy timeline"}
