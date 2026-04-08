@@ -429,3 +429,4 @@
 {"replay": 429, "timestamp": "2026-04-08T17:43:52-04:00", "subject": "docs: reorganize documentation structure and eliminate loose files"}
 {"replay": 430, "timestamp": "2026-04-08T17:44:35-04:00", "subject": "auto-merge: CHAOS-workspace/docs/reorganize-documentation"}
 {"replay": 431, "timestamp": "2026-04-08T17:50:26-04:00", "subject": "docs: add 9 sprint implementation plans + archive superseded plans"}
+{"replay": 432, "timestamp": "2026-04-08T17:58:17-04:00", "subject": "auto-merge: claude-workflow/docs/roadmap-revision-may1 (resolve rename conflicts)"}
