@@ -454,3 +454,4 @@
 {"replay": 454, "timestamp": "2026-04-09T10:23:37-04:00", "subject": "fix(mcp): add type ignore for async session factory pattern"}
 {"replay": 455, "timestamp": "2026-04-09T10:23:50-04:00", "subject": "auto-merge: CHAOS-workspace/feature/mcp-server-hardening"}
 {"replay": 456, "timestamp": "2026-04-09T10:24:37-04:00", "subject": "feat: context DB wiring, practices schema, CLI backend, audit fixes (Week 1)"}
+{"replay": 457, "timestamp": "2026-04-09T10:24:39-04:00", "subject": "auto-merge: CHAOS-workspace/default"}
