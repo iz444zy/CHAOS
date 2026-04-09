@@ -447,3 +447,4 @@
 {"replay": 447, "timestamp": "2026-04-08T21:23:05-04:00", "subject": "fix: parameterize SQL query in state_sync.py (PR review)"}
 {"replay": 448, "timestamp": "2026-04-08T21:24:42-04:00", "subject": "Merge pull request #83 from luvisaisa/fix/project-qa-p0-p2"}
 {"replay": 449, "timestamp": "2026-04-09T10:18:30-04:00", "subject": "feat(mcp): add auth middleware, rate limiting, input validation, and production Docker config"}
+{"replay": 450, "timestamp": "2026-04-09T10:18:30-04:00", "subject": "feat(mcp): add auth middleware, rate limiting, input validation, and production Docker config"}
