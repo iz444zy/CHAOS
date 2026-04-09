@@ -449,3 +449,4 @@
 {"replay": 449, "timestamp": "2026-04-09T10:18:30-04:00", "subject": "feat(mcp): add auth middleware, rate limiting, input validation, and production Docker config"}
 {"replay": 450, "timestamp": "2026-04-09T10:18:30-04:00", "subject": "feat(mcp): add auth middleware, rate limiting, input validation, and production Docker config"}
 {"replay": 451, "timestamp": "2026-04-09T10:19:29-04:00", "subject": "auto-merge: CHAOS-workspace/feature/mcp-server-hardening"}
+{"replay": 452, "timestamp": "2026-04-09T10:21:00-04:00", "subject": "feat(web-ui): scaffold Next.js app with dashboard stubs and MCP WebSocket client"}
