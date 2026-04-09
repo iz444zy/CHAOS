@@ -462,3 +462,4 @@
 {"replay": 462, "timestamp": "2026-04-09T11:35:56-04:00", "subject": "auto-merge: claude-workflow/feat/copilot-review-instructions"}
 {"replay": 463, "timestamp": "2026-04-09T11:36:35-04:00", "subject": "fix: address PR #84 review — auth enforcement, timer leak, docker healthcheck, HTML nesting, docstrings"}
 {"replay": 464, "timestamp": "2026-04-09T12:12:42-04:00", "subject": "feat(review): add ReviewApplicator and security/testing instruction files"}
+{"replay": 465, "timestamp": "2026-04-09T12:12:52-04:00", "subject": "auto-merge: claude-workflow/feat/copilot-review-instructions"}
