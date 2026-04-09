@@ -443,3 +443,4 @@
 {"replay": 443, "timestamp": "2026-04-08T18:57:41-04:00", "subject": "feat: add scripts/save_session.py — full session export from Copilot CLI events"}
 {"replay": 444, "timestamp": "2026-04-08T21:10:40-04:00", "subject": "fix: project QA P0 — stale stats, deps, __all__, duplicate cleanup"}
 {"replay": 445, "timestamp": "2026-04-08T21:11:19-04:00", "subject": "refactor: consolidate archive into topic-based folders (P1)"}
+{"replay": 446, "timestamp": "2026-04-08T21:11:40-04:00", "subject": "refactor: organize scripts into domain subdirectories (P2)"}
