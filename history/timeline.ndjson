@@ -456,3 +456,4 @@
 {"replay": 456, "timestamp": "2026-04-09T10:24:37-04:00", "subject": "feat: context DB wiring, practices schema, CLI backend, audit fixes (Week 1)"}
 {"replay": 457, "timestamp": "2026-04-09T10:24:39-04:00", "subject": "auto-merge: CHAOS-workspace/default"}
 {"replay": 458, "timestamp": "2026-04-09T10:27:42-04:00", "subject": "Merge origin/feat/web-ui-scaffold into integration/live"}
+{"replay": 459, "timestamp": "2026-04-09T10:28:32-04:00", "subject": "Merge remote-tracking branch 'origin/master' into feat/mcp-server-hardening"}
