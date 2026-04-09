@@ -441,3 +441,4 @@
 {"replay": 441, "timestamp": "2026-04-08T18:48:36-04:00", "subject": "feat(project-qa): add archive consolidation policy with legacy timeline"}
 {"replay": 442, "timestamp": "2026-04-08T18:51:54-04:00", "subject": "docs: add session report 2026-04-08 with full analytics and timeline"}
 {"replay": 443, "timestamp": "2026-04-08T18:57:41-04:00", "subject": "feat: add scripts/save_session.py — full session export from Copilot CLI events"}
+{"replay": 444, "timestamp": "2026-04-08T21:10:40-04:00", "subject": "fix: project QA P0 — stale stats, deps, __all__, duplicate cleanup"}
