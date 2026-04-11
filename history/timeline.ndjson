@@ -467,3 +467,4 @@
 {"replay": 467, "timestamp": "2026-04-09T12:37:45-04:00", "subject": "Merge pull request #84 from luvisaisa/integration/live"}
 {"replay": 468, "timestamp": "2026-04-09T12:46:47-04:00", "subject": "feat: add TurboQuant-inspired vector quantization module"}
 {"replay": 469, "timestamp": "2026-04-09T12:53:03-04:00", "subject": "docs: add parallel clone assignments to QA plan"}
+{"replay": 470, "timestamp": "2026-04-11T18:50:26-04:00", "subject": "feat(installer): expand components, add living docs scaffolding, clone sync, and git identity config"}
