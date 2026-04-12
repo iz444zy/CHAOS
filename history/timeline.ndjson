@@ -535,3 +535,4 @@
 {"replay": 535, "timestamp": "2026-04-12T01:04:46-04:00", "subject": "chore(version): bump to 4.2.0, add version check script, Docker auth env"}
 {"replay": 536, "timestamp": "2026-04-12T01:05:00-04:00", "subject": "feat(praxis): B8 feedback loop, metrics, and 34 tests"}
 {"replay": 537, "timestamp": "2026-04-12T01:08:24-04:00", "subject": "test(subscription): add 53 unit tests for tier gate, auth, and version check"}
+{"replay": 538, "timestamp": "2026-04-12T01:08:41-04:00", "subject": "feat(context): B11 pre-built context.db builder and 10 tests"}
