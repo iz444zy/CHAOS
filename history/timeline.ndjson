@@ -537,3 +537,4 @@
 {"replay": 537, "timestamp": "2026-04-12T01:08:24-04:00", "subject": "test(subscription): add 53 unit tests for tier gate, auth, and version check"}
 {"replay": 538, "timestamp": "2026-04-12T01:08:41-04:00", "subject": "feat(context): B11 pre-built context.db builder and 10 tests"}
 {"replay": 539, "timestamp": "2026-04-12T01:09:48-04:00", "subject": "test(integration): add 11 subscription pipeline integration tests"}
+{"replay": 540, "timestamp": "2026-04-12T01:10:10-04:00", "subject": "feat(web-ui): add Context Visualization dashboard"}
