@@ -476,3 +476,4 @@
 {"replay": 476, "timestamp": "2026-04-11T20:50:26-04:00", "subject": "docs: refresh CURRENT-STATE.md stats, document praxis/, fix asyncio deprecation"}
 {"replay": 477, "timestamp": "2026-04-11T20:52:50-04:00", "subject": "fix(security): parameterize psycopg2 upsert and audit S608 SQL injection warnings"}
 {"replay": 478, "timestamp": "2026-04-11T20:54:32-04:00", "subject": "docs: fix broken documentation references across TOC, TODO, ROADMAP"}
+{"replay": 479, "timestamp": "2026-04-11T20:56:17-04:00", "subject": "docs: refine sprint schedule in light of QA phase"}
