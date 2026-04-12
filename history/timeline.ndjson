@@ -538,3 +538,4 @@
 {"replay": 538, "timestamp": "2026-04-12T01:08:41-04:00", "subject": "feat(context): B11 pre-built context.db builder and 10 tests"}
 {"replay": 539, "timestamp": "2026-04-12T01:09:48-04:00", "subject": "test(integration): add 11 subscription pipeline integration tests"}
 {"replay": 540, "timestamp": "2026-04-12T01:10:10-04:00", "subject": "feat(web-ui): add Context Visualization dashboard"}
+{"replay": 541, "timestamp": "2026-04-12T01:10:28-04:00", "subject": "feat(web-ui): add Event Timeline with Playback dashboard"}
