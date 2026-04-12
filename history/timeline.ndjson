@@ -545,3 +545,4 @@
 {"replay": 545, "timestamp": "2026-04-12T01:13:14-04:00", "subject": "docs(changelog): add 4.2.0 release notes, fix version test"}
 {"replay": 546, "timestamp": "2026-04-12T01:15:36-04:00", "subject": "test(web-ui): add tests for all 4 new dashboards (149 tests)"}
 {"replay": 547, "timestamp": "2026-04-12T01:15:46-04:00", "subject": "docs: update web-ui README and CHANGELOG for v4.2.0"}
+{"replay": 548, "timestamp": "2026-04-12T01:26:26-04:00", "subject": "test(integration): E2E pipeline smoke tests — 18 tests wiring dispatch, orchestration, praxis, context"}
