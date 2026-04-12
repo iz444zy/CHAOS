@@ -521,3 +521,4 @@
 {"replay": 521, "timestamp": "2026-04-11T22:04:49-04:00", "subject": "feat(web-ui): add PM decision review panel with workflows and goals"}
 {"replay": 522, "timestamp": "2026-04-11T22:04:59-04:00", "subject": "docs: add MCP client web app sprint plan"}
 {"replay": 523, "timestamp": "2026-04-11T22:05:01-04:00", "subject": "feat(D05): add dashboard polish with skeletons, error boundaries, connection status"}
+{"replay": 524, "timestamp": "2026-04-11T22:12:18-04:00", "subject": "feat(context): phase 6 - integration tests, fix pre-existing breakage"}
