@@ -470,3 +470,4 @@
 {"replay": 470, "timestamp": "2026-04-11T18:50:26-04:00", "subject": "feat(installer): expand components, add living docs scaffolding, clone sync, and git identity config"}
 {"replay": 471, "timestamp": "2026-04-11T18:52:14-04:00", "subject": "Merge pull request #86 from luvisaisa/integration/live"}
 {"replay": 472, "timestamp": "2026-04-11T18:52:25-04:00", "subject": "Merge pull request #87 from luvisaisa/feat/installer-enhancements"}
+{"replay": 473, "timestamp": "2026-04-11T20:33:53-04:00", "subject": "move token-analytics"}
