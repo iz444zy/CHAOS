@@ -518,3 +518,4 @@
 {"replay": 518, "timestamp": "2026-04-11T22:04:28-04:00", "subject": "feat(web-ui): add 17 domain hooks for agents, tasks, PM, context, events"}
 {"replay": 519, "timestamp": "2026-04-11T22:04:35-04:00", "subject": "feat(pm): phase 5 - dispatch and pipeline orchestration"}
 {"replay": 520, "timestamp": "2026-04-11T22:04:39-04:00", "subject": "feat(web-ui): add agent orchestration dashboard with live data"}
+{"replay": 521, "timestamp": "2026-04-11T22:04:49-04:00", "subject": "feat(web-ui): add PM decision review panel with workflows and goals"}
