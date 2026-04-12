@@ -548,3 +548,4 @@
 {"replay": 548, "timestamp": "2026-04-12T01:26:26-04:00", "subject": "test(integration): E2E pipeline smoke tests — 18 tests wiring dispatch, orchestration, praxis, context"}
 {"replay": 549, "timestamp": "2026-04-12T01:36:12-04:00", "subject": "test(quality): import health, schema consistency, cross-reference audit — 28 tests"}
 {"replay": 550, "timestamp": "2026-04-12T18:53:41-04:00", "subject": "feat(web-ui): add event timeline with playback controls (F08)"}
+{"replay": 551, "timestamp": "2026-04-12T18:53:52-04:00", "subject": "feat(web-ui): add security dashboard with OWASP LLM summary (F10)"}
