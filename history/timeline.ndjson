@@ -508,3 +508,4 @@
 {"replay": 508, "timestamp": "2026-04-11T21:48:47-04:00", "subject": "feat(mcp): integrate agent lifecycle and EventBus into server lifespan [phase-5]"}
 {"replay": 509, "timestamp": "2026-04-11T21:49:05-04:00", "subject": "feat(web-ui): add MCP type definitions and enhance MCPClient"}
 {"replay": 510, "timestamp": "2026-04-11T21:49:16-04:00", "subject": "feat(web-ui): add event stream provider and utility hooks"}
+{"replay": 511, "timestamp": "2026-04-11T21:49:17-04:00", "subject": "feat(praxis): phase 3 - daemon and pattern analysis layer"}
