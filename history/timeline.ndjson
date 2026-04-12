@@ -524,3 +524,4 @@
 {"replay": 524, "timestamp": "2026-04-11T22:12:18-04:00", "subject": "feat(context): phase 6 - integration tests, fix pre-existing breakage"}
 {"replay": 525, "timestamp": "2026-04-11T22:12:46-04:00", "subject": "feat(D06): add web-UI reference docs and integration tests"}
 {"replay": 526, "timestamp": "2026-04-11T22:17:14-04:00", "subject": "docs: update ARCHITECTURE.md to v4.1.2, add model switching research"}
+{"replay": 527, "timestamp": "2026-04-11T22:17:21-04:00", "subject": "Merge remote-tracking branch 'clone-CHAOS-workspace/feature/agent-subprocess-orchestration' into integration/live"}
