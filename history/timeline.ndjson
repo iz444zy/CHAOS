@@ -520,3 +520,4 @@
 {"replay": 520, "timestamp": "2026-04-11T22:04:39-04:00", "subject": "feat(web-ui): add agent orchestration dashboard with live data"}
 {"replay": 521, "timestamp": "2026-04-11T22:04:49-04:00", "subject": "feat(web-ui): add PM decision review panel with workflows and goals"}
 {"replay": 522, "timestamp": "2026-04-11T22:04:59-04:00", "subject": "docs: add MCP client web app sprint plan"}
+{"replay": 523, "timestamp": "2026-04-11T22:05:01-04:00", "subject": "feat(D05): add dashboard polish with skeletons, error boundaries, connection status"}
