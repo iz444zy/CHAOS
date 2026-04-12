@@ -514,3 +514,4 @@
 {"replay": 514, "timestamp": "2026-04-11T21:55:48-04:00", "subject": "feat(D03): implement Token Savings Counter with live metrics"}
 {"replay": 515, "timestamp": "2026-04-11T21:57:46-04:00", "subject": "feat(context): phase 4 - three-DB fan-out integration"}
 {"replay": 516, "timestamp": "2026-04-11T22:02:07-04:00", "subject": "feat(D04): implement TUI sidecar with Textual agent monitor"}
+{"replay": 517, "timestamp": "2026-04-11T22:04:16-04:00", "subject": "feat(web-ui): add service layer with 100 functions across 15 MCP domains"}
