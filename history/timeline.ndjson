@@ -528,3 +528,4 @@
 {"replay": 528, "timestamp": "2026-04-11T22:17:29-04:00", "subject": "Merge remote-tracking branch 'clone-claude-workflow/feat/web-ui-dashboards' into integration/live"}
 {"replay": 529, "timestamp": "2026-04-11T22:17:36-04:00", "subject": "Merge remote-tracking branch 'clone-CHAOS-workspace/feature/agent-hydration-praxis' into integration/live"}
 {"replay": 530, "timestamp": "2026-04-11T22:20:30-04:00", "subject": "Merge remote-tracking branch 'clone-CHAOS-workspace/feature/mcp-client-foundation' into integration/live"}
+{"replay": 531, "timestamp": "2026-04-11T22:33:07-04:00", "subject": "Merge remote-tracking branch 'origin/explore/turboquant-integration' into integration/live"}
