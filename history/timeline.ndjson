@@ -477,3 +477,4 @@
 {"replay": 477, "timestamp": "2026-04-11T20:52:50-04:00", "subject": "fix(security): parameterize psycopg2 upsert and audit S608 SQL injection warnings"}
 {"replay": 478, "timestamp": "2026-04-11T20:54:32-04:00", "subject": "docs: fix broken documentation references across TOC, TODO, ROADMAP"}
 {"replay": 479, "timestamp": "2026-04-11T20:56:17-04:00", "subject": "docs: refine sprint schedule in light of QA phase"}
+{"replay": 480, "timestamp": "2026-04-11T20:57:05-04:00", "subject": "refactor(types): move shared types to cw.core.types, break pm<->sync circular dep"}
