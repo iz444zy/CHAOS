@@ -532,3 +532,4 @@
 {"replay": 532, "timestamp": "2026-04-12T00:15:50-04:00", "subject": "fix: resolve all 12 Copilot review comments on PR #93"}
 {"replay": 533, "timestamp": "2026-04-12T00:16:28-04:00", "subject": "Merge pull request #93 from luvisaisa/integration/live"}
 {"replay": 534, "timestamp": "2026-04-12T01:03:14-04:00", "subject": "feat(subscription): add subscription tier model, auth, and tier gating middleware"}
+{"replay": 535, "timestamp": "2026-04-12T01:04:46-04:00", "subject": "chore(version): bump to 4.2.0, add version check script, Docker auth env"}
