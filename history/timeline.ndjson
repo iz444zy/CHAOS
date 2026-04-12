@@ -474,3 +474,4 @@
 {"replay": 474, "timestamp": "2026-04-11T20:39:18-04:00", "subject": "Merge pull request #88 from luvisaisa/integration/live"}
 {"replay": 475, "timestamp": "2026-04-11T20:45:23-04:00", "subject": "docs: add explicit task-to-clone assignments in QA plan"}
 {"replay": 476, "timestamp": "2026-04-11T20:50:26-04:00", "subject": "docs: refresh CURRENT-STATE.md stats, document praxis/, fix asyncio deprecation"}
+{"replay": 477, "timestamp": "2026-04-11T20:52:50-04:00", "subject": "fix(security): parameterize psycopg2 upsert and audit S608 SQL injection warnings"}
