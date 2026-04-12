@@ -506,3 +506,4 @@
 {"replay": 506, "timestamp": "2026-04-11T21:47:08-04:00", "subject": "feat(D02): Implement PM Decision Review panel with approve/override/defer"}
 {"replay": 507, "timestamp": "2026-04-11T21:47:41-04:00", "subject": "feat(mcp): add permission, template, and engine agent tools [phase-4]"}
 {"replay": 508, "timestamp": "2026-04-11T21:48:47-04:00", "subject": "feat(mcp): integrate agent lifecycle and EventBus into server lifespan [phase-5]"}
+{"replay": 509, "timestamp": "2026-04-11T21:49:05-04:00", "subject": "feat(web-ui): add MCP type definitions and enhance MCPClient"}
