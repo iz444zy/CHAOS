@@ -481,3 +481,4 @@
 {"replay": 481, "timestamp": "2026-04-11T20:58:32-04:00", "subject": "feat: add hybrid vector search to context engine"}
 {"replay": 482, "timestamp": "2026-04-11T20:59:30-04:00", "subject": "chore: reorganize session exports to session-logs folder"}
 {"replay": 483, "timestamp": "2026-04-11T21:00:38-04:00", "subject": "refactor: convert print() to logging in src/cw/ modules"}
+{"replay": 484, "timestamp": "2026-04-11T21:06:04-04:00", "subject": "refactor: convert print() to logging across 29 scripts/ files"}
