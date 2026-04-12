@@ -483,3 +483,4 @@
 {"replay": 483, "timestamp": "2026-04-11T21:00:38-04:00", "subject": "refactor: convert print() to logging in src/cw/ modules"}
 {"replay": 484, "timestamp": "2026-04-11T21:06:04-04:00", "subject": "refactor: convert print() to logging across 29 scripts/ files"}
 {"replay": 485, "timestamp": "2026-04-11T21:07:28-04:00", "subject": "refactor(sync): split merge_ingestor into types, ops, and orchestrator modules"}
+{"replay": 486, "timestamp": "2026-04-11T21:06:46-04:00", "subject": "test: add 278 tests for 6 previously untested modules"}
