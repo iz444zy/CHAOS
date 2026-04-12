@@ -526,3 +526,4 @@
 {"replay": 526, "timestamp": "2026-04-11T22:17:14-04:00", "subject": "docs: update ARCHITECTURE.md to v4.1.2, add model switching research"}
 {"replay": 527, "timestamp": "2026-04-11T22:17:21-04:00", "subject": "Merge remote-tracking branch 'clone-CHAOS-workspace/feature/agent-subprocess-orchestration' into integration/live"}
 {"replay": 528, "timestamp": "2026-04-11T22:17:29-04:00", "subject": "Merge remote-tracking branch 'clone-claude-workflow/feat/web-ui-dashboards' into integration/live"}
+{"replay": 529, "timestamp": "2026-04-11T22:17:36-04:00", "subject": "Merge remote-tracking branch 'clone-CHAOS-workspace/feature/agent-hydration-praxis' into integration/live"}
