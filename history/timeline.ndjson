@@ -542,3 +542,4 @@
 {"replay": 542, "timestamp": "2026-04-12T01:10:41-04:00", "subject": "feat(web-ui): add Security Dashboard"}
 {"replay": 543, "timestamp": "2026-04-12T01:10:59-04:00", "subject": "feat(web-ui): add Token Comparison marketing page"}
 {"replay": 544, "timestamp": "2026-04-12T01:11:10-04:00", "subject": "docs: refine W3 plan with W2 audit findings"}
+{"replay": 545, "timestamp": "2026-04-12T01:13:14-04:00", "subject": "docs(changelog): add 4.2.0 release notes, fix version test"}
