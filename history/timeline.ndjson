@@ -511,3 +511,4 @@
 {"replay": 511, "timestamp": "2026-04-11T21:49:17-04:00", "subject": "feat(praxis): phase 3 - daemon and pattern analysis layer"}
 {"replay": 512, "timestamp": "2026-04-11T21:50:38-04:00", "subject": "feat(docker): add entrypoint, healthcheck, init-db scripts [phase-6]"}
 {"replay": 513, "timestamp": "2026-04-11T21:55:08-04:00", "subject": "test: add Phase 7 tests for orchestration, permissions, templates, healthcheck"}
+{"replay": 514, "timestamp": "2026-04-11T21:55:48-04:00", "subject": "feat(D03): implement Token Savings Counter with live metrics"}
