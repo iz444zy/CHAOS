@@ -513,3 +513,4 @@
 {"replay": 513, "timestamp": "2026-04-11T21:55:08-04:00", "subject": "test: add Phase 7 tests for orchestration, permissions, templates, healthcheck"}
 {"replay": 514, "timestamp": "2026-04-11T21:55:48-04:00", "subject": "feat(D03): implement Token Savings Counter with live metrics"}
 {"replay": 515, "timestamp": "2026-04-11T21:57:46-04:00", "subject": "feat(context): phase 4 - three-DB fan-out integration"}
+{"replay": 516, "timestamp": "2026-04-11T22:02:07-04:00", "subject": "feat(D04): implement TUI sidecar with Textual agent monitor"}
