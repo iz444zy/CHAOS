@@ -493,3 +493,4 @@
 {"replay": 493, "timestamp": "2026-04-11T21:26:41-04:00", "subject": "feat: add CHAOS-workspace MCP client sprint schedule (W2-W4)"}
 {"replay": 494, "timestamp": "2026-04-11T21:30:16-04:00", "subject": "QA Phase: Security & Architecture Validation"}
 {"replay": 495, "timestamp": "2026-04-11T21:30:18-04:00", "subject": "QA Phase: Documentation & Logging Polish"}
+{"replay": 496, "timestamp": "2026-04-11T21:30:42-04:00", "subject": "Merge PR#90-92 into CHAOS-workspace"}
