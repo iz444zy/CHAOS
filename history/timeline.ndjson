@@ -617,3 +617,4 @@
 {"replay": 617, "timestamp": "2026-04-13T16:54:52-04:00", "subject": "docs(ship-prep): Sprint 3 workspace -- reference stubs, README, living docs, demo prep"}
 {"replay": 618, "timestamp": "2026-04-13T16:55:58-04:00", "subject": "docs(reference): expand 12 borderline reference stubs to 200+ lines"}
 {"replay": 619, "timestamp": "2026-04-13T16:57:25-04:00", "subject": "feat(pm): Sprint 3 PM Engine E2E pipeline and ship readiness"}
+{"replay": 620, "timestamp": "2026-04-13T16:57:45-04:00", "subject": "auto-merge: CHAOS-workspace/feature/pm-ship-prep"}
