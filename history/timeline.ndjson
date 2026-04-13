@@ -575,3 +575,4 @@
 {"replay": 575, "timestamp": "2026-04-12T23:36:17-04:00", "subject": "Merge branch 'refactor/mcp-tool-registry' into fix/qa-corrections-2026-04-12"}
 {"replay": 576, "timestamp": "2026-04-12T23:45:52-04:00", "subject": "fix(qa): resolve 7 Copilot review findings — FTS5 rank, a11y, emoji, naming"}
 {"replay": 577, "timestamp": "2026-04-12T23:46:18-04:00", "subject": "Merge pull request #94 from luvisaisa/fix/qa-corrections-2026-04-12"}
+{"replay": 578, "timestamp": "2026-04-13T00:04:12-04:00", "subject": "feat(skills): add /sprint-full skill + expand /sprint to cover all 15 docs"}
