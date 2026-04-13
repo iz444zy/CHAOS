@@ -589,3 +589,4 @@
 {"replay": 589, "timestamp": "2026-04-13T12:28:42-04:00", "subject": "refactor(context): replace scripts/context_store.py with re-export shim (B1)"}
 {"replay": 590, "timestamp": "2026-04-13T12:30:03-04:00", "subject": "feat(quality): standardize agent/skill frontmatter + marketing content"}
 {"replay": 591, "timestamp": "2026-04-13T12:30:21-04:00", "subject": "feat(context): add search_memories() to cw.context.memory (B2)"}
+{"replay": 592, "timestamp": "2026-04-13T12:31:41-04:00", "subject": "refactor(context): delegate copilot-instructions generation to cw.context.instructions (B3)"}
