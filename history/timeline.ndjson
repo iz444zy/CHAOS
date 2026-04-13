@@ -572,3 +572,4 @@
 {"replay": 572, "timestamp": "2026-04-12T23:36:14-04:00", "subject": "Merge branch 'refactor/split-sync-files' into fix/qa-corrections-2026-04-12"}
 {"replay": 573, "timestamp": "2026-04-12T23:36:15-04:00", "subject": "Merge branch 'refactor/split-mcp-helpers' into fix/qa-corrections-2026-04-12"}
 {"replay": 574, "timestamp": "2026-04-12T23:36:16-04:00", "subject": "Merge branch 'refactor/split-engine-db' into fix/qa-corrections-2026-04-12"}
+{"replay": 575, "timestamp": "2026-04-12T23:36:17-04:00", "subject": "Merge branch 'refactor/mcp-tool-registry' into fix/qa-corrections-2026-04-12"}
