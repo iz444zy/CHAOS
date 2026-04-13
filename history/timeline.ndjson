@@ -592,3 +592,4 @@
 {"replay": 592, "timestamp": "2026-04-13T12:31:41-04:00", "subject": "refactor(context): delegate copilot-instructions generation to cw.context.instructions (B3)"}
 {"replay": 593, "timestamp": "2026-04-13T12:33:06-04:00", "subject": "feat(A2): wire rate limiting into MCP middleware pipeline"}
 {"replay": 594, "timestamp": "2026-04-13T12:34:30-04:00", "subject": "auto-merge: CHAOS-workspace/feature/mcp-auth-hardening"}
+{"replay": 595, "timestamp": "2026-04-13T12:34:32-04:00", "subject": "auto-merge: CHAOS-workspace/feature/quality-audit-marketing"}
