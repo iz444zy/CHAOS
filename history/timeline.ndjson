@@ -590,3 +590,4 @@
 {"replay": 590, "timestamp": "2026-04-13T12:30:03-04:00", "subject": "feat(quality): standardize agent/skill frontmatter + marketing content"}
 {"replay": 591, "timestamp": "2026-04-13T12:30:21-04:00", "subject": "feat(context): add search_memories() to cw.context.memory (B2)"}
 {"replay": 592, "timestamp": "2026-04-13T12:31:41-04:00", "subject": "refactor(context): delegate copilot-instructions generation to cw.context.instructions (B3)"}
+{"replay": 593, "timestamp": "2026-04-13T12:33:06-04:00", "subject": "feat(A2): wire rate limiting into MCP middleware pipeline"}
