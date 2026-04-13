@@ -556,3 +556,4 @@
 {"replay": 556, "timestamp": "2026-04-12T20:50:33-04:00", "subject": "test(web-ui): add security library tests (51 passing)"}
 {"replay": 557, "timestamp": "2026-04-12T20:53:07-04:00", "subject": "merge: integrate claude-workflow/feat/web-ui-polish into integration/live"}
 {"replay": 558, "timestamp": "2026-04-12T20:53:15-04:00", "subject": "Merge remote-tracking branch 'clone-CHAOS-workspace/feature/pm-dispatch-quality' into integration/live"}
+{"replay": 559, "timestamp": "2026-04-12T20:53:40-04:00", "subject": "merge: integrate CHAOS-workspace/feature/mcp-client-advanced (CW pages kept for events/security)"}
