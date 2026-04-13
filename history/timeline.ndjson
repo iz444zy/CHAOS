@@ -610,3 +610,4 @@
 {"replay": 610, "timestamp": "2026-04-13T13:48:27-04:00", "subject": "feat(tokens): expand benchmark scenarios from 5 to 10"}
 {"replay": 611, "timestamp": "2026-04-13T13:57:01-04:00", "subject": "docs(reference): expand 25 reference stubs with comprehensive content"}
 {"replay": 612, "timestamp": "2026-04-13T13:58:14-04:00", "subject": "auto-merge: CHAOS-workspace/feature/marketing-tui-tokens"}
+{"replay": 613, "timestamp": "2026-04-13T14:16:25-04:00", "subject": "feat: Sprint 2 — permissions middleware, template context injection, Docker prod config"}
