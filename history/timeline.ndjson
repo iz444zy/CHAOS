@@ -606,3 +606,4 @@
 {"replay": 606, "timestamp": "2026-04-13T13:55:25-04:00", "subject": "auto-merge: CHAOS-workspace/feature/praxis-daemon-threedb"}
 {"replay": 607, "timestamp": "2026-04-13T13:57:01-04:00", "subject": "docs(reference): expand 25 reference stubs with comprehensive content"}
 {"replay": 608, "timestamp": "2026-04-13T13:57:12-04:00", "subject": "auto-merge: CHAOS-workspace/default"}
+{"replay": 609, "timestamp": "2026-04-13T13:48:17-04:00", "subject": "feat(tui): add system info panel, 3-column layout, __main__ entry point"}
