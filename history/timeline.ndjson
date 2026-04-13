@@ -560,3 +560,4 @@
 {"replay": 560, "timestamp": "2026-04-12T21:21:51-04:00", "subject": "docs(qa): sync all doc stats to actual counts — v4.2.0, 134 tools, 244 modules, 5255 tests"}
 {"replay": 561, "timestamp": "2026-04-12T21:24:03-04:00", "subject": "docs(qa): fix broken refs, rename kebab-case scripts, resolve stale TODO"}
 {"replay": 562, "timestamp": "2026-04-12T21:25:27-04:00", "subject": "fix(qa): resolve 6 ruff lint errors + format 23 files"}
+{"replay": 563, "timestamp": "2026-04-12T21:26:15-04:00", "subject": "docs(qa): add QA-2026-04-12 findings to TODO.md — track-only + deferred items"}
