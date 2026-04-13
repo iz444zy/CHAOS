@@ -567,3 +567,4 @@
 {"replay": 567, "timestamp": "2026-04-12T21:38:46-04:00", "subject": "refactor(qa): split diagnostic scripts into focused modules"}
 {"replay": 568, "timestamp": "2026-04-12T21:43:26-04:00", "subject": "refactor(qa): split mcp._helpers into focused sub-modules"}
 {"replay": 569, "timestamp": "2026-04-12T21:45:26-04:00", "subject": "refactor(qa): reorganize tests into unit/integration/e2e dirs"}
+{"replay": 570, "timestamp": "2026-04-12T21:47:28-04:00", "subject": "refactor(qa): split engine.db into focused sub-modules"}
