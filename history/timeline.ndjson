@@ -585,3 +585,4 @@
 {"replay": 585, "timestamp": "2026-04-13T11:53:39-04:00", "subject": "docs(plans): create ship-May-1 sprint plan, archive 3 stale plans"}
 {"replay": 586, "timestamp": "2026-04-13T12:07:38-04:00", "subject": "Merge branch 'integration/live'"}
 {"replay": 587, "timestamp": "2026-04-13T12:26:16-04:00", "subject": "refactor(praxis): extract schema into schema.py (B6)"}
+{"replay": 588, "timestamp": "2026-04-13T12:27:19-04:00", "subject": "fix(AUD28): resolve mypy errors in engine/mcp zone"}
