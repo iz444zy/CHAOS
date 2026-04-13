@@ -584,3 +584,4 @@
 {"replay": 584, "timestamp": "2026-04-13T11:46:06-04:00", "subject": "docs: fix stale counts, elevate PM engine, add project lifetime to roadmap"}
 {"replay": 585, "timestamp": "2026-04-13T11:53:39-04:00", "subject": "docs(plans): create ship-May-1 sprint plan, archive 3 stale plans"}
 {"replay": 586, "timestamp": "2026-04-13T12:07:38-04:00", "subject": "Merge branch 'integration/live'"}
+{"replay": 587, "timestamp": "2026-04-13T12:26:16-04:00", "subject": "refactor(praxis): extract schema into schema.py (B6)"}
