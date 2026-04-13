@@ -571,3 +571,4 @@
 {"replay": 571, "timestamp": "2026-04-12T21:49:08-04:00", "subject": "refactor(qa): auto-discover MCP tool registration"}
 {"replay": 572, "timestamp": "2026-04-12T23:36:14-04:00", "subject": "Merge branch 'refactor/split-sync-files' into fix/qa-corrections-2026-04-12"}
 {"replay": 573, "timestamp": "2026-04-12T23:36:15-04:00", "subject": "Merge branch 'refactor/split-mcp-helpers' into fix/qa-corrections-2026-04-12"}
+{"replay": 574, "timestamp": "2026-04-12T23:36:16-04:00", "subject": "Merge branch 'refactor/split-engine-db' into fix/qa-corrections-2026-04-12"}
