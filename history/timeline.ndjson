@@ -620,3 +620,4 @@
 {"replay": 620, "timestamp": "2026-04-13T16:57:45-04:00", "subject": "auto-merge: CHAOS-workspace/feature/pm-ship-prep"}
 {"replay": 621, "timestamp": "2026-04-13T17:38:15-04:00", "subject": "feat(version): bump all sources to v4.3.0 for ship"}
 {"replay": 622, "timestamp": "2026-04-13T17:38:25-04:00", "subject": "fix(infra): pin Python 3.14-slim in Dockerfile, bump pytest to 9.0.3"}
+{"replay": 623, "timestamp": "2026-04-13T17:38:37-04:00", "subject": "fix(tests): remove duplicate test file, fix zone test failures"}
