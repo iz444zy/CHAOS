@@ -599,3 +599,4 @@
 {"replay": 599, "timestamp": "2026-04-13T13:27:54-04:00", "subject": "docs(plans): add PM Engine runtime integration plan for Sprint 2-3"}
 {"replay": 600, "timestamp": "2026-04-13T13:48:17-04:00", "subject": "feat(tui): add system info panel, 3-column layout, __main__ entry point"}
 {"replay": 601, "timestamp": "2026-04-13T13:48:27-04:00", "subject": "feat(tokens): expand benchmark scenarios from 5 to 10"}
+{"replay": 602, "timestamp": "2026-04-13T13:48:49-04:00", "subject": "auto-merge: CHAOS-workspace/default"}
