@@ -577,3 +577,4 @@
 {"replay": 577, "timestamp": "2026-04-12T23:46:18-04:00", "subject": "Merge pull request #94 from luvisaisa/fix/qa-corrections-2026-04-12"}
 {"replay": 578, "timestamp": "2026-04-13T00:04:12-04:00", "subject": "feat(skills): add /sprint-full skill + expand /sprint to cover all 15 docs"}
 {"replay": 579, "timestamp": "2026-04-13T00:07:17-04:00", "subject": "docs(archive): retire 26 stale files — phases A-J, session logs, completed plans"}
+{"replay": 580, "timestamp": "2026-04-13T00:13:45-04:00", "subject": "docs(sync): unify all 15 active docs to v4.2.0 canonical counts"}
