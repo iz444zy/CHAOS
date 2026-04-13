@@ -565,3 +565,4 @@
 {"replay": 565, "timestamp": "2026-04-12T21:36:44-04:00", "subject": "refactor(qa): split context/store.py into focused modules"}
 {"replay": 566, "timestamp": "2026-04-12T21:37:44-04:00", "subject": "refactor(qa): split sync merge files into focused modules"}
 {"replay": 567, "timestamp": "2026-04-12T21:38:46-04:00", "subject": "refactor(qa): split diagnostic scripts into focused modules"}
+{"replay": 568, "timestamp": "2026-04-12T21:43:26-04:00", "subject": "refactor(qa): split mcp._helpers into focused sub-modules"}
