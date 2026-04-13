@@ -622,3 +622,4 @@
 {"replay": 622, "timestamp": "2026-04-13T17:38:25-04:00", "subject": "fix(infra): pin Python 3.14-slim in Dockerfile, bump pytest to 9.0.3"}
 {"replay": 623, "timestamp": "2026-04-13T17:38:37-04:00", "subject": "fix(tests): remove duplicate test file, fix zone test failures"}
 {"replay": 624, "timestamp": "2026-04-13T17:38:50-04:00", "subject": "test(mcp): integration test sweep — 98% coverage on MCP+analytics zone"}
+{"replay": 625, "timestamp": "2026-04-13T17:38:52-04:00", "subject": "auto-merge: CHAOS-workspace/feature/ship-prep-workspace"}
