@@ -563,3 +563,4 @@
 {"replay": 563, "timestamp": "2026-04-12T21:26:15-04:00", "subject": "docs(qa): add QA-2026-04-12 findings to TODO.md — track-only + deferred items"}
 {"replay": 564, "timestamp": "2026-04-12T21:34:37-04:00", "subject": "refactor(qa): split sidebar.tsx into focused components"}
 {"replay": 565, "timestamp": "2026-04-12T21:36:44-04:00", "subject": "refactor(qa): split context/store.py into focused modules"}
+{"replay": 566, "timestamp": "2026-04-12T21:37:44-04:00", "subject": "refactor(qa): split sync merge files into focused modules"}
