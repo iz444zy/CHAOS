@@ -615,3 +615,4 @@
 {"replay": 615, "timestamp": "2026-04-13T14:30:21-04:00", "subject": "docs: sprint sync — Sprint 2 Integration (Apr 13, 2026)"}
 {"replay": 616, "timestamp": "2026-04-13T15:44:39-04:00", "subject": "Merge pull request #99 from luvisaisa/integration/live"}
 {"replay": 617, "timestamp": "2026-04-13T16:54:52-04:00", "subject": "docs(ship-prep): Sprint 3 workspace -- reference stubs, README, living docs, demo prep"}
+{"replay": 618, "timestamp": "2026-04-13T16:55:58-04:00", "subject": "docs(reference): expand 12 borderline reference stubs to 200+ lines"}
