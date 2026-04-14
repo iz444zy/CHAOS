@@ -644,3 +644,4 @@
 {"replay": 644, "timestamp": "2026-04-14T16:39:41-04:00", "subject": "Merge pull request #105 from luvisaisa/fix/mcp-tools-reorg"}
 {"replay": 645, "timestamp": "2026-04-14T16:40:00-04:00", "subject": "Merge pull request #104 from luvisaisa/fix/core-tests-scripts"}
 {"replay": 646, "timestamp": "2026-04-14T16:40:11-04:00", "subject": "Merge pull request #106 from luvisaisa/fix/chaos-tests-quality"}
+{"replay": 647, "timestamp": "2026-04-14T01:08:06-04:00", "subject": "feat(engine): add Protocol interfaces for session, lifecycle, model base (P2-19)"}
