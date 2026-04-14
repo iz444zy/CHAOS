@@ -634,3 +634,4 @@
 {"replay": 634, "timestamp": "2026-04-14T01:08:06-04:00", "subject": "feat(engine): add Protocol interfaces for session, lifecycle, model base (P2-19)"}
 {"replay": 635, "timestamp": "2026-04-14T01:08:20-04:00", "subject": "feat(agents): add logic gate engine with event-driven triggers (G5, G5a)"}
 {"replay": 636, "timestamp": "2026-04-14T01:08:33-04:00", "subject": "feat(agents): add orphan recovery and resource limit enforcement (G1c, G1d)"}
+{"replay": 637, "timestamp": "2026-04-14T01:08:43-04:00", "subject": "test(agents): add tests for engine interfaces, logic gates, orphan recovery"}
