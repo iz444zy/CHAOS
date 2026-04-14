@@ -635,3 +635,4 @@
 {"replay": 635, "timestamp": "2026-04-14T01:08:20-04:00", "subject": "feat(agents): add logic gate engine with event-driven triggers (G5, G5a)"}
 {"replay": 636, "timestamp": "2026-04-14T01:08:33-04:00", "subject": "feat(agents): add orphan recovery and resource limit enforcement (G1c, G1d)"}
 {"replay": 637, "timestamp": "2026-04-14T01:08:43-04:00", "subject": "test(agents): add tests for engine interfaces, logic gates, orphan recovery"}
+{"replay": 638, "timestamp": "2026-04-14T01:29:22-04:00", "subject": "refactor(p2-16): split 7 large files >500 lines into focused submodules"}
