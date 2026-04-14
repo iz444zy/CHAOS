@@ -649,3 +649,4 @@
 {"replay": 649, "timestamp": "2026-04-14T01:08:33-04:00", "subject": "feat(agents): add orphan recovery and resource limit enforcement (G1c, G1d)"}
 {"replay": 650, "timestamp": "2026-04-14T01:08:43-04:00", "subject": "test(agents): add tests for engine interfaces, logic gates, orphan recovery"}
 {"replay": 651, "timestamp": "2026-04-14T01:04:23-04:00", "subject": "feat(mcp): add Prometheus /metrics endpoint and structured JSON logging"}
+{"replay": 652, "timestamp": "2026-04-14T01:06:58-04:00", "subject": "feat(mcp): add 5 observability MCP tools (MT1a-d)"}
