@@ -630,3 +630,4 @@
 {"replay": 630, "timestamp": "2026-04-14T00:51:10-04:00", "subject": "Merge pull request #101 from luvisaisa/fix/project-qa-corrections"}
 {"replay": 631, "timestamp": "2026-04-14T01:04:23-04:00", "subject": "feat(mcp): add Prometheus /metrics endpoint and structured JSON logging"}
 {"replay": 632, "timestamp": "2026-04-14T01:04:31-04:00", "subject": "feat(core): add unit tests for core/ + sync/gate/benchmark scripts"}
+{"replay": 633, "timestamp": "2026-04-14T01:06:58-04:00", "subject": "feat(mcp): add 5 observability MCP tools (MT1a-d)"}
