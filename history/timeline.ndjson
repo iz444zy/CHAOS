@@ -637,3 +637,4 @@
 {"replay": 637, "timestamp": "2026-04-14T01:08:43-04:00", "subject": "test(agents): add tests for engine interfaces, logic gates, orphan recovery"}
 {"replay": 638, "timestamp": "2026-04-14T01:29:22-04:00", "subject": "refactor(p2-16): split 7 large files >500 lines into focused submodules"}
 {"replay": 639, "timestamp": "2026-04-14T02:19:36-04:00", "subject": "refactor(p2-15): reorganize mcp/tools/ into workspace/context/engine/system subdirs"}
+{"replay": 640, "timestamp": "2026-04-14T02:37:17-04:00", "subject": "fix(mcp-tools): use sys.modules aliasing for backward-compat shims"}
