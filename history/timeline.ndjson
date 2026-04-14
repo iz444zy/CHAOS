@@ -648,3 +648,4 @@
 {"replay": 648, "timestamp": "2026-04-14T01:08:20-04:00", "subject": "feat(agents): add logic gate engine with event-driven triggers (G5, G5a)"}
 {"replay": 649, "timestamp": "2026-04-14T01:08:33-04:00", "subject": "feat(agents): add orphan recovery and resource limit enforcement (G1c, G1d)"}
 {"replay": 650, "timestamp": "2026-04-14T01:08:43-04:00", "subject": "test(agents): add tests for engine interfaces, logic gates, orphan recovery"}
+{"replay": 651, "timestamp": "2026-04-14T01:04:23-04:00", "subject": "feat(mcp): add Prometheus /metrics endpoint and structured JSON logging"}
