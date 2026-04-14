@@ -631,3 +631,4 @@
 {"replay": 631, "timestamp": "2026-04-14T01:04:23-04:00", "subject": "feat(mcp): add Prometheus /metrics endpoint and structured JSON logging"}
 {"replay": 632, "timestamp": "2026-04-14T01:04:31-04:00", "subject": "feat(core): add unit tests for core/ + sync/gate/benchmark scripts"}
 {"replay": 633, "timestamp": "2026-04-14T01:06:58-04:00", "subject": "feat(mcp): add 5 observability MCP tools (MT1a-d)"}
+{"replay": 634, "timestamp": "2026-04-14T01:08:06-04:00", "subject": "feat(engine): add Protocol interfaces for session, lifecycle, model base (P2-19)"}
