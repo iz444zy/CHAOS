@@ -682,3 +682,4 @@
 {"replay": 682, "timestamp": "2026-04-15T18:39:40-04:00", "subject": "feat(website): add auth proxy, context, and route protection"}
 {"replay": 683, "timestamp": "2026-04-15T18:40:11-04:00", "subject": "feat(web-ui): wire home dashboard to live MCP data (FG1)"}
 {"replay": 684, "timestamp": "2026-04-15T18:41:38-04:00", "subject": "feat(web-ui): add output/findings tabs to agent detail panel (FG4)"}
+{"replay": 685, "timestamp": "2026-04-15T18:43:23-04:00", "subject": "feat(web-ui): add /settings page wired to config MCP tools (FG3)"}
