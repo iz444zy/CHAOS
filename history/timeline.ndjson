@@ -679,3 +679,4 @@
 {"replay": 679, "timestamp": "2026-04-15T18:39:09-04:00", "subject": "feat(website): add legal pages, RSS feed, and documentation"}
 {"replay": 680, "timestamp": "2026-04-15T18:39:19-04:00", "subject": "feat(website): add Supabase client setup and schema migration"}
 {"replay": 681, "timestamp": "2026-04-15T18:39:28-04:00", "subject": "feat(website): add auth pages and components"}
+{"replay": 682, "timestamp": "2026-04-15T18:39:40-04:00", "subject": "feat(website): add auth proxy, context, and route protection"}
