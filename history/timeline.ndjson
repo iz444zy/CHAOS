@@ -662,3 +662,4 @@
 {"replay": 662, "timestamp": "2026-04-15T17:04:25-04:00", "subject": "docs: make prototype self-contained with inline SVGs"}
 {"replay": 663, "timestamp": "2026-04-15T17:21:30-04:00", "subject": "docs(plans): consolidate all active plans into SUPER-PLAN"}
 {"replay": 664, "timestamp": "2026-04-15T17:22:15-04:00", "subject": "auto-merge: origin/docs/super-plan-consolidation"}
+{"replay": 665, "timestamp": "2026-04-15T17:24:22-04:00", "subject": "docs: add website planning docs and reference images"}
