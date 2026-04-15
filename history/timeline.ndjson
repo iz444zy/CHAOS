@@ -685,3 +685,4 @@
 {"replay": 685, "timestamp": "2026-04-15T18:43:23-04:00", "subject": "feat(web-ui): add /settings page wired to config MCP tools (FG3)"}
 {"replay": 686, "timestamp": "2026-04-15T18:46:10-04:00", "subject": "fix(agents): resolve audit findings — python-agent frontmatter, docs-agent redirect (QM1/QM2)"}
 {"replay": 687, "timestamp": "2026-04-15T18:49:21-04:00", "subject": "feat(website): add commerce commerce - pricing, checkout, webhooks, account pages"}
+{"replay": 688, "timestamp": "2026-04-15T18:52:08-04:00", "subject": "feat(core): org health MVP — file_tree.py + organization.py"}
