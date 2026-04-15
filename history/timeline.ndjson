@@ -664,3 +664,4 @@
 {"replay": 664, "timestamp": "2026-04-15T17:22:15-04:00", "subject": "auto-merge: origin/docs/super-plan-consolidation"}
 {"replay": 665, "timestamp": "2026-04-15T17:24:22-04:00", "subject": "docs: add website planning docs and reference images"}
 {"replay": 666, "timestamp": "2026-04-15T17:27:14-04:00", "subject": "docs: redesign Kanban wireframe with rich interactions"}
+{"replay": 667, "timestamp": "2026-04-15T17:40:24-04:00", "subject": "merge: feature/chaos-workspace-work -- website planning docs"}
