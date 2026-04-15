@@ -656,3 +656,4 @@
 {"replay": 656, "timestamp": "2026-04-14T01:04:31-04:00", "subject": "feat(core): add unit tests for core/ + sync/gate/benchmark scripts"}
 {"replay": 657, "timestamp": "2026-04-14T02:44:30-04:00", "subject": "test(chaos): add fault injection tests for DB, OOM, and bus drop"}
 {"replay": 658, "timestamp": "2026-04-15T15:20:53-04:00", "subject": "auto-merge: chaos-workspace/feature/chaos-workspace-work"}
+{"replay": 659, "timestamp": "2026-04-15T15:52:47-04:00", "subject": "docs: consolidate wireframes from 10 pages to 5"}
