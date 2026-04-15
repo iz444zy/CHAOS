@@ -691,3 +691,4 @@
 {"replay": 691, "timestamp": "2026-04-15T18:58:42-04:00", "subject": "feat(web-ui): add /clones page with color-coded multi-clone orchestration view"}
 {"replay": 692, "timestamp": "2026-04-15T19:15:19-04:00", "subject": "fix(mcp): fix prompt discovery + test_mcp_server regressions (SHIP-M1)"}
 {"replay": 693, "timestamp": "2026-04-15T19:19:38-04:00", "subject": "refactor: split feedback, composite, and prompt_workflows into focused submodules"}
+{"replay": 694, "timestamp": "2026-04-15T19:19:59-04:00", "subject": "Merge pull request #109 from luvisaisa/feat/integration-tests"}
