@@ -673,3 +673,4 @@
 {"replay": 673, "timestamp": "2026-04-15T18:23:26-04:00", "subject": "feat(website): initialize Next.js project with dark theme and layout shell"}
 {"replay": 674, "timestamp": "2026-04-15T18:26:41-04:00", "subject": "Merge branch 'integration/live' of https://github.com/luvisaisa/claude-workflow"}
 {"replay": 675, "timestamp": "2026-04-15T18:26:47-04:00", "subject": "Merge remote-tracking branch 'origin/feat/website-scaffold'"}
+{"replay": 676, "timestamp": "2026-04-15T18:29:21-04:00", "subject": "feat(website): add marketing pages and components"}
