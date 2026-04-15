@@ -667,3 +667,4 @@
 {"replay": 667, "timestamp": "2026-04-15T17:40:24-04:00", "subject": "merge: feature/chaos-workspace-work -- website planning docs"}
 {"replay": 668, "timestamp": "2026-04-15T17:43:57-04:00", "subject": "merge: workspace docs/super-plan-consolidation"}
 {"replay": 669, "timestamp": "2026-04-15T17:43:58-04:00", "subject": "merge: workspace docs/wireframe-consolidation"}
+{"replay": 670, "timestamp": "2026-04-15T17:45:10-04:00", "subject": "auto-merge: origin/docs/combined-plans-and-wireframes"}
