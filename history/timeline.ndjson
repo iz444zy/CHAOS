@@ -699,3 +699,4 @@
 {"replay": 699, "timestamp": "2026-04-15T19:29:36-04:00", "subject": "Merge remote-tracking branch 'origin/master'"}
 {"replay": 700, "timestamp": "2026-04-15T19:35:15-04:00", "subject": "docs(web-ui): add component map and design spec"}
 {"replay": 701, "timestamp": "2026-04-15T19:35:47-04:00", "subject": "Merge pull request #111 from luvisaisa/feat/home-dashboard-live"}
+{"replay": 702, "timestamp": "2026-04-15T19:43:29-04:00", "subject": "Merge pull request #112 from luvisaisa/feat/website-marketing-pages"}
