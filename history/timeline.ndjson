@@ -670,3 +670,4 @@
 {"replay": 670, "timestamp": "2026-04-15T17:45:10-04:00", "subject": "auto-merge: origin/docs/combined-plans-and-wireframes"}
 {"replay": 671, "timestamp": "2026-04-15T17:45:34-04:00", "subject": "Merge pull request #107 from luvisaisa/docs/combined-plans-and-wireframes"}
 {"replay": 672, "timestamp": "2026-04-15T18:12:15-04:00", "subject": "merge: fetch workspace website planning docs into workspace"}
+{"replay": 673, "timestamp": "2026-04-15T18:23:26-04:00", "subject": "feat(website): initialize Next.js project with dark theme and layout shell"}
