@@ -661,3 +661,4 @@
 {"replay": 661, "timestamp": "2026-04-15T16:58:20-04:00", "subject": "docs: add interactive HTML prototype for wireframe navigation"}
 {"replay": 662, "timestamp": "2026-04-15T17:04:25-04:00", "subject": "docs: make prototype self-contained with inline SVGs"}
 {"replay": 663, "timestamp": "2026-04-15T17:21:30-04:00", "subject": "docs(plans): consolidate all active plans into SUPER-PLAN"}
+{"replay": 664, "timestamp": "2026-04-15T17:22:15-04:00", "subject": "auto-merge: origin/docs/super-plan-consolidation"}
