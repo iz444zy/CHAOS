@@ -658,3 +658,4 @@
 {"replay": 658, "timestamp": "2026-04-15T15:20:53-04:00", "subject": "auto-merge: chaos-workspace/feature/chaos-workspace-work"}
 {"replay": 659, "timestamp": "2026-04-15T15:52:47-04:00", "subject": "docs: consolidate wireframes from 10 pages to 5"}
 {"replay": 660, "timestamp": "2026-04-15T16:15:41-04:00", "subject": "docs: add 18 sub-tab wireframe SVGs for all page tabs"}
+{"replay": 661, "timestamp": "2026-04-15T16:58:20-04:00", "subject": "docs: add interactive HTML prototype for wireframe navigation"}
