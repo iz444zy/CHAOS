@@ -722,3 +722,4 @@
 {"replay": 722, "timestamp": "2026-04-16T02:17:10-04:00", "subject": "Merge pull request #122 from luvisaisa/integration/live"}
 {"replay": 723, "timestamp": "2026-04-16T02:27:48-04:00", "subject": "merge: apply Docker and backend changes from workspace/feature/web-ui-redesign"}
 {"replay": 724, "timestamp": "2026-04-16T02:31:08-04:00", "subject": "chore: update docs, docker-compose, and event-stream fixes"}
+{"replay": 725, "timestamp": "2026-04-16T12:39:48-04:00", "subject": "merge: unify workspace and workspace website chains"}
