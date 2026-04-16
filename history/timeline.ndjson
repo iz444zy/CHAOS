@@ -711,3 +711,4 @@
 {"replay": 711, "timestamp": "2026-04-15T23:13:00-04:00", "subject": "feat(web-ui): redesign navigation, pages, and global features"}
 {"replay": 712, "timestamp": "2026-04-15T23:38:53-04:00", "subject": "feat(web-ui): redesign remaining pages and add chat panel"}
 {"replay": 713, "timestamp": "2026-04-15T23:41:18-04:00", "subject": "feat(web-ui): add broadcast dialog for multi-clone prompting"}
+{"replay": 714, "timestamp": "2026-04-16T01:49:54-04:00", "subject": "auto-merge: origin/feat/website-content"}
