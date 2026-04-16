@@ -710,3 +710,4 @@
 {"replay": 710, "timestamp": "2026-04-15T22:20:46-04:00", "subject": "fix(docker): add numpy to MCP container for cw.context.embedding"}
 {"replay": 711, "timestamp": "2026-04-15T23:13:00-04:00", "subject": "feat(web-ui): redesign navigation, pages, and global features"}
 {"replay": 712, "timestamp": "2026-04-15T23:38:53-04:00", "subject": "feat(web-ui): redesign remaining pages and add chat panel"}
+{"replay": 713, "timestamp": "2026-04-15T23:41:18-04:00", "subject": "feat(web-ui): add broadcast dialog for multi-clone prompting"}
