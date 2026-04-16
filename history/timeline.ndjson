@@ -718,3 +718,4 @@
 {"replay": 718, "timestamp": "2026-04-16T01:51:01-04:00", "subject": "auto-merge: CHAOS-workspace/default"}
 {"replay": 719, "timestamp": "2026-04-16T01:51:58-04:00", "subject": "auto-merge: CHAOS-workspace/feature/web-ui-redesign"}
 {"replay": 720, "timestamp": "2026-04-16T01:52:21-04:00", "subject": "Merge pull request #120 from luvisaisa/feat/web-ui-redesign"}
+{"replay": 721, "timestamp": "2026-04-16T02:16:19-04:00", "subject": "refactor(web-ui): remove old pages and components (replaced by redesign)"}
