@@ -707,3 +707,4 @@
 {"replay": 707, "timestamp": "2026-04-15T21:43:45-04:00", "subject": "fix(docker): resolve healthcheck SSE handling, add web-ui Dockerfile, fix type errors"}
 {"replay": 708, "timestamp": "2026-04-15T22:00:54-04:00", "subject": "fix(mcp): add CORS middleware for web UI cross-origin requests"}
 {"replay": 709, "timestamp": "2026-04-15T22:06:29-04:00", "subject": "fix(mcp-client): use streaming SSE reads instead of response.text()"}
+{"replay": 710, "timestamp": "2026-04-15T22:20:46-04:00", "subject": "fix(docker): add numpy to MCP container for cw.context.embedding"}
