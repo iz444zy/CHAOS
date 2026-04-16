@@ -704,3 +704,4 @@
 {"replay": 704, "timestamp": "2026-04-15T19:53:04-04:00", "subject": "Merge feat/website-deploy into master (workspace chain: content+polish+deploy)"}
 {"replay": 705, "timestamp": "2026-04-15T19:53:57-04:00", "subject": "Merge feat/website-download into master (workspace chain: commerce+account+download)"}
 {"replay": 706, "timestamp": "2026-04-15T20:54:50-04:00", "subject": "feat(web-ui): migrate MCP transport from WebSocket to HTTP/SSE"}
+{"replay": 707, "timestamp": "2026-04-15T21:43:45-04:00", "subject": "fix(docker): resolve healthcheck SSE handling, add web-ui Dockerfile, fix type errors"}
