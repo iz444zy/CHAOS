@@ -745,3 +745,4 @@
 {"replay": 745, "timestamp": "2026-04-16T20:57:54-04:00", "subject": "fix(ingestor): address code review findings"}
 {"replay": 746, "timestamp": "2026-04-16T20:59:51-04:00", "subject": "feat: Sprint 3 — circuit breaker, feature flags, dead-letter queue, session auto-save/restore, session metrics, event bridge wiring, merge ingestor auto-start, conflict auto-resolution"}
 {"replay": 747, "timestamp": "2026-04-16T21:04:01-04:00", "subject": "feat(sprint3): sync dashboard, sessions, terminals, benchmark expansion"}
+{"replay": 748, "timestamp": "2026-04-16T21:07:31-04:00", "subject": "feat(context): atomic upsert, metadata column, raw content ingestion"}
