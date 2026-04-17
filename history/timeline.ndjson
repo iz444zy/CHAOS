@@ -735,3 +735,4 @@
 {"replay": 735, "timestamp": "2026-04-16T20:21:57-04:00", "subject": "docs(plans): replace workspace with workspace clone in sprint plan"}
 {"replay": 736, "timestamp": "2026-04-16T20:24:00-04:00", "subject": "docs(plans): replace workspace with workspace in sprint plan"}
 {"replay": 737, "timestamp": "2026-04-16T20:31:56-04:00", "subject": "feat(sprint0): UI & testing quick wins (M.1-M.9, G.8)"}
+{"replay": 738, "timestamp": "2026-04-16T20:33:37-04:00", "subject": "feat: sprint 0 infrastructure hardening (7 tasks)"}
