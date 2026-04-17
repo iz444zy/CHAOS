@@ -732,3 +732,4 @@
 {"replay": 732, "timestamp": "2026-04-16T19:35:08-04:00", "subject": "auto-merge: CHAOS-workspace/default"}
 {"replay": 733, "timestamp": "2026-04-16T19:48:11-04:00", "subject": "docs(plans): add comprehensive session plans — 17 tracks, 143 todos"}
 {"replay": 734, "timestamp": "2026-04-16T19:51:25-04:00", "subject": "docs(plans): comprehensive session plans — 17 tracks, 143 todos across all subsystems"}
+{"replay": 735, "timestamp": "2026-04-16T20:21:57-04:00", "subject": "docs(plans): replace workspace with workspace clone in sprint plan"}
