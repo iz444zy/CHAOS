@@ -747,3 +747,4 @@
 {"replay": 747, "timestamp": "2026-04-16T21:04:01-04:00", "subject": "feat(sprint3): sync dashboard, sessions, terminals, benchmark expansion"}
 {"replay": 748, "timestamp": "2026-04-16T21:07:31-04:00", "subject": "feat(context): atomic upsert, metadata column, raw content ingestion"}
 {"replay": 749, "timestamp": "2026-04-16T21:08:50-04:00", "subject": "docs: add workspace multi-sprint execution report (sprints 0-3)"}
+{"replay": 750, "timestamp": "2026-04-16T21:11:00-04:00", "subject": "feat(ingestor): 7 metadata extractors with pipeline integration"}
