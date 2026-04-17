@@ -741,3 +741,4 @@
 {"replay": 741, "timestamp": "2026-04-16T20:43:02-04:00", "subject": "feat: Sprint 1 foundation layer — PM wiring, providers, context, benchmarks"}
 {"replay": 742, "timestamp": "2026-04-16T20:44:22-04:00", "subject": "feat(ingestor): add 5-stage ingestion pipeline with 4 format adapters"}
 {"replay": 743, "timestamp": "2026-04-16T20:51:01-04:00", "subject": "feat(sprint2): agent viewer, settings, context CRUD, PM pipelines, benchmarks"}
+{"replay": 744, "timestamp": "2026-04-16T20:51:58-04:00", "subject": "feat(sprint2): PM pipelines, persistence, model routing, context diffs"}
