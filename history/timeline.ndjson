@@ -736,3 +736,4 @@
 {"replay": 736, "timestamp": "2026-04-16T20:24:00-04:00", "subject": "docs(plans): replace workspace with workspace in sprint plan"}
 {"replay": 737, "timestamp": "2026-04-16T20:31:56-04:00", "subject": "feat(sprint0): UI & testing quick wins (M.1-M.9, G.8)"}
 {"replay": 738, "timestamp": "2026-04-16T20:33:37-04:00", "subject": "feat: sprint 0 infrastructure hardening (7 tasks)"}
+{"replay": 739, "timestamp": "2026-04-16T20:36:43-04:00", "subject": "feat(mcp): implement Sprint 0 MCP quick wins (7 items)"}
