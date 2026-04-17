@@ -750,3 +750,4 @@
 {"replay": 750, "timestamp": "2026-04-16T21:11:00-04:00", "subject": "feat(ingestor): 7 metadata extractors with pipeline integration"}
 {"replay": 751, "timestamp": "2026-04-16T21:12:23-04:00", "subject": "feat(mcp): ingestor MCP tools — ingest_file, ingest_directory, ingest_status"}
 {"replay": 752, "timestamp": "2026-04-16T21:13:11-04:00", "subject": "feat(sprint4): context windowing, shutdown, DI, backup tooling"}
+{"replay": 753, "timestamp": "2026-04-16T21:14:38-04:00", "subject": "feat(mcp): tool catalog, resource cache, prompt composer, batch execution"}
