@@ -743,3 +743,4 @@
 {"replay": 743, "timestamp": "2026-04-16T20:51:01-04:00", "subject": "feat(sprint2): agent viewer, settings, context CRUD, PM pipelines, benchmarks"}
 {"replay": 744, "timestamp": "2026-04-16T20:51:58-04:00", "subject": "feat(sprint2): PM pipelines, persistence, model routing, context diffs"}
 {"replay": 745, "timestamp": "2026-04-16T20:57:54-04:00", "subject": "fix(ingestor): address code review findings"}
+{"replay": 746, "timestamp": "2026-04-16T20:59:51-04:00", "subject": "feat: Sprint 3 — circuit breaker, feature flags, dead-letter queue, session auto-save/restore, session metrics, event bridge wiring, merge ingestor auto-start, conflict auto-resolution"}
