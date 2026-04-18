@@ -759,3 +759,4 @@
 {"replay": 759, "timestamp": "2026-04-18T13:04:51-04:00", "subject": "feat(sprint4): MCP hardening — scope coverage, error boundary, validation stack"}
 {"replay": 760, "timestamp": "2026-04-18T13:05:38-04:00", "subject": "auto-merge: CHAOS-workspace/feature/sprint4-mcp-auth-errors-validation"}
 {"replay": 761, "timestamp": "2026-04-18T14:25:59-04:00", "subject": "fix(qa): project QA — update living docs to v4.4.0, archive completed plans"}
+{"replay": 762, "timestamp": "2026-04-18T14:30:42-04:00", "subject": "Sprints 0-4: Full 3-clone expansion (126 tasks, 68 new files)"}
