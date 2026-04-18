@@ -764,3 +764,4 @@
 {"replay": 764, "timestamp": "2026-04-18T14:42:32-04:00", "subject": "docs: add business strategy and IP documentation"}
 {"replay": 765, "timestamp": "2026-04-18T14:45:13-04:00", "subject": "feat(scripts): add auto-discovering clone sync script"}
 {"replay": 766, "timestamp": "2026-04-18T14:46:38-04:00", "subject": "Merge remote-tracking branch 'origin/master' into docs/business-IP-docs"}
+{"replay": 767, "timestamp": "2026-04-18T14:48:52-04:00", "subject": "docs: update living docs for PRs #128 and #129"}
