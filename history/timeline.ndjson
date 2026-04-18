@@ -758,3 +758,4 @@
 {"replay": 758, "timestamp": "2026-04-18T12:45:59-04:00", "subject": "auto-merge: CHAOS-workspace/feature/sprint3-webui-benchmarks-expansion"}
 {"replay": 759, "timestamp": "2026-04-18T13:04:51-04:00", "subject": "feat(sprint4): MCP hardening — scope coverage, error boundary, validation stack"}
 {"replay": 760, "timestamp": "2026-04-18T13:05:38-04:00", "subject": "auto-merge: CHAOS-workspace/feature/sprint4-mcp-auth-errors-validation"}
+{"replay": 761, "timestamp": "2026-04-18T14:25:59-04:00", "subject": "fix(qa): project QA — update living docs to v4.4.0, archive completed plans"}
