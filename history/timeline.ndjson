@@ -756,3 +756,4 @@
 {"replay": 756, "timestamp": "2026-04-16T21:43:57-04:00", "subject": "feat(sprint3): complete 9 items — security, injection, middleware, DSL"}
 {"replay": 757, "timestamp": "2026-04-18T12:45:52-04:00", "subject": "auto-merge: CHAOS-workspace/feature/sprint3-ingestor-security-injection"}
 {"replay": 758, "timestamp": "2026-04-18T12:45:59-04:00", "subject": "auto-merge: CHAOS-workspace/feature/sprint3-webui-benchmarks-expansion"}
+{"replay": 759, "timestamp": "2026-04-18T13:04:51-04:00", "subject": "feat(sprint4): MCP hardening — scope coverage, error boundary, validation stack"}
