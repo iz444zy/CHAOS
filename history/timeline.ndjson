@@ -789,3 +789,4 @@
 {"replay": 789, "timestamp": "2026-04-20T12:07:51-04:00", "subject": "test(mcp): add contract tests between server.py and engine modules"}
 {"replay": 790, "timestamp": "2026-04-20T12:34:07-04:00", "subject": "test(mcp): add contract tests between server.py and engine modules"}
 {"replay": 791, "timestamp": "2026-04-20T13:06:13-04:00", "subject": "docs(sprint-6): assign remaining tasks across clones + per-clone plans"}
+{"replay": 792, "timestamp": "2026-04-20T13:38:30-04:00", "subject": "feat(agents): add agent subprocess orchestrator with JSON-lines IPC (G1)"}
