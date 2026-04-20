@@ -825,3 +825,4 @@
 {"replay": 825, "timestamp": "2026-04-20T17:03:55-04:00", "subject": "Merge remote-tracking branch 'origin/feat/s7-workspace-data-screens' into feat/sprint-7-integration"}
 {"replay": 826, "timestamp": "2026-04-20T17:11:51-04:00", "subject": "feat(integrator): merge 3 clones + add missing work + fix lint"}
 {"replay": 827, "timestamp": "2026-04-20T17:15:51-04:00", "subject": "feat: sprint 7 — MCP webapp UI overhaul (3-clone parallel)"}
+{"replay": 828, "timestamp": "2026-04-20T17:42:41-04:00", "subject": "feat(web-ui): add Dockerfile and standalone output for containerized deployment"}
