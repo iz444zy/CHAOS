@@ -814,3 +814,4 @@
 {"replay": 814, "timestamp": "2026-04-20T16:41:18-04:00", "subject": "feat(work): add /work kanban screen with task CRUD + feature tracker"}
 {"replay": 815, "timestamp": "2026-04-20T16:42:51-04:00", "subject": "feat(ui): Phase 2 — Agents screen with foreground/background split"}
 {"replay": 816, "timestamp": "2026-04-20T16:44:27-04:00", "subject": "feat(context): add history time-travel and file ingest tabs"}
+{"replay": 817, "timestamp": "2026-04-20T16:47:14-04:00", "subject": "feat(analytics): add /analytics page with runs, praxis, and logic gates"}
