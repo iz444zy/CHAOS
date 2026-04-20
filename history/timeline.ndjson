@@ -769,3 +769,4 @@
 {"replay": 769, "timestamp": "2026-04-19T15:39:11-04:00", "subject": "docs: archive completed sprint plans, add sprint-5 final ship plan"}
 {"replay": 770, "timestamp": "2026-04-19T16:51:50-04:00", "subject": "docs: remove original plan dirs (moved to archive in previous commit)"}
 {"replay": 771, "timestamp": "2026-04-19T17:07:47-04:00", "subject": "feat(sprint5): workspace — close A5/A13, verify PM Dashboard wiring"}
+{"replay": 772, "timestamp": "2026-04-19T20:11:37-04:00", "subject": "feat(sprint-5): close A14/A15/A16/QM1/QM2 — auth wired, agents+skills audited, versions synced"}
