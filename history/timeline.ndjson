@@ -791,3 +791,4 @@
 {"replay": 791, "timestamp": "2026-04-20T13:06:13-04:00", "subject": "docs(sprint-6): assign remaining tasks across clones + per-clone plans"}
 {"replay": 792, "timestamp": "2026-04-20T13:38:30-04:00", "subject": "feat(agents): add agent subprocess orchestrator with JSON-lines IPC (G1)"}
 {"replay": 793, "timestamp": "2026-04-20T13:44:09-04:00", "subject": "feat(pm): add agent dispatch system — routing, dependencies, conflicts (AD1-AD5)"}
+{"replay": 794, "timestamp": "2026-04-20T13:44:47-04:00", "subject": "fix(deps): upgrade pydantic, uvicorn, python-multipart minimum versions (AUD32)"}
