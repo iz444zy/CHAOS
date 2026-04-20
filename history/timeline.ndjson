@@ -772,3 +772,4 @@
 {"replay": 772, "timestamp": "2026-04-19T20:11:37-04:00", "subject": "feat(sprint-5): close A14/A15/A16/QM1/QM2 — auth wired, agents+skills audited, versions synced"}
 {"replay": 773, "timestamp": "2026-04-19T20:13:08-04:00", "subject": "auto-merge: CHAOS-workspace/feature/sprint5-workspace"}
 {"replay": 774, "timestamp": "2026-04-19T20:13:09-04:00", "subject": "auto-merge: CHAOS-workspace/feature/sprint-5-workspace"}
+{"replay": 775, "timestamp": "2026-04-19T20:13:12-04:00", "subject": "auto-merge: origin/feat/sprint0-mcp-quickwins"}
