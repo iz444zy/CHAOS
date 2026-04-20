@@ -800,3 +800,4 @@
 {"replay": 800, "timestamp": "2026-04-20T14:14:57-04:00", "subject": "test(sprint-6): add 396 tests for AUD4+T4+T7 — core, ingestor, dispatch pipeline"}
 {"replay": 801, "timestamp": "2026-04-20T14:17:11-04:00", "subject": "feat(sync): add JSONL rotation script with gzip compression (QA-G13)"}
 {"replay": 802, "timestamp": "2026-04-20T14:22:31-04:00", "subject": "refactor(sprint-6): migrate print() to logging module (CQ1)"}
+{"replay": 803, "timestamp": "2026-04-20T15:00:59-04:00", "subject": "Merge remote-tracking branch 'origin/test/s6-workspace-phase2-coverage-baseline' into feat/sprint-6-integration"}
