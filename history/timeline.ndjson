@@ -816,3 +816,4 @@
 {"replay": 816, "timestamp": "2026-04-20T16:44:27-04:00", "subject": "feat(context): add history time-travel and file ingest tabs"}
 {"replay": 817, "timestamp": "2026-04-20T16:47:14-04:00", "subject": "feat(analytics): add /analytics page with runs, praxis, and logic gates"}
 {"replay": 818, "timestamp": "2026-04-20T16:48:34-04:00", "subject": "feat(ui): Phase 3 — PM screen with 6-tab orchestration dashboard"}
+{"replay": 819, "timestamp": "2026-04-20T16:49:00-04:00", "subject": "feat(security): add revoke-all and permission-check to permissions tab"}
