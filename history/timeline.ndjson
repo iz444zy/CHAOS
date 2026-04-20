@@ -795,3 +795,4 @@
 {"replay": 795, "timestamp": "2026-04-20T13:45:38-04:00", "subject": "fix(tests): resolve AUD26+AUD29 — fix 24 test failures across 6 files"}
 {"replay": 796, "timestamp": "2026-04-20T13:53:17-04:00", "subject": "feat(pm): wire DispatchEngine into runtime + MCP task dispatch tools (G4)"}
 {"replay": 797, "timestamp": "2026-04-20T14:02:40-04:00", "subject": "docs(coverage): establish T1+B12 coverage baseline — 75% overall"}
+{"replay": 798, "timestamp": "2026-04-20T14:03:17-04:00", "subject": "feat(praxis): complete practices daemon + feedback hydration integration (B7, B8)"}
