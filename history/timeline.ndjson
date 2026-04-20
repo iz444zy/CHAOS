@@ -797,3 +797,4 @@
 {"replay": 797, "timestamp": "2026-04-20T14:02:40-04:00", "subject": "docs(coverage): establish T1+B12 coverage baseline — 75% overall"}
 {"replay": 798, "timestamp": "2026-04-20T14:03:17-04:00", "subject": "feat(praxis): complete practices daemon + feedback hydration integration (B7, B8)"}
 {"replay": 799, "timestamp": "2026-04-20T14:13:31-04:00", "subject": "feat(context): add three-DB integration flows + pre-built context.db (B10, B11)"}
+{"replay": 800, "timestamp": "2026-04-20T14:14:57-04:00", "subject": "test(sprint-6): add 396 tests for AUD4+T4+T7 — core, ingestor, dispatch pipeline"}
