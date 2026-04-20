@@ -779,3 +779,4 @@
 {"replay": 779, "timestamp": "2026-04-19T21:31:05-04:00", "subject": "feat(installer): MCP config, cw install, post-install checklist, port fallback"}
 {"replay": 780, "timestamp": "2026-04-19T21:31:07-04:00", "subject": "docs(IP): add NDAs, IP figures, and fill conception dates"}
 {"replay": 781, "timestamp": "2026-04-19T21:37:26-04:00", "subject": "feat: integration/live → master — sprint-5 + sprint-0/1/2 features + doc sync"}
+{"replay": 782, "timestamp": "2026-04-19T21:47:52-04:00", "subject": "feat(installer): MCP config, cw install web app, post-install checklist, port fallback (workspace)"}
