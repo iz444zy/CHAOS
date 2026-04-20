@@ -776,3 +776,4 @@
 {"replay": 776, "timestamp": "2026-04-19T20:13:13-04:00", "subject": "auto-merge: origin/feat/sprint1-auth-mcp-hardening"}
 {"replay": 777, "timestamp": "2026-04-19T20:13:14-04:00", "subject": "auto-merge: origin/feat/sprint2-ingestor-mcp-resources"}
 {"replay": 778, "timestamp": "2026-04-19T20:19:52-04:00", "subject": "docs(sprint-full): unify integration/live counts across all living docs"}
+{"replay": 779, "timestamp": "2026-04-19T21:31:05-04:00", "subject": "feat(installer): MCP config, cw install, post-install checklist, port fallback"}
