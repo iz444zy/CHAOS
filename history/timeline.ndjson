@@ -785,3 +785,4 @@
 {"replay": 785, "timestamp": "2026-04-19T21:52:20-04:00", "subject": "fix: correct hook schema — hooks array format, absolute paths, empty wildcard matcher"}
 {"replay": 786, "timestamp": "2026-04-20T11:32:35-04:00", "subject": "fix(qa): project QA P0+P1 corrections — doc drift, stale counts, print migration"}
 {"replay": 787, "timestamp": "2026-04-20T11:41:46-04:00", "subject": "docs(qa): add preference profile + mark plan items completed"}
+{"replay": 788, "timestamp": "2026-04-20T11:52:20-04:00", "subject": "fix(qa): project QA 2026-04-20 corrections"}
