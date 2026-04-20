@@ -815,3 +815,4 @@
 {"replay": 815, "timestamp": "2026-04-20T16:42:51-04:00", "subject": "feat(ui): Phase 2 — Agents screen with foreground/background split"}
 {"replay": 816, "timestamp": "2026-04-20T16:44:27-04:00", "subject": "feat(context): add history time-travel and file ingest tabs"}
 {"replay": 817, "timestamp": "2026-04-20T16:47:14-04:00", "subject": "feat(analytics): add /analytics page with runs, praxis, and logic gates"}
+{"replay": 818, "timestamp": "2026-04-20T16:48:34-04:00", "subject": "feat(ui): Phase 3 — PM screen with 6-tab orchestration dashboard"}
