@@ -819,3 +819,4 @@
 {"replay": 819, "timestamp": "2026-04-20T16:49:00-04:00", "subject": "feat(security): add revoke-all and permission-check to permissions tab"}
 {"replay": 820, "timestamp": "2026-04-20T16:50:09-04:00", "subject": "feat(web-ui): sprint 7 workspace — design system + UI infrastructure (phases 1-5)"}
 {"replay": 821, "timestamp": "2026-04-20T16:53:55-04:00", "subject": "feat(ui): Phase 4 — Graph Explorer with 5 view modes and node detail"}
+{"replay": 822, "timestamp": "2026-04-20T16:56:20-04:00", "subject": "feat(ui): Phase 5 — MCP prompts integration with launcher and dispatch"}
