@@ -812,3 +812,4 @@
 {"replay": 812, "timestamp": "2026-04-20T16:24:57-04:00", "subject": "docs(sprint-7): add UI overhaul plans for 3-clone parallel sprint"}
 {"replay": 813, "timestamp": "2026-04-20T16:39:57-04:00", "subject": "feat(ui): Phase 1 ��� Command Center with KPI blocks and dashboard grid"}
 {"replay": 814, "timestamp": "2026-04-20T16:41:18-04:00", "subject": "feat(work): add /work kanban screen with task CRUD + feature tracker"}
+{"replay": 815, "timestamp": "2026-04-20T16:42:51-04:00", "subject": "feat(ui): Phase 2 — Agents screen with foreground/background split"}
