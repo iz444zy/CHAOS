@@ -792,3 +792,4 @@
 {"replay": 792, "timestamp": "2026-04-20T13:38:30-04:00", "subject": "feat(agents): add agent subprocess orchestrator with JSON-lines IPC (G1)"}
 {"replay": 793, "timestamp": "2026-04-20T13:44:09-04:00", "subject": "feat(pm): add agent dispatch system — routing, dependencies, conflicts (AD1-AD5)"}
 {"replay": 794, "timestamp": "2026-04-20T13:44:47-04:00", "subject": "fix(deps): upgrade pydantic, uvicorn, python-multipart minimum versions (AUD32)"}
+{"replay": 795, "timestamp": "2026-04-20T13:45:38-04:00", "subject": "fix(tests): resolve AUD26+AUD29 — fix 24 test failures across 6 files"}
