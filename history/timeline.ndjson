@@ -836,3 +836,4 @@
 {"replay": 836, "timestamp": "2026-04-21T21:49:00-04:00", "subject": "feat(benchmarks): rewrite codegen_swe to use real Claude API calls"}
 {"replay": 837, "timestamp": "2026-04-21T22:14:20-04:00", "subject": "feat(benchmarks): codegen benchmark runs Haiku, Sonnet, and Opus"}
 {"replay": 838, "timestamp": "2026-04-21T13:20:54-04:00", "subject": "feat(email): add trial/subscription email templates + barrel export"}
+{"replay": 839, "timestamp": "2026-04-21T13:20:58-04:00", "subject": "feat(auth): email verification, password reset, middleware protection"}
