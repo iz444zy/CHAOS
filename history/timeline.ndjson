@@ -827,3 +827,4 @@
 {"replay": 827, "timestamp": "2026-04-20T17:15:51-04:00", "subject": "feat: sprint 7 — MCP webapp UI overhaul (3-clone parallel)"}
 {"replay": 828, "timestamp": "2026-04-20T17:42:41-04:00", "subject": "feat(web-ui): add Dockerfile and standalone output for containerized deployment"}
 {"replay": 829, "timestamp": "2026-04-20T17:43:51-04:00", "subject": "docs(todo): mark all 72 Sprint 7 UI items complete"}
+{"replay": 830, "timestamp": "2026-04-21T11:18:56-04:00", "subject": "feat(website): add missing pages, Google OAuth, password strength, fix LinkedIn + mission"}
