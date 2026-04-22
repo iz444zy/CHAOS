@@ -849,3 +849,4 @@
 {"replay": 849, "timestamp": "2026-04-22T14:19:00-04:00", "subject": "docs: add brand identity & values document"}
 {"replay": 850, "timestamp": "2026-04-22T14:49:18-04:00", "subject": "merge: incorporate origin/master (workspace clone website work)"}
 {"replay": 851, "timestamp": "2026-04-22T14:49:27-04:00", "subject": "merge(workspace): brand identity & values document"}
+{"replay": 852, "timestamp": "2026-04-22T14:49:30-04:00", "subject": "merge(workspace): real benchmark rewrites + ClaudeCodeExecutor + experimental design plan"}
