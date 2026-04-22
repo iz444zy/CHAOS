@@ -846,3 +846,4 @@
 {"replay": 846, "timestamp": "2026-04-22T12:42:37-04:00", "subject": "feat(benchmarks): rewire codegen_swe to use ClaudeCodeExecutor"}
 {"replay": 847, "timestamp": "2026-04-22T12:44:59-04:00", "subject": "test(providers): add ClaudeCodeExecutor unit tests and update codegen benchmark tests"}
 {"replay": 848, "timestamp": "2026-04-22T13:59:42-04:00", "subject": "docs(plans): add benchmark experimental design plan"}
+{"replay": 849, "timestamp": "2026-04-22T14:19:00-04:00", "subject": "docs: add brand identity & values document"}
