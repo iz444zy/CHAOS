@@ -833,3 +833,4 @@
 {"replay": 833, "timestamp": "2026-04-21T11:54:07-04:00", "subject": "feat: pricing tiers doc + restore commerce/account pages"}
 {"replay": 834, "timestamp": "2026-04-21T21:26:58-04:00", "subject": "feat(benchmarks): rewrite session_state to use real CHAOS components"}
 {"replay": 835, "timestamp": "2026-04-21T21:34:19-04:00", "subject": "feat(benchmarks): rewrite pm_orchestration to use real PM components"}
+{"replay": 836, "timestamp": "2026-04-21T21:49:00-04:00", "subject": "feat(benchmarks): rewrite codegen_swe to use real Claude API calls"}
