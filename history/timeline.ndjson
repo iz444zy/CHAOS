@@ -831,3 +831,4 @@
 {"replay": 831, "timestamp": "2026-04-21T11:14:41-04:00", "subject": "docs: CHAOS pricing tiers — 4-tier model, competitive analysis, decision log"}
 {"replay": 832, "timestamp": "2026-04-21T11:37:55-04:00", "subject": "fix(website): restore commerce checkout, account pages deleted by auto-merge"}
 {"replay": 833, "timestamp": "2026-04-21T11:54:07-04:00", "subject": "feat: pricing tiers doc + restore commerce/account pages"}
+{"replay": 834, "timestamp": "2026-04-21T21:26:58-04:00", "subject": "feat(benchmarks): rewrite session_state to use real CHAOS components"}
