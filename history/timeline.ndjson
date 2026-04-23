@@ -878,3 +878,4 @@
 {"replay": 878, "timestamp": "2026-04-23T14:12:47-04:00", "subject": "feat(mcp): implement 8 missing PM tools + 3 decision stubs"}
 {"replay": 879, "timestamp": "2026-04-23T14:13:00-04:00", "subject": "refactor(pm,mcp): delete dead modules — context_bridge, auth_bridge, stage_router, prompt_workflows, composer"}
 {"replay": 880, "timestamp": "2026-04-23T14:13:46-04:00", "subject": "fix(web-ui): remove duplicate SSE stream + fix auth error redirect"}
+{"replay": 881, "timestamp": "2026-04-23T14:15:11-04:00", "subject": "merge(workspace): fix/s8-workspace-wire into integration/live"}
