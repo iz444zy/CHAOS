@@ -870,3 +870,4 @@
 {"replay": 870, "timestamp": "2026-04-23T13:39:33-04:00", "subject": "docs: sync living docs after merge of fix/s8-workspace-unblock + fix/s8-workspace-unblock"}
 {"replay": 871, "timestamp": "2026-04-23T13:44:38-04:00", "subject": "docs: sync Stage 1 UNBLOCK complete + gate pass"}
 {"replay": 872, "timestamp": "2026-04-23T14:11:43-04:00", "subject": "feat(mcp): add task_delete, task_retry, task_stats tools"}
+{"replay": 873, "timestamp": "2026-04-23T14:11:55-04:00", "subject": "feat(mcp): add context_bulk_add and context_export tools"}
