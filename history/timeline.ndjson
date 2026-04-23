@@ -900,3 +900,4 @@
 {"replay": 900, "timestamp": "2026-04-23T15:12:23-04:00", "subject": "docs: notify workspace of fleet UI sprint assignment"}
 {"replay": 901, "timestamp": "2026-04-23T15:12:57-04:00", "subject": "Merge remote-tracking branch 'origin/integration/live' into fix/s8-workspace-harden"}
 {"replay": 902, "timestamp": "2026-04-23T15:16:17-04:00", "subject": "merge(workspace): fix/s8-workspace-harden into integration/live"}
+{"replay": 903, "timestamp": "2026-04-23T15:16:58-04:00", "subject": "docs: sync DEV-LOG after workspace harden merge"}
