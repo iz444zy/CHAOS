@@ -909,3 +909,4 @@
 {"replay": 909, "timestamp": "2026-04-23T15:45:10-04:00", "subject": "merge(workspace): fix/s8-workspace-harden into integration/live"}
 {"replay": 910, "timestamp": "2026-04-23T15:46:08-04:00", "subject": "merge(workspace): feat/s9-workspace-fleet-ui into integration/live"}
 {"replay": 911, "timestamp": "2026-04-23T15:46:53-04:00", "subject": "docs: sync DEV-LOG after workspace harden + workspace fleet UI merges"}
+{"replay": 912, "timestamp": "2026-04-23T19:18:46-04:00", "subject": "docs(sprint-full): v4.5.0 unification — retire stale plan, normalize versions, sync canonical counts"}
