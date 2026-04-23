@@ -884,3 +884,4 @@
 {"replay": 884, "timestamp": "2026-04-23T14:16:38-04:00", "subject": "docs: sync Stage 2 WIRE complete + gate pass"}
 {"replay": 885, "timestamp": "2026-04-23T14:23:56-04:00", "subject": "feat: fleet orchestration plan + MCP tools + TUI skeleton"}
 {"replay": 886, "timestamp": "2026-04-23T14:26:08-04:00", "subject": "feat: fleet orchestration plan + MCP tools + TUI"}
+{"replay": 887, "timestamp": "2026-04-23T14:29:45-04:00", "subject": "docs: formal task assignment — workspace fleet orchestration (v5.3.0)"}
