@@ -864,3 +864,4 @@
 {"replay": 864, "timestamp": "2026-04-23T13:35:34-04:00", "subject": "fix(engine): add migration 001, fix 007 chain, import all models in env.py"}
 {"replay": 865, "timestamp": "2026-04-23T13:35:41-04:00", "subject": "fix(mcp): add Authorization to CORS headers, default host 0.0.0.0 in Docker"}
 {"replay": 866, "timestamp": "2026-04-23T13:36:11-04:00", "subject": "auto-merge: CHAOS-workspace/update/s8-workspace-unblock"}
+{"replay": 867, "timestamp": "2026-04-23T13:37:46-04:00", "subject": "fix(web-ui): rename mismatched MCP tool names to match backend registry"}
