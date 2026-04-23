@@ -858,3 +858,4 @@
 {"replay": 858, "timestamp": "2026-04-23T13:31:33-04:00", "subject": "fix(db): correct alembic.ini path in migration scripts"}
 {"replay": 859, "timestamp": "2026-04-23T13:31:35-04:00", "subject": "auto-merge: CHAOS-workspace/update/s8-workspace-unblock"}
 {"replay": 860, "timestamp": "2026-04-23T13:31:40-04:00", "subject": "fix(db): add sys.path bootstrap to seed_db.py"}
+{"replay": 861, "timestamp": "2026-04-23T13:31:54-04:00", "subject": "fix(docker): add .env pre-flight to entrypoint"}
