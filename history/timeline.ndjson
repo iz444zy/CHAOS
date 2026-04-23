@@ -907,3 +907,4 @@
 {"replay": 907, "timestamp": "2026-04-23T15:43:28-04:00", "subject": "feat: implement fleet orchestration TUI + web dashboard (FL4-FL9)"}
 {"replay": 908, "timestamp": "2026-04-23T15:43:34-04:00", "subject": "fix(db): harden Docker init pipeline — 7 fixes from S8 Stage 4 verify"}
 {"replay": 909, "timestamp": "2026-04-23T15:45:10-04:00", "subject": "merge(workspace): fix/s8-workspace-harden into integration/live"}
+{"replay": 910, "timestamp": "2026-04-23T15:46:08-04:00", "subject": "merge(workspace): feat/s9-workspace-fleet-ui into integration/live"}
