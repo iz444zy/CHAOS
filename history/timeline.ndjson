@@ -868,3 +868,4 @@
 {"replay": 868, "timestamp": "2026-04-23T13:38:07-04:00", "subject": "fix(web-ui): wire auth headers into all MCP HTTP requests"}
 {"replay": 869, "timestamp": "2026-04-23T13:38:24-04:00", "subject": "auto-merge: CHAOS-workspace/update/s8-workspace-unblock"}
 {"replay": 870, "timestamp": "2026-04-23T13:39:33-04:00", "subject": "docs: sync living docs after merge of fix/s8-workspace-unblock + fix/s8-workspace-unblock"}
+{"replay": 871, "timestamp": "2026-04-23T13:44:38-04:00", "subject": "docs: sync Stage 1 UNBLOCK complete + gate pass"}
