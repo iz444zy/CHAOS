@@ -880,3 +880,4 @@
 {"replay": 880, "timestamp": "2026-04-23T14:13:46-04:00", "subject": "fix(web-ui): remove duplicate SSE stream + fix auth error redirect"}
 {"replay": 881, "timestamp": "2026-04-23T14:15:11-04:00", "subject": "merge(workspace): fix/s8-workspace-wire into integration/live"}
 {"replay": 882, "timestamp": "2026-04-23T14:15:16-04:00", "subject": "merge(workspace): fix/s8-workspace-wire into integration/live"}
+{"replay": 883, "timestamp": "2026-04-23T14:15:23-04:00", "subject": "merge(workspace): fix/s8-workspace-wire into integration/live"}
