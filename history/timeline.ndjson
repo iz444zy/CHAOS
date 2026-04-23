@@ -866,3 +866,4 @@
 {"replay": 866, "timestamp": "2026-04-23T13:36:11-04:00", "subject": "auto-merge: CHAOS-workspace/update/s8-workspace-unblock"}
 {"replay": 867, "timestamp": "2026-04-23T13:37:46-04:00", "subject": "fix(web-ui): rename mismatched MCP tool names to match backend registry"}
 {"replay": 868, "timestamp": "2026-04-23T13:38:07-04:00", "subject": "fix(web-ui): wire auth headers into all MCP HTTP requests"}
+{"replay": 869, "timestamp": "2026-04-23T13:38:24-04:00", "subject": "auto-merge: CHAOS-workspace/update/s8-workspace-unblock"}
