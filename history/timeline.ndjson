@@ -861,3 +861,4 @@
 {"replay": 861, "timestamp": "2026-04-23T13:31:54-04:00", "subject": "fix(docker): add .env pre-flight to entrypoint"}
 {"replay": 862, "timestamp": "2026-04-23T13:32:05-04:00", "subject": "feat(docker): add init service for schema migration + seeding"}
 {"replay": 863, "timestamp": "2026-04-23T13:32:18-04:00", "subject": "auto-merge: CHAOS-workspace/update/s8-workspace-unblock"}
+{"replay": 864, "timestamp": "2026-04-23T13:35:34-04:00", "subject": "fix(engine): add migration 001, fix 007 chain, import all models in env.py"}
