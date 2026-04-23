@@ -875,3 +875,4 @@
 {"replay": 875, "timestamp": "2026-04-23T14:12:12-04:00", "subject": "chore: remove 5 unused feature flags"}
 {"replay": 876, "timestamp": "2026-04-23T14:12:20-04:00", "subject": "refactor: consolidate TOOL_SCOPE_MAP into tool_scopes.py"}
 {"replay": 877, "timestamp": "2026-04-23T14:12:30-04:00", "subject": "fix(web-ui): rename PM tool calls to match backend + hide Decisions tab"}
+{"replay": 878, "timestamp": "2026-04-23T14:12:47-04:00", "subject": "feat(mcp): implement 8 missing PM tools + 3 decision stubs"}
