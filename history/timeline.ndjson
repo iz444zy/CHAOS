@@ -898,3 +898,4 @@
 {"replay": 898, "timestamp": "2026-04-23T15:08:23-04:00", "subject": "fix: Stage 3 HARDEN — shim removal, composite helper, benchmark wiring, interface cleanup"}
 {"replay": 899, "timestamp": "2026-04-23T15:12:05-04:00", "subject": "feat: add workspace fleet UI sprint plan (FL4-FL9)"}
 {"replay": 900, "timestamp": "2026-04-23T15:12:23-04:00", "subject": "docs: notify workspace of fleet UI sprint assignment"}
+{"replay": 901, "timestamp": "2026-04-23T15:12:57-04:00", "subject": "Merge remote-tracking branch 'origin/integration/live' into fix/s8-workspace-harden"}
