@@ -902,3 +902,4 @@
 {"replay": 902, "timestamp": "2026-04-23T15:16:17-04:00", "subject": "merge(workspace): fix/s8-workspace-harden into integration/live"}
 {"replay": 903, "timestamp": "2026-04-23T15:16:58-04:00", "subject": "docs: sync DEV-LOG after workspace harden merge"}
 {"replay": 904, "timestamp": "2026-04-23T15:26:46-04:00", "subject": "fix: Stage 4 VERIFY — fix test assertions + lint fleet scripts"}
+{"replay": 905, "timestamp": "2026-04-23T15:27:24-04:00", "subject": "merge(workspace): fix/s8-workspace-harden new commits into integration/live"}
