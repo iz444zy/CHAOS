@@ -893,3 +893,4 @@
 {"replay": 893, "timestamp": "2026-04-23T14:58:49-04:00", "subject": "feat: add market research surveys (AI adoption, git challenges, agent orchestration)"}
 {"replay": 894, "timestamp": "2026-04-23T14:59:31-04:00", "subject": "feat: add CHAOS-workspace market research clone assignment"}
 {"replay": 895, "timestamp": "2026-04-23T15:01:32-04:00", "subject": "merge(workspace): fix/s8-workspace-harden updates into integration/live"}
+{"replay": 896, "timestamp": "2026-04-23T15:01:33-04:00", "subject": "merge(workspace): fix/s8-workspace-harden updates into integration/live"}
