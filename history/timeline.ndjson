@@ -917,3 +917,4 @@
 {"replay": 917, "timestamp": "2026-04-24T13:51:42-04:00", "subject": "docs(audit): integration fluency audit — engine ↔ MCP ↔ Web UI"}
 {"replay": 918, "timestamp": "2026-04-24T13:52:33-04:00", "subject": "docs(plans): workspace WS-2/4/5/7 unified /library plan"}
 {"replay": 919, "timestamp": "2026-04-24T13:54:22-04:00", "subject": "auto-merge: CHAOS-workspace/feature/s10-workspace-webui-catalog"}
+{"replay": 920, "timestamp": "2026-04-24T18:40:46-04:00", "subject": "fix(sync): guard against None stdout in watcher diff"}
