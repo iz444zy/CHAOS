@@ -911,3 +911,4 @@
 {"replay": 911, "timestamp": "2026-04-23T15:46:53-04:00", "subject": "docs: sync DEV-LOG after workspace harden + workspace fleet UI merges"}
 {"replay": 912, "timestamp": "2026-04-23T19:18:46-04:00", "subject": "docs(sprint-full): v4.5.0 unification — retire stale plan, normalize versions, sync canonical counts"}
 {"replay": 913, "timestamp": "2026-04-23T19:23:42-04:00", "subject": "docs: sprint-full v4.5.0 unification"}
+{"replay": 914, "timestamp": "2026-04-23T20:19:47-04:00", "subject": "feat(web-ui): add EventBus real-time hooks + fleet dashboard enhancements"}
