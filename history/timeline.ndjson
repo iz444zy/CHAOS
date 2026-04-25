@@ -951,3 +951,4 @@
 {"replay": 951, "timestamp": "2026-04-25T14:22:28-04:00", "subject": "Sprint 9: WebUI MCP Phase B + conflict resolver + integrator hardening"}
 {"replay": 952, "timestamp": "2026-04-25T14:25:54-04:00", "subject": "chore: merge master into workspace — accept upstream README"}
 {"replay": 953, "timestamp": "2026-04-25T15:40:07-04:00", "subject": "docs: fix script paths, bump to v5.4.0, update MCP count to 179"}
+{"replay": 954, "timestamp": "2026-04-25T15:52:26-04:00", "subject": "refactor(sync): reorganize flat sync/ into daemon/, merge/, review/, transport/ subpackages"}
