@@ -936,3 +936,4 @@
 {"replay": 936, "timestamp": "2026-04-24T21:16:59-04:00", "subject": "auto-merge: CHAOS-workspace/feature/mcp-contract-gate"}
 {"replay": 937, "timestamp": "2026-04-24T21:17:00-04:00", "subject": "Revert \"test(contract): add Phase A MCP/UI drift gate contract tests\""}
 {"replay": 938, "timestamp": "2026-04-24T21:17:05-04:00", "subject": "auto-merge: CHAOS-workspace/update/frontend-sse-url-and-drift"}
+{"replay": 939, "timestamp": "2026-04-24T21:16:35-04:00", "subject": "test(contract): add Phase A MCP/UI drift gate contract tests"}
