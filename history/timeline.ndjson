@@ -974,3 +974,4 @@
 {"replay": 974, "timestamp": "2026-04-25T19:30:47-04:00", "subject": "feat(website): commerce integration, domain rename, build fixes"}
 {"replay": 975, "timestamp": "2026-04-25T19:38:54-04:00", "subject": "feat(terminal): add backend session manager foundation"}
 {"replay": 976, "timestamp": "2026-04-25T19:38:54-04:00", "subject": "feat(web-ui): add terminal command center foundation"}
+{"replay": 977, "timestamp": "2026-04-25T19:42:51-04:00", "subject": "Merge remote-tracking branch 'origin/master' into integration/live"}
