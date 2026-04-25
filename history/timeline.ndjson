@@ -933,3 +933,4 @@
 {"replay": 933, "timestamp": "2026-04-24T21:16:07-04:00", "subject": "fix(web-ui): correct SSE endpoint URL and tool name drift"}
 {"replay": 934, "timestamp": "2026-04-24T21:16:52-04:00", "subject": "auto-merge: CHAOS-workspace/feature/pm-decision-tools"}
 {"replay": 935, "timestamp": "2026-04-24T21:16:35-04:00", "subject": "test(contract): add Phase A MCP/UI drift gate contract tests"}
+{"replay": 936, "timestamp": "2026-04-24T21:16:59-04:00", "subject": "auto-merge: CHAOS-workspace/feature/mcp-contract-gate"}
