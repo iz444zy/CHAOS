@@ -949,3 +949,4 @@
 {"replay": 949, "timestamp": "2026-04-25T14:10:43-04:00", "subject": "docs(hooks): add Windows PS1 hook installer and update CONTRIBUTING"}
 {"replay": 950, "timestamp": "2026-04-25T14:12:35-04:00", "subject": "auto-merge: CHAOS-workspace/feature/mcp-phase-b-tools (full branch)"}
 {"replay": 951, "timestamp": "2026-04-25T14:22:28-04:00", "subject": "Sprint 9: WebUI MCP Phase B + conflict resolver + integrator hardening"}
+{"replay": 952, "timestamp": "2026-04-25T14:25:54-04:00", "subject": "chore: merge master into workspace — accept upstream README"}
