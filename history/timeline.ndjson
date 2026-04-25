@@ -967,3 +967,4 @@
 {"replay": 967, "timestamp": "2026-04-25T17:31:23-04:00", "subject": "auto-merge: CHAOS-workspace/default"}
 {"replay": 968, "timestamp": "2026-04-25T17:31:25-04:00", "subject": "auto-merge: CHAOS-workspace/default"}
 {"replay": 969, "timestamp": "2026-04-25T17:33:44-04:00", "subject": "fix(sync): update refactored startup paths"}
+{"replay": 970, "timestamp": "2026-04-25T17:34:49-04:00", "subject": "auto-merge: origin/fix/sync-refactor-startup"}
