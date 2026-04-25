@@ -938,3 +938,4 @@
 {"replay": 938, "timestamp": "2026-04-24T21:17:05-04:00", "subject": "auto-merge: CHAOS-workspace/update/frontend-sse-url-and-drift"}
 {"replay": 939, "timestamp": "2026-04-24T21:16:35-04:00", "subject": "test(contract): add Phase A MCP/UI drift gate contract tests"}
 {"replay": 940, "timestamp": "2026-04-24T22:10:48-04:00", "subject": "auto-merge: CHAOS-workspace/feature/mcp-phase-b-tools"}
+{"replay": 941, "timestamp": "2026-04-24T22:19:45-04:00", "subject": "feat(sync): wire auto_resolve_with_escalation into merge pipeline"}
