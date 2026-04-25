@@ -943,3 +943,4 @@
 {"replay": 943, "timestamp": "2026-04-24T22:25:39-04:00", "subject": "fix(mcp): C8 wire context bridge to engine_configured; C7 add auth header to SSE stream"}
 {"replay": 944, "timestamp": "2026-04-25T13:26:41-04:00", "subject": "fix(mcp): fix agent_deregister and update_item runtime bugs"}
 {"replay": 945, "timestamp": "2026-04-25T13:31:32-04:00", "subject": "feat(workflow): add todo lifecycle protocol and post-commit hook"}
+{"replay": 946, "timestamp": "2026-04-25T13:34:50-04:00", "subject": "feat(mcp): add todo_complete tool for atomic todo status updates"}
