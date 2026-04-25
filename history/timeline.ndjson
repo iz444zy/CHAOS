@@ -927,3 +927,4 @@
 {"replay": 927, "timestamp": "2026-04-24T21:02:38-04:00", "subject": "fix(mcp): address 8 code review findings from session review"}
 {"replay": 928, "timestamp": "2026-04-24T21:14:33-04:00", "subject": "feat(pm): implement in-memory DecisionService and pm_decision_* tools"}
 {"replay": 929, "timestamp": "2026-04-24T21:14:33-04:00", "subject": "feat(pm): implement in-memory DecisionService and pm_decision_* tools"}
+{"replay": 930, "timestamp": "2026-04-24T21:15:26-04:00", "subject": "auto-merge: CHAOS-workspace/feature/pm-decision-tools"}
