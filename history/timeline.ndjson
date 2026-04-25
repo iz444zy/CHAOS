@@ -945,3 +945,4 @@
 {"replay": 945, "timestamp": "2026-04-25T13:31:32-04:00", "subject": "feat(workflow): add todo lifecycle protocol and post-commit hook"}
 {"replay": 946, "timestamp": "2026-04-25T13:34:50-04:00", "subject": "feat(mcp): add todo_complete tool for atomic todo status updates"}
 {"replay": 947, "timestamp": "2026-04-25T13:58:52-04:00", "subject": "fix(mcp): guard tool catalog against FastMCP private API changes"}
+{"replay": 948, "timestamp": "2026-04-25T14:03:13-04:00", "subject": "docs: sprint sync — Sprint 9 WebUI MCP Phase B + Conflict Resolver (v5.4.0)"}
