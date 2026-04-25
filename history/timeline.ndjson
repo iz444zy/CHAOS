@@ -940,3 +940,4 @@
 {"replay": 940, "timestamp": "2026-04-24T22:10:48-04:00", "subject": "auto-merge: CHAOS-workspace/feature/mcp-phase-b-tools"}
 {"replay": 941, "timestamp": "2026-04-24T22:19:45-04:00", "subject": "feat(sync): wire auto_resolve_with_escalation into merge pipeline"}
 {"replay": 942, "timestamp": "2026-04-24T22:23:01-04:00", "subject": "feat(mcp): implement 12 missing tools — A1 drift gate now 0 entries"}
+{"replay": 943, "timestamp": "2026-04-24T22:25:39-04:00", "subject": "fix(mcp): C8 wire context bridge to engine_configured; C7 add auth header to SSE stream"}
