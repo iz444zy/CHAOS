@@ -923,3 +923,4 @@
 {"replay": 923, "timestamp": "2026-04-24T18:42:09-04:00", "subject": "auto-merge: CHAOS-workspace/feature/s10-workspace-webui-catalog"}
 {"replay": 924, "timestamp": "2026-04-24T18:42:26-04:00", "subject": "auto-merge: origin/docs/webui-mcp-finalization-plan"}
 {"replay": 925, "timestamp": "2026-04-24T20:05:54-04:00", "subject": "Integration/live - planning"}
+{"replay": 926, "timestamp": "2026-04-24T20:43:58-04:00", "subject": "feat(mcp): wire ContextBus, dispatch engine, fleet tools, and SSE/WS routes"}
