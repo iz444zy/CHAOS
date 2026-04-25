@@ -966,3 +966,4 @@
 {"replay": 966, "timestamp": "2026-04-25T17:31:13-04:00", "subject": "auto-merge: origin/pr/sprint-10-combined"}
 {"replay": 967, "timestamp": "2026-04-25T17:31:23-04:00", "subject": "auto-merge: CHAOS-workspace/default"}
 {"replay": 968, "timestamp": "2026-04-25T17:31:25-04:00", "subject": "auto-merge: CHAOS-workspace/default"}
+{"replay": 969, "timestamp": "2026-04-25T17:33:44-04:00", "subject": "fix(sync): update refactored startup paths"}
