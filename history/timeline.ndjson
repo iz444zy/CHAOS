@@ -947,3 +947,4 @@
 {"replay": 947, "timestamp": "2026-04-25T13:58:52-04:00", "subject": "fix(mcp): guard tool catalog against FastMCP private API changes"}
 {"replay": 948, "timestamp": "2026-04-25T14:03:13-04:00", "subject": "docs: sprint sync — Sprint 9 WebUI MCP Phase B + Conflict Resolver (v5.4.0)"}
 {"replay": 949, "timestamp": "2026-04-25T14:10:43-04:00", "subject": "docs(hooks): add Windows PS1 hook installer and update CONTRIBUTING"}
+{"replay": 950, "timestamp": "2026-04-25T14:12:35-04:00", "subject": "auto-merge: CHAOS-workspace/feature/mcp-phase-b-tools (full branch)"}
