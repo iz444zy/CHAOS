@@ -959,3 +959,4 @@
 {"replay": 959, "timestamp": "2026-04-25T17:11:31-04:00", "subject": "Revert integration live updates"}
 {"replay": 960, "timestamp": "2026-04-25T15:40:07-04:00", "subject": "docs: fix script paths, bump to v5.4.0, update MCP count to 179"}
 {"replay": 961, "timestamp": "2026-04-25T15:52:26-04:00", "subject": "refactor(sync): reorganize flat sync/ into daemon/, merge/, review/, transport/ subpackages"}
+{"replay": 962, "timestamp": "2026-04-25T15:57:00-04:00", "subject": "refactor(context): split context.py (735 lines, 14 tools) into 3 focused files"}
