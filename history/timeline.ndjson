@@ -972,3 +972,4 @@
 {"replay": 972, "timestamp": "2026-04-25T17:38:23-04:00", "subject": "fix(sync): exclude workspace from clone mesh"}
 {"replay": 973, "timestamp": "2026-04-25T17:42:19-04:00", "subject": "Fix refactored sync startup paths"}
 {"replay": 974, "timestamp": "2026-04-25T19:30:47-04:00", "subject": "feat(website): commerce integration, domain rename, build fixes"}
+{"replay": 975, "timestamp": "2026-04-25T19:38:54-04:00", "subject": "feat(terminal): add backend session manager foundation"}
