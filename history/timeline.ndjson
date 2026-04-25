@@ -958,3 +958,4 @@
 {"replay": 958, "timestamp": "2026-04-25T17:11:17-04:00", "subject": "Revert \"Integration live updates (#150)\""}
 {"replay": 959, "timestamp": "2026-04-25T17:11:31-04:00", "subject": "Revert integration live updates"}
 {"replay": 960, "timestamp": "2026-04-25T15:40:07-04:00", "subject": "docs: fix script paths, bump to v5.4.0, update MCP count to 179"}
+{"replay": 961, "timestamp": "2026-04-25T15:52:26-04:00", "subject": "refactor(sync): reorganize flat sync/ into daemon/, merge/, review/, transport/ subpackages"}
