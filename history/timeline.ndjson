@@ -954,3 +954,4 @@
 {"replay": 954, "timestamp": "2026-04-25T15:52:26-04:00", "subject": "refactor(sync): reorganize flat sync/ into daemon/, merge/, review/, transport/ subpackages"}
 {"replay": 955, "timestamp": "2026-04-25T15:57:00-04:00", "subject": "refactor(context): split context.py (735 lines, 14 tools) into 3 focused files"}
 {"replay": 956, "timestamp": "2026-04-25T17:00:27-04:00", "subject": "Integration live updates"}
+{"replay": 957, "timestamp": "2026-04-25T17:03:14-04:00", "subject": "docs(sprint-10): add terminal command center plan"}
