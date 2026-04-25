@@ -970,3 +970,4 @@
 {"replay": 970, "timestamp": "2026-04-25T17:34:49-04:00", "subject": "auto-merge: origin/fix/sync-refactor-startup"}
 {"replay": 971, "timestamp": "2026-04-25T17:35:33-04:00", "subject": "docs(sync): default hub startup to origin master flow"}
 {"replay": 972, "timestamp": "2026-04-25T17:38:23-04:00", "subject": "fix(sync): exclude workspace from clone mesh"}
+{"replay": 973, "timestamp": "2026-04-25T17:42:19-04:00", "subject": "Fix refactored sync startup paths"}
