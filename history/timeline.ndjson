@@ -998,3 +998,4 @@
 {"replay": 998, "timestamp": "2026-04-25T21:17:21-04:00", "subject": "auto-merge: CHAOS-workspace/update/s10-workspace-tier-persistence"}
 {"replay": 999, "timestamp": "2026-04-25T23:12:41-04:00", "subject": "fix(terminal): align sprint 10 terminal contracts"}
 {"replay": 1000, "timestamp": "2026-04-25T23:40:56-04:00", "subject": "fix(terminal): align sprint 10 terminal contracts"}
+{"replay": 1001, "timestamp": "2026-04-26T13:25:46-04:00", "subject": "fix(sync): enable merge ingestor by default"}
