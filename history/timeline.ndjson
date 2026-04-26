@@ -987,3 +987,4 @@
 {"replay": 987, "timestamp": "2026-04-25T20:58:56-04:00", "subject": "fix(web-ui): align terminal contract payloads"}
 {"replay": 988, "timestamp": "2026-04-25T21:00:36-04:00", "subject": "fix(terminal): register backend MCP tools"}
 {"replay": 989, "timestamp": "2026-04-25T21:01:06-04:00", "subject": "auto-merge: CHAOS-workspace/update/s10-terminal-backend"}
+{"replay": 990, "timestamp": "2026-04-25T21:02:55-04:00", "subject": "fix(web-ui): align terminal contract payloads"}
