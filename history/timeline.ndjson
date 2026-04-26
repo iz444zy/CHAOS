@@ -990,3 +990,4 @@
 {"replay": 990, "timestamp": "2026-04-25T21:02:55-04:00", "subject": "fix(web-ui): align terminal contract payloads"}
 {"replay": 991, "timestamp": "2026-04-25T21:03:05-04:00", "subject": "fix(terminal): register backend MCP tools"}
 {"replay": 992, "timestamp": "2026-04-25T21:04:35-04:00", "subject": "auto-merge: CHAOS-workspace/update/s10-post-pr-workspace-gates"}
+{"replay": 993, "timestamp": "2026-04-25T21:06:35-04:00", "subject": "test(terminal): add sprint 10 drift gates"}
