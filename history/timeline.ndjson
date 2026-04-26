@@ -980,3 +980,4 @@
 {"replay": 980, "timestamp": "2026-04-25T19:44:06-04:00", "subject": "feat(sprint-10): add codex provider and git MCP tools"}
 {"replay": 981, "timestamp": "2026-04-25T19:44:19-04:00", "subject": "auto-merge: CHAOS-workspace/feature/s10-workspace-git-provider-persistence"}
 {"replay": 982, "timestamp": "2026-04-25T20:18:57-04:00", "subject": "auto-merge: origin/feat/commerce-oauth-domain"}
+{"replay": 983, "timestamp": "2026-04-25T20:19:03-04:00", "subject": "feat(website): commerce integration, domain rename, build fixes"}
