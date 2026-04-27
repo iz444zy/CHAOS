@@ -1001,3 +1001,4 @@
 {"replay": 1001, "timestamp": "2026-04-26T13:25:46-04:00", "subject": "fix(sync): enable merge ingestor by default"}
 {"replay": 1002, "timestamp": "2026-04-26T13:27:28-04:00", "subject": "fix(sync): enable merge ingestor by default"}
 {"replay": 1003, "timestamp": "2026-04-26T23:47:44-04:00", "subject": "chore: living docs update, fix drift"}
+{"replay": 1004, "timestamp": "2026-04-26T23:48:52-04:00", "subject": "chore: living docs update, fix drift"}
