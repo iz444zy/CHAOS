@@ -1006,3 +1006,4 @@
 {"replay": 1006, "timestamp": "2026-04-27T00:06:21-04:00", "subject": "docs(tests): add test coverage improvement plan"}
 {"replay": 1007, "timestamp": "2026-04-27T00:07:01-04:00", "subject": "docs(tests): test coverage improvement plan"}
 {"replay": 1008, "timestamp": "2026-04-30T11:18:46-04:00", "subject": "feat(web-ui): polish demo command center"}
+{"replay": 1009, "timestamp": "2026-04-30T11:21:00-04:00", "subject": "docs: reorganize archived plans and add gap report"}
