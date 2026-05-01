@@ -1011,3 +1011,4 @@
 {"replay": 1011, "timestamp": "2026-04-30T11:28:21-04:00", "subject": "Reorganize archived plans and add living-docs gap report"}
 {"replay": 1012, "timestamp": "2026-04-30T12:10:43-04:00", "subject": "feat(docker): add traefik reverse proxy for mcp"}
 {"replay": 1013, "timestamp": "2026-04-30T12:13:49-04:00", "subject": "feat(docker): add Traefik reverse proxy for MCP"}
+{"replay": 1014, "timestamp": "2026-04-30T20:46:54-04:00", "subject": "feat(mcp): align chaos server deployment surfaces"}
