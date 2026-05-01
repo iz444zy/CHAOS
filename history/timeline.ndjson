@@ -1013,3 +1013,4 @@
 {"replay": 1013, "timestamp": "2026-04-30T12:13:49-04:00", "subject": "feat(docker): add Traefik reverse proxy for MCP"}
 {"replay": 1014, "timestamp": "2026-04-30T20:46:54-04:00", "subject": "feat(mcp): align chaos server deployment surfaces"}
 {"replay": 1015, "timestamp": "2026-04-30T20:46:55-04:00", "subject": "docs(demo): refine finalization plan dependencies"}
+{"replay": 1016, "timestamp": "2026-04-30T20:51:43-04:00", "subject": "feat(mcp): align chaos server deployment surfaces"}
