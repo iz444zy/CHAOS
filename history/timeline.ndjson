@@ -1050,3 +1050,4 @@
 {"replay": 1050, "timestamp": "2026-05-02T19:40:05-04:00", "subject": "auto-merge: origin/workspace/test/demo-p0-evidence-coverage-resolved-v4"}
 {"replay": 1051, "timestamp": "2026-05-02T19:40:15-04:00", "subject": "auto-merge: workspace/default"}
 {"replay": 1052, "timestamp": "2026-05-02T19:50:59-04:00", "subject": "fix(web-ui): forward auth through MCP evidence proxy"}
+{"replay": 1053, "timestamp": "2026-05-02T19:51:20-04:00", "subject": "auto-merge: workspace/update/mcp-evidence-proxy-auth"}
