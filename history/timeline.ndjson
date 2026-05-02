@@ -1026,3 +1026,4 @@
 {"replay": 1026, "timestamp": "2026-05-02T19:20:01-04:00", "subject": "auto-merge: workspace/feature/izzy-part-a-workspace-p0-dashboard"}
 {"replay": 1027, "timestamp": "2026-05-02T19:20:49-04:00", "subject": "feat(web-ui): add demo MCP evidence proxy"}
 {"replay": 1028, "timestamp": "2026-05-02T19:21:00-04:00", "subject": "feat(web-ui): wire demo P0 evidence dashboard"}
+{"replay": 1029, "timestamp": "2026-05-02T19:23:30-04:00", "subject": "auto-merge: workspace/default"}
