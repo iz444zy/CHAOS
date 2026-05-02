@@ -1021,3 +1021,4 @@
 {"replay": 1021, "timestamp": "2026-05-02T16:37:04-04:00", "subject": "docs(project-qa): consolidate demo cleanup artifacts"}
 {"replay": 1022, "timestamp": "2026-05-02T18:36:14-04:00", "subject": "docs: split demo plan across clone tracks"}
 {"replay": 1023, "timestamp": "2026-05-02T18:37:04-04:00", "subject": "docs: split demo plan across clone tracks"}
+{"replay": 1024, "timestamp": "2026-05-02T19:19:48-04:00", "subject": "feat(web-ui): add demo MCP evidence proxy"}
