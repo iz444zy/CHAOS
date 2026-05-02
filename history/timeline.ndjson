@@ -1036,3 +1036,4 @@
 {"replay": 1036, "timestamp": "2026-05-02T19:33:23-04:00", "subject": "auto-merge: origin/fix/sync-merge-debounce-10s"}
 {"replay": 1037, "timestamp": "2026-05-02T19:33:50-04:00", "subject": "auto-merge (resolved): origin/fix/sync-merge-debounce-10s"}
 {"replay": 1038, "timestamp": "2026-05-02T19:35:46-04:00", "subject": "fix(sync): reduce merge ingestor debounce"}
+{"replay": 1039, "timestamp": "2026-05-02T19:36:11-04:00", "subject": "test(web-ui): cover workspace demo P0 evidence path"}
