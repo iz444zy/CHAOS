@@ -1040,3 +1040,4 @@
 {"replay": 1040, "timestamp": "2026-05-02T19:36:56-04:00", "subject": "auto-merge: origin/workspace/test/demo-p0-evidence-coverage-resolved-v2"}
 {"replay": 1041, "timestamp": "2026-05-02T19:37:21-04:00", "subject": "test(web-ui): align demo evidence tests"}
 {"replay": 1042, "timestamp": "2026-05-02T19:36:11-04:00", "subject": "test(web-ui): cover workspace demo P0 evidence path"}
+{"replay": 1043, "timestamp": "2026-05-02T19:37:21-04:00", "subject": "test(web-ui): align demo evidence tests"}
