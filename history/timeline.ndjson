@@ -1052,3 +1052,4 @@
 {"replay": 1052, "timestamp": "2026-05-02T19:50:59-04:00", "subject": "fix(web-ui): forward auth through MCP evidence proxy"}
 {"replay": 1053, "timestamp": "2026-05-02T19:51:20-04:00", "subject": "auto-merge: workspace/update/mcp-evidence-proxy-auth"}
 {"replay": 1054, "timestamp": "2026-05-02T19:51:37-04:00", "subject": "fix(web-ui): clarify demo evidence labels"}
+{"replay": 1055, "timestamp": "2026-05-02T19:51:45-04:00", "subject": "auto-merge: workspace/feature/workspace-demo-dashboard-labels"}
