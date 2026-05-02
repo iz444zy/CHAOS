@@ -1030,3 +1030,4 @@
 {"replay": 1030, "timestamp": "2026-05-02T19:27:42-04:00", "subject": "test(web-ui): cover demo evidence path"}
 {"replay": 1031, "timestamp": "2026-05-02T19:27:49-04:00", "subject": "auto-merge: workspace/test/demo-evidence-coverage"}
 {"replay": 1032, "timestamp": "2026-05-02T19:27:53-04:00", "subject": "test(web-ui): cover demo MCP evidence path"}
+{"replay": 1033, "timestamp": "2026-05-02T19:27:59-04:00", "subject": "auto-merge (resolved): workspace/test/demo-p0-evidence-coverage"}
