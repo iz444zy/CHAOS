@@ -1048,3 +1048,4 @@
 {"replay": 1048, "timestamp": "2026-05-02T19:38:12-04:00", "subject": "test(web-ui): update fallback blocker assertion"}
 {"replay": 1049, "timestamp": "2026-05-02T19:39:09-04:00", "subject": "test(web-ui): resolve workspace demo coverage"}
 {"replay": 1050, "timestamp": "2026-05-02T19:40:05-04:00", "subject": "auto-merge: origin/workspace/test/demo-p0-evidence-coverage-resolved-v4"}
+{"replay": 1051, "timestamp": "2026-05-02T19:40:15-04:00", "subject": "auto-merge: workspace/default"}
