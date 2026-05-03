@@ -1075,3 +1075,4 @@
 {"replay": 1075, "timestamp": "2026-05-03T00:26:53-04:00", "subject": "fix(demo): hide seed fleet during live load"}
 {"replay": 1076, "timestamp": "2026-05-03T00:26:57-04:00", "subject": "auto-merge: workspace/test/demo-e2e-mcp-receipts"}
 {"replay": 1077, "timestamp": "2026-05-03T00:32:36-04:00", "subject": "fix(demo): detect provider agent state"}
+{"replay": 1078, "timestamp": "2026-05-03T00:32:38-04:00", "subject": "auto-merge: workspace/test/demo-e2e-mcp-receipts"}
