@@ -1139,3 +1139,4 @@
 {"replay": 1139, "timestamp": "2026-05-03T17:42:25-04:00", "subject": "fix(demo): gate c-chat truncation and include numpy"}
 {"replay": 1140, "timestamp": "2026-05-03T17:44:29-04:00", "subject": "fix(demo): gate c-chat truncation and include numpy"}
 {"replay": 1141, "timestamp": "2026-05-03T17:45:13-04:00", "subject": "auto-merge (resolved): workspace/default"}
+{"replay": 1142, "timestamp": "2026-05-03T19:18:40-04:00", "subject": "fix(git): streamline live branch automation"}
