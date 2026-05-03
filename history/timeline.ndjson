@@ -1079,3 +1079,4 @@
 {"replay": 1079, "timestamp": "2026-05-03T00:47:08-04:00", "subject": "fix(sync): target default or integration branches"}
 {"replay": 1080, "timestamp": "2026-05-03T00:47:12-04:00", "subject": "auto-merge (resolved): workspace/test/demo-e2e-mcp-receipts"}
 {"replay": 1081, "timestamp": "2026-05-03T01:05:20-04:00", "subject": "fix(demo): show clone c-chat terminal output"}
+{"replay": 1082, "timestamp": "2026-05-03T01:05:28-04:00", "subject": "auto-merge: workspace/test/demo-e2e-mcp-receipts"}
