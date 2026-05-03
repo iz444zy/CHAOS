@@ -1091,3 +1091,4 @@
 {"replay": 1091, "timestamp": "2026-05-03T02:19:15-04:00", "subject": "fix(demo): timestamp live clone sessions"}
 {"replay": 1092, "timestamp": "2026-05-03T02:19:15-04:00", "subject": "auto-merge: workspace/test/demo-e2e-mcp-receipts"}
 {"replay": 1093, "timestamp": "2026-05-03T02:40:48-04:00", "subject": "docs(demo): plan cli c-chat bridge"}
+{"replay": 1094, "timestamp": "2026-05-03T02:41:00-04:00", "subject": "auto-merge: workspace/test/demo-e2e-mcp-receipts"}
