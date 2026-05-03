@@ -1136,3 +1136,4 @@
 {"replay": 1136, "timestamp": "2026-05-03T16:42:44-04:00", "subject": "auto-merge (resolved): workspace/update/cchat-clone-feed"}
 {"replay": 1137, "timestamp": "2026-05-03T16:54:01-04:00", "subject": "fix(demo): simplify tool chip overflow"}
 {"replay": 1138, "timestamp": "2026-05-03T16:54:01-04:00", "subject": "auto-merge: workspace/update/cchat-clone-feed"}
+{"replay": 1139, "timestamp": "2026-05-03T17:42:25-04:00", "subject": "fix(demo): gate c-chat truncation and include numpy"}
