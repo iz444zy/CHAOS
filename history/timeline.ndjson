@@ -1125,3 +1125,4 @@
 {"replay": 1125, "timestamp": "2026-05-03T15:43:05-04:00", "subject": "auto-merge: workspace/plan/demo-e2e-emphasis"}
 {"replay": 1126, "timestamp": "2026-05-03T15:43:05-04:00", "subject": "docs(demo): emphasize E2E demo proof"}
 {"replay": 1127, "timestamp": "2026-05-03T15:49:34-04:00", "subject": "fix(demo): surface clone c-chat feed"}
+{"replay": 1128, "timestamp": "2026-05-03T15:49:45-04:00", "subject": "auto-merge: workspace/update/cchat-clone-feed"}
