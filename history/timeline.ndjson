@@ -1115,3 +1115,4 @@
 {"replay": 1115, "timestamp": "2026-05-03T13:18:29-04:00", "subject": "feat(website): prepare distribution launch site"}
 {"replay": 1116, "timestamp": "2026-05-03T13:21:59-04:00", "subject": "fix(polish): move top-level import and cache repeated array access"}
 {"replay": 1117, "timestamp": "2026-05-03T13:22:55-04:00", "subject": "auto-merge: origin/fix/review-code-polish"}
+{"replay": 1118, "timestamp": "2026-05-03T12:40:53-04:00", "subject": "fix(demo): auto-refresh live dashboard state"}
