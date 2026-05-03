@@ -1131,3 +1131,4 @@
 {"replay": 1131, "timestamp": "2026-05-03T16:18:07-04:00", "subject": "checkpoint before debug-agent transport fix"}
 {"replay": 1132, "timestamp": "2026-05-03T16:18:17-04:00", "subject": "auto-merge: workspace/checkpoint/debug-agent/20260503-161807"}
 {"replay": 1133, "timestamp": "2026-05-03T16:23:27-04:00", "subject": "feat(demo): add shared git review view"}
+{"replay": 1134, "timestamp": "2026-05-03T16:23:30-04:00", "subject": "auto-merge (resolved): workspace/feature/git-clone-view"}
