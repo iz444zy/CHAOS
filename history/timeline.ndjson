@@ -1121,3 +1121,4 @@
 {"replay": 1121, "timestamp": "2026-05-03T15:23:18-04:00", "subject": "fix(demo): address codex review feedback"}
 {"replay": 1122, "timestamp": "2026-05-03T15:24:01-04:00", "subject": "auto-merge: origin/chore/pr-trail-workspace-workspace-integration-live"}
 {"replay": 1123, "timestamp": "2026-05-03T15:24:51-04:00", "subject": "chore(pr-trail): backfill workspace and workspace integration/live changes"}
+{"replay": 1124, "timestamp": "2026-05-03T15:38:42-04:00", "subject": "auto-merge: workspace/plan/demo-e2e-emphasis"}
