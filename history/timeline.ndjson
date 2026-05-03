@@ -1067,3 +1067,4 @@
 {"replay": 1067, "timestamp": "2026-05-03T00:00:35-04:00", "subject": "fix(demo): clarify clone git status"}
 {"replay": 1068, "timestamp": "2026-05-03T00:09:02-04:00", "subject": "docs(deploy): plan vercel consumer mcp launch"}
 {"replay": 1069, "timestamp": "2026-05-03T00:15:09-04:00", "subject": "fix(demo): wire yc dashboard actions"}
+{"replay": 1070, "timestamp": "2026-05-03T00:15:11-04:00", "subject": "auto-merge (resolved): workspace/test/demo-e2e-mcp-receipts"}
