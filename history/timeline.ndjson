@@ -1061,3 +1061,4 @@
 {"replay": 1061, "timestamp": "2026-05-02T21:17:34-04:00", "subject": "fix(docker): mount clone parent workspace"}
 {"replay": 1062, "timestamp": "2026-05-02T21:34:07-04:00", "subject": "docs(demo): plan live yc dashboard routing"}
 {"replay": 1063, "timestamp": "2026-05-02T21:55:45-04:00", "subject": "feat(demo): route yc dashboard to live state"}
+{"replay": 1064, "timestamp": "2026-05-02T23:43:27-04:00", "subject": "fix(demo): inject fleet snapshot context"}
