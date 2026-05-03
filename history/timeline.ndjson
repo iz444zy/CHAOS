@@ -1065,3 +1065,4 @@
 {"replay": 1065, "timestamp": "2026-05-02T23:44:55-04:00", "subject": "fix(demo): expose terminal mirror context"}
 {"replay": 1066, "timestamp": "2026-05-02T23:53:22-04:00", "subject": "fix(demo): wire yc dashboard to live backend"}
 {"replay": 1067, "timestamp": "2026-05-03T00:00:35-04:00", "subject": "fix(demo): clarify clone git status"}
+{"replay": 1068, "timestamp": "2026-05-03T00:09:02-04:00", "subject": "docs(deploy): plan vercel consumer mcp launch"}
