@@ -1083,3 +1083,4 @@
 {"replay": 1083, "timestamp": "2026-05-03T01:24:28-04:00", "subject": "fix(demo): enable clone c-chat writeback"}
 {"replay": 1084, "timestamp": "2026-05-03T01:24:37-04:00", "subject": "auto-merge: workspace/test/demo-e2e-mcp-receipts"}
 {"replay": 1085, "timestamp": "2026-05-03T01:41:10-04:00", "subject": "fix(demo): bridge c-chat to copilot session"}
+{"replay": 1086, "timestamp": "2026-05-03T01:41:11-04:00", "subject": "auto-merge: workspace/test/demo-e2e-mcp-receipts"}
