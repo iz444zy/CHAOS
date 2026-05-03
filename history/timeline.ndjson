@@ -1118,3 +1118,4 @@
 {"replay": 1118, "timestamp": "2026-05-03T12:40:53-04:00", "subject": "fix(demo): auto-refresh live dashboard state"}
 {"replay": 1119, "timestamp": "2026-05-03T12:43:36-04:00", "subject": "feat(cchat): add bridge ack contracts"}
 {"replay": 1120, "timestamp": "2026-05-03T13:36:25-04:00", "subject": "auto-merge: origin/chore/pr-trail-workspace-workspace-integration-live"}
+{"replay": 1121, "timestamp": "2026-05-03T15:23:18-04:00", "subject": "fix(demo): address codex review feedback"}
