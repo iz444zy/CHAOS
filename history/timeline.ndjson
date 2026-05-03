@@ -1073,3 +1073,4 @@
 {"replay": 1073, "timestamp": "2026-05-03T00:20:40-04:00", "subject": "docs(security): plan post-mvp ip protection"}
 {"replay": 1074, "timestamp": "2026-05-03T00:20:47-04:00", "subject": "auto-merge (resolved): vercel-consumer-mcp-deploy/plan/vercel-consumer-mcp-deploy"}
 {"replay": 1075, "timestamp": "2026-05-03T00:26:53-04:00", "subject": "fix(demo): hide seed fleet during live load"}
+{"replay": 1076, "timestamp": "2026-05-03T00:26:57-04:00", "subject": "auto-merge: workspace/test/demo-e2e-mcp-receipts"}
