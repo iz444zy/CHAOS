@@ -1059,3 +1059,4 @@
 {"replay": 1059, "timestamp": "2026-05-02T20:27:27-04:00", "subject": "fix(web-ui): harden MCP proxy auth for Docker"}
 {"replay": 1060, "timestamp": "2026-05-02T21:05:35-04:00", "subject": "fix(docker): stabilize demo mcp stack"}
 {"replay": 1061, "timestamp": "2026-05-02T21:17:34-04:00", "subject": "fix(docker): mount clone parent workspace"}
+{"replay": 1062, "timestamp": "2026-05-02T21:34:07-04:00", "subject": "docs(demo): plan live yc dashboard routing"}
