@@ -1129,3 +1129,4 @@
 {"replay": 1129, "timestamp": "2026-05-03T16:04:03-04:00", "subject": "fix(demo): render c-chat markdown and refresh state"}
 {"replay": 1130, "timestamp": "2026-05-03T16:04:05-04:00", "subject": "auto-merge: workspace/update/cchat-clone-feed"}
 {"replay": 1131, "timestamp": "2026-05-03T16:18:07-04:00", "subject": "checkpoint before debug-agent transport fix"}
+{"replay": 1132, "timestamp": "2026-05-03T16:18:17-04:00", "subject": "auto-merge: workspace/checkpoint/debug-agent/20260503-161807"}
