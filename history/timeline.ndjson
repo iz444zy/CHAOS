@@ -1071,3 +1071,4 @@
 {"replay": 1071, "timestamp": "2026-05-03T00:19:43-04:00", "subject": "fix(demo): stabilize clone git view"}
 {"replay": 1072, "timestamp": "2026-05-03T00:19:46-04:00", "subject": "auto-merge: workspace/test/demo-e2e-mcp-receipts"}
 {"replay": 1073, "timestamp": "2026-05-03T00:20:40-04:00", "subject": "docs(security): plan post-mvp ip protection"}
+{"replay": 1074, "timestamp": "2026-05-03T00:20:47-04:00", "subject": "auto-merge (resolved): vercel-consumer-mcp-deploy/plan/vercel-consumer-mcp-deploy"}
