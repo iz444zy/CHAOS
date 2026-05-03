@@ -1089,3 +1089,4 @@
 {"replay": 1089, "timestamp": "2026-05-03T02:04:11-04:00", "subject": "fix(demo): universalize clone c-chat routing"}
 {"replay": 1090, "timestamp": "2026-05-03T02:04:12-04:00", "subject": "auto-merge: workspace/test/demo-e2e-mcp-receipts"}
 {"replay": 1091, "timestamp": "2026-05-03T02:19:15-04:00", "subject": "fix(demo): timestamp live clone sessions"}
+{"replay": 1092, "timestamp": "2026-05-03T02:19:15-04:00", "subject": "auto-merge: workspace/test/demo-e2e-mcp-receipts"}
