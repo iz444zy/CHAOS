@@ -1094,3 +1094,4 @@
 {"replay": 1094, "timestamp": "2026-05-03T02:41:00-04:00", "subject": "auto-merge: workspace/test/demo-e2e-mcp-receipts"}
 {"replay": 1095, "timestamp": "2026-05-03T02:44:17-04:00", "subject": "docs(reports): export live demo session"}
 {"replay": 1096, "timestamp": "2026-05-03T02:44:25-04:00", "subject": "auto-merge: workspace/test/demo-e2e-mcp-receipts"}
+{"replay": 1097, "timestamp": "2026-05-03T03:23:43-04:00", "subject": "chore(export): add raw session log export\\n\\nAdds a raw export of the local .chaos-bus session events for this clone.\\n\\nResolves-Todos: export-session-log\\nCo-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>"}
