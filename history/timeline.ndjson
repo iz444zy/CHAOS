@@ -1105,3 +1105,4 @@
 {"replay": 1105, "timestamp": "2026-05-03T12:12:34-04:00", "subject": "chore: export raw session logs"}
 {"replay": 1106, "timestamp": "2026-05-03T12:12:47-04:00", "subject": "Merge remote-tracking branch 'origin/master' into integration/live"}
 {"replay": 1107, "timestamp": "2026-05-03T12:40:53-04:00", "subject": "fix(demo): auto-refresh live dashboard state"}
+{"replay": 1108, "timestamp": "2026-05-03T12:40:54-04:00", "subject": "auto-merge: workspace/update/demo-live-updates"}
