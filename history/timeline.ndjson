@@ -1107,3 +1107,4 @@
 {"replay": 1107, "timestamp": "2026-05-03T12:40:53-04:00", "subject": "fix(demo): auto-refresh live dashboard state"}
 {"replay": 1108, "timestamp": "2026-05-03T12:40:54-04:00", "subject": "auto-merge: workspace/update/demo-live-updates"}
 {"replay": 1109, "timestamp": "2026-05-03T12:43:36-04:00", "subject": "feat(cchat): add bridge ack contracts"}
+{"replay": 1110, "timestamp": "2026-05-03T12:43:40-04:00", "subject": "auto-merge: workspace/feature/c-chat-terminal-e2e"}
