@@ -1117,3 +1117,4 @@
 {"replay": 1117, "timestamp": "2026-05-03T13:22:55-04:00", "subject": "auto-merge: origin/fix/review-code-polish"}
 {"replay": 1118, "timestamp": "2026-05-03T12:40:53-04:00", "subject": "fix(demo): auto-refresh live dashboard state"}
 {"replay": 1119, "timestamp": "2026-05-03T12:43:36-04:00", "subject": "feat(cchat): add bridge ack contracts"}
+{"replay": 1120, "timestamp": "2026-05-03T13:36:25-04:00", "subject": "auto-merge: origin/chore/pr-trail-workspace-workspace-integration-live"}
