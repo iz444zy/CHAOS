@@ -1145,3 +1145,4 @@
 {"replay": 1145, "timestamp": "2026-05-03T20:34:11-04:00", "subject": "auto-merge (resolved): workspace/plan/mcp-command-palette-git-controls"}
 {"replay": 1146, "timestamp": "2026-05-03T20:40:40-04:00", "subject": "docs(plan): add MCP command palette Git controls plan"}
 {"replay": 1147, "timestamp": "2026-05-03T20:43:06-04:00", "subject": "auto-merge: workspace/feature/mcp-command-palette-controls"}
+{"replay": 1148, "timestamp": "2026-05-03T20:47:53-04:00", "subject": "fix(demo): restore live c-chat input"}
