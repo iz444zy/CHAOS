@@ -2,4 +2,45 @@
 
 All notable changes to this **public showcase repository** are documented here.
 
-This changelog is intentionally generalized. It reflects release rhythm and workflow maturity without exposing private implementation detail from the original product repository.
+This changelog is intentionally generalized. It preserves the release rhythm and maturity curve of the original project without reproducing private implementation detail.
+
+## [Showcase replay baseline]
+
+### Added
+
+- Public-safe product overview documentation for CHAOS.
+- Generalized architecture and development-log summaries.
+- A timestamp-faithful public replay of the original repository history.
+
+### Notes
+
+- Commit ordering and dates/times are preserved to reflect the original development cadence.
+- Commit bodies and file contents are intentionally rewritten to avoid direct IP exposure.
+
+## Evolution themes reflected across the replayed history
+
+### Foundation
+
+- Early repository setup, workflow bootstrapping, and structure definition.
+- Initial emphasis on repeatable development practices and clear operating conventions.
+
+### Workflow expansion
+
+- Growth of reusable development workflows, supporting automation, and contributor-facing process guidance.
+- Strong emphasis on repository organization and documentation hygiene.
+
+### Product shaping
+
+- The project direction increasingly centers on local-first orchestration, persistent context, and coordinated workflow surfaces.
+- The visible history shows repeated refinement rather than a single large one-time build.
+
+### Integration and refinement
+
+- Recurrent fix, polish, and cleanup cycles indicate a deliberate integration mindset.
+- Documentation, operational clarity, and interface quality evolve alongside feature work.
+
+### Public-safe replay policy
+
+- Some subject lines are preserved in original style when they remain generic enough to be low risk.
+- More specific wording is lightly generalized where needed.
+- The changelog communicates progress themes, not private implementation specifics.
