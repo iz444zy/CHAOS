@@ -1149,3 +1149,4 @@
 {"replay": 1149, "timestamp": "2026-05-03T20:47:54-04:00", "subject": "fix(sync): dedupe ntfy notifications"}
 {"replay": 1150, "timestamp": "2026-05-03T20:47:59-04:00", "subject": "auto-merge (resolved): workspace/update/chat-input-redaction"}
 {"replay": 1151, "timestamp": "2026-05-03T20:58:33-04:00", "subject": "feat(mcp): add command palette catalog controls"}
+{"replay": 1152, "timestamp": "2026-05-03T20:58:45-04:00", "subject": "auto-merge: workspace/feature/mcp-command-palette-controls"}
