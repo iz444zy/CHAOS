@@ -1185,3 +1185,4 @@
 {"replay": 1185, "timestamp": "2026-05-03T22:36:00-04:00", "subject": "fix(web-ui): simplify pm command block"}
 {"replay": 1186, "timestamp": "2026-05-03T23:05:25-04:00", "subject": "feat(web): polish demo PM command center"}
 {"replay": 1187, "timestamp": "2026-05-03T23:12:16-04:00", "subject": "fix(web): keep demo status rail readable"}
+{"replay": 1188, "timestamp": "2026-05-03T23:15:23-04:00", "subject": "fix(web): prioritize PM tool search card"}
