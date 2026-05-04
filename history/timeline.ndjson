@@ -1192,3 +1192,4 @@
 {"replay": 1192, "timestamp": "2026-05-04T00:14:43-04:00", "subject": "fix(demo): align spotlight and status layout"}
 {"replay": 1193, "timestamp": "2026-05-04T00:22:32-04:00", "subject": "docs(demo): record public demo planning update"}
 {"replay": 1194, "timestamp": "2026-05-04T00:34:21-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1195, "timestamp": "2026-05-04T00:42:15-04:00", "subject": "fix(demo): refine public demo experience"}
