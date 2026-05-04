@@ -1181,3 +1181,4 @@
 {"replay": 1181, "timestamp": "2026-05-03T22:14:14-04:00", "subject": "auto-merge: workspace/default"}
 {"replay": 1182, "timestamp": "2026-05-03T21:29:45-04:00", "subject": "fix(docker): expose chaos service locally"}
 {"replay": 1183, "timestamp": "2026-05-03T22:15:01-04:00", "subject": "auto-merge: workspace/update/chaos-compose-labels-current"}
+{"replay": 1184, "timestamp": "2026-05-03T22:29:54-04:00", "subject": "fix(web-ui): restore pm command module"}
