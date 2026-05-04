@@ -1189,3 +1189,4 @@
 {"replay": 1189, "timestamp": "2026-05-03T23:39:41-04:00", "subject": "feat(demo): add guided onboarding overlay"}
 {"replay": 1190, "timestamp": "2026-05-04T00:03:56-04:00", "subject": "fix(demo): make tutorial overlay contextual"}
 {"replay": 1191, "timestamp": "2026-05-04T00:08:35-04:00", "subject": "fix(demo): keep toolbar status out of dashboard"}
+{"replay": 1192, "timestamp": "2026-05-04T00:14:43-04:00", "subject": "fix(demo): align spotlight and status layout"}
