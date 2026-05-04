@@ -1187,3 +1187,4 @@
 {"replay": 1187, "timestamp": "2026-05-03T23:12:16-04:00", "subject": "fix(web): keep demo status rail readable"}
 {"replay": 1188, "timestamp": "2026-05-03T23:15:23-04:00", "subject": "fix(web): prioritize PM tool search card"}
 {"replay": 1189, "timestamp": "2026-05-03T23:39:41-04:00", "subject": "feat(demo): add guided onboarding overlay"}
+{"replay": 1190, "timestamp": "2026-05-04T00:03:56-04:00", "subject": "fix(demo): make tutorial overlay contextual"}
