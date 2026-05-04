@@ -1162,3 +1162,4 @@
 {"replay": 1162, "timestamp": "2026-05-03T19:18:40-04:00", "subject": "fix(git): streamline live branch automation"}
 {"replay": 1163, "timestamp": "2026-05-03T21:23:48-04:00", "subject": "auto-merge: workspace-seamless-git-automation/fix/seamless-git-automation"}
 {"replay": 1164, "timestamp": "2026-05-03T21:24:58-04:00", "subject": "fix(git): streamline live branch automation"}
+{"replay": 1165, "timestamp": "2026-05-03T21:29:45-04:00", "subject": "fix(docker): expose chaos service locally"}
