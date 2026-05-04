@@ -1183,3 +1183,4 @@
 {"replay": 1183, "timestamp": "2026-05-03T22:15:01-04:00", "subject": "auto-merge: workspace/update/chaos-compose-labels-current"}
 {"replay": 1184, "timestamp": "2026-05-03T22:29:54-04:00", "subject": "fix(web-ui): restore pm command module"}
 {"replay": 1185, "timestamp": "2026-05-03T22:36:00-04:00", "subject": "fix(web-ui): simplify pm command block"}
+{"replay": 1186, "timestamp": "2026-05-03T23:05:25-04:00", "subject": "feat(web): polish demo PM command center"}
