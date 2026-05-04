@@ -1178,3 +1178,4 @@
 {"replay": 1178, "timestamp": "2026-05-03T22:06:07-04:00", "subject": "feat(sync): bridge c-chat inbox polling"}
 {"replay": 1179, "timestamp": "2026-05-03T22:10:55-04:00", "subject": "auto-merge: workspace/update/demo-ui-performance"}
 {"replay": 1180, "timestamp": "2026-05-03T22:12:24-04:00", "subject": "fix(web-ui): polish sample demo fallback"}
+{"replay": 1181, "timestamp": "2026-05-03T22:14:14-04:00", "subject": "auto-merge: workspace/default"}
