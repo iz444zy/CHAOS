@@ -1151,3 +1151,4 @@
 {"replay": 1151, "timestamp": "2026-05-03T20:58:33-04:00", "subject": "feat(mcp): add command palette catalog controls"}
 {"replay": 1152, "timestamp": "2026-05-03T20:58:45-04:00", "subject": "auto-merge: workspace/feature/mcp-command-palette-controls"}
 {"replay": 1153, "timestamp": "2026-05-03T21:02:15-04:00", "subject": "feat(mcp): add command palette catalog controls"}
+{"replay": 1154, "timestamp": "2026-05-03T21:06:51-04:00", "subject": "Merge origin/master into fix/chat-input-redaction"}
