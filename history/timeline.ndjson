@@ -1153,3 +1153,4 @@
 {"replay": 1153, "timestamp": "2026-05-03T21:02:15-04:00", "subject": "feat(mcp): add command palette catalog controls"}
 {"replay": 1154, "timestamp": "2026-05-03T21:06:51-04:00", "subject": "Merge origin/master into fix/chat-input-redaction"}
 {"replay": 1155, "timestamp": "2026-05-03T21:06:58-04:00", "subject": "auto-merge (resolved): workspace/update/chat-input-redaction"}
+{"replay": 1156, "timestamp": "2026-05-03T21:07:05-04:00", "subject": "fix(demo): restore c-chat delivery and dedupe ntfy"}
