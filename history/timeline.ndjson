@@ -1212,3 +1212,4 @@
 {"replay": 1212, "timestamp": "2026-05-04T12:38:31-04:00", "subject": "docs(demo): record public demo planning update"}
 {"replay": 1213, "timestamp": "2026-05-04T13:00:25-04:00", "subject": "fix(demo): refine public demo experience"}
 {"replay": 1214, "timestamp": "2026-05-04T13:05:39-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1215, "timestamp": "2026-05-04T13:32:01-04:00", "subject": "feat(demo): refine public demo experience"}
