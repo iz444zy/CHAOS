@@ -1225,3 +1225,4 @@
 {"replay": 1225, "timestamp": "2026-05-04T18:04:30-04:00", "subject": "docs(demo): record public demo planning update"}
 {"replay": 1226, "timestamp": "2026-05-04T19:26:37-04:00", "subject": "fix(demo): refine public demo experience"}
 {"replay": 1227, "timestamp": "2026-05-04T19:28:24-04:00", "subject": "feat(demo): refine public demo experience"}
+{"replay": 1228, "timestamp": "2026-05-06T01:41:50-04:00", "subject": "docs(qa): record planning and review artifacts"}
