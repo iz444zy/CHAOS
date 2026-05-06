@@ -1228,3 +1228,4 @@
 {"replay": 1228, "timestamp": "2026-05-06T01:41:50-04:00", "subject": "docs(qa): record planning and review artifacts"}
 {"replay": 1229, "timestamp": "2026-05-06T01:43:06-04:00", "subject": "docs(qa): record planning and review artifacts"}
 {"replay": 1230, "timestamp": "2026-05-06T11:36:14-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1231, "timestamp": "2026-05-06T11:47:13-04:00", "subject": "feat(runtime): record local runtime maturity milestone"}
