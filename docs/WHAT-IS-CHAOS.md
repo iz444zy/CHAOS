@@ -1,58 +1,138 @@
 # What is CHAOS?
 
-CHAOS is a **local-first orchestration environment for AI-assisted software development**.
+CHAOS is a **local-first AI infrastructure layer for software work**.
 
-The project sits at the intersection of workflow design, persistent context, tooling coordination, and engineering discipline. Instead of treating an AI assistant as a one-off conversation that forgets everything the moment a session ends, CHAOS is aimed at a model where useful working context, operational structure, and process continuity can accumulate over time.
+The simplest way to explain it is:
 
-## Core idea
+> **The LLM is the brain. CHAOS is the nervous system that helps the brain sense, remember, coordinate, and act.**
 
-The core idea behind CHAOS is that AI-assisted development gets stronger when four things are treated as part of the product:
+<p align="center">
+  <img src="../assets/chaos-infographic.jpeg" alt="CHAOS nervous system concept diagram" width="560">
+</p>
 
-1. **Context continuity** — useful information should not have to be re-established from scratch every session.
-2. **Workflow structure** — planning, implementation, verification, documentation, and handoff should reinforce each other.
-3. **Operational visibility** — a project should have observable state, not just hidden reasoning inside a chat window.
-4. **Repository discipline** — the git history and docs should tell a coherent story about how the work evolved.
+An LLM can reason, write, plan, and explain. But by itself, it often has weak continuity. It forgets the working context between sessions, needs the same project details repeated, struggles to coordinate several workstreams at once, and leaves users with limited visibility into what happened and why.
 
-## What problem it is trying to solve
+CHAOS is designed around the missing operating layer around that intelligence: persistent context, orchestration, automation, auditability, and local-first control.
 
-Most AI-assisted software work suffers from the same set of frictions:
+## The Core Idea
 
-- repeated re-explanation of context,
-- weak continuity across sessions,
-- scattered tooling with no clear orchestration layer,
-- poor visibility into how work is progressing,
-- and inconsistent discipline around documentation and git history.
+Most AI tools focus on the model conversation. CHAOS focuses on the system around the conversation.
 
-CHAOS is being developed as an answer to those frictions. The direction is not just “better prompts” or “more tools,” but a more cohesive local-first environment where context, workflow, and execution support one another.
+It asks a different question:
 
-## What CHAOS is developing into
+> What infrastructure would make AI assistance more consistent, less wasteful, and easier to trust across real development work?
 
-The long-term direction is a product that helps solo builders and small teams:
+The answer is a runtime environment that gives AI work stronger continuity and clearer operating structure.
 
-- carry forward working context instead of rebuilding it,
-- coordinate execution through clearer operational surfaces,
-- preserve clean documentation and git practices as a normal part of development,
-- turn fragmented AI-assisted work into something more durable, inspectable, and repeatable.
+At a public-safe level, CHAOS brings together:
 
-In practical terms, the project direction points toward a system where:
+- persistent context memory,
+- tiered context injection,
+- multi-agent and multi-repository orchestration,
+- coordination across local machines,
+- automated workflows,
+- auditable development history,
+- provider-aware execution,
+- and local-first user ownership.
 
-- planning and execution feel connected,
-- change history reflects real discipline,
-- documentation evolves with the work,
-- and the product can be understood not just by what it does, but by how it is operated.
+## Deployment Strategy
 
-## Why this showcase exists
+CHAOS is intended to run locally, with a deployment model that fits existing developer workflows.
 
-This public repository does not attempt to publish the private implementation. Instead, it exists to demonstrate three things:
+At a public-safe level, the product shape is:
 
-1. the product concept behind CHAOS,
-2. the development style used to build it,
-3. the care taken in maintaining history, release rhythm, and documentation over time.
+- **Docker container deployment** for local platform services.
+- **Local MCP server** for exposing CHAOS capabilities to compatible AI tools.
+- **Localhost web interface** for operating and inspecting the runtime in a browser, including the Codex browser.
+- **Existing provider interface integration** so users can keep working through their preferred AI development tools, IDEs, and CLIs.
+- **Cross-platform MCP compatibility** across Windows, macOS, and Linux.
 
-That is why this repo emphasizes public-safe summaries, changelog framing, development-log highlights, and timestamp-faithful history replay rather than source disclosure.
+The goal is not to force a new isolated workspace. CHAOS is meant to plug into the AI development surfaces people already use and give those surfaces stronger memory, orchestration, automation, and auditability.
 
-## Short version
+## Brain And Nervous System
 
-If you want the simplest possible summary:
+The brain metaphor is useful because it separates intelligence from coordination.
 
-> CHAOS is being developed as a local-first orchestration workspace that makes AI-assisted software work more persistent, more structured, and more operationally coherent.
+| Role | What it provides |
+|------|------------------|
+| **LLM as brain** | Reasoning, language, coding, planning, synthesis, critique. |
+| **CHAOS as nervous system** | Memory, signal routing, task coordination, workflow automation, state tracking, and feedback loops. |
+
+The brain is more effective when it receives the right signals at the right time. CHAOS is built around that principle.
+
+Instead of making every AI session reload an entire project or rely on whatever the user can remember to paste into the prompt, CHAOS treats context as an operational resource. It can be stored, ranked, budgeted, injected, refreshed, and audited.
+
+## What CHAOS Gives The AI
+
+CHAOS is intended to help an AI assistant work with better conditions:
+
+- **Better memory:** useful project facts can persist beyond a single chat.
+- **Better context:** relevant material can be selected and injected instead of dumping everything into the model.
+- **Better coordination:** work can be routed across agents, repositories, sessions, and machines.
+- **Better process:** planning, implementation, testing, review, documentation, and handoff can become repeatable workflows.
+- **Better feedback:** events, decisions, and state transitions can be visible instead of hidden inside a chat transcript.
+
+This makes the AI less dependent on fragile prompt memory and more supported by a durable runtime around it.
+
+## What CHAOS Gives The User
+
+For users, CHAOS is about turning AI-assisted development from scattered conversations into an operated system.
+
+It is designed to support:
+
+- fewer repeated explanations,
+- cleaner continuity between sessions,
+- clearer work ownership across parallel tasks,
+- more disciplined development records,
+- more automatable workflows,
+- and stronger local control over project data.
+
+The goal is not just to make the AI "smarter." The goal is to make the whole working environment more reliable.
+
+## What CHAOS Gives Providers
+
+CHAOS can also be a win for AI providers.
+
+When context is handled carelessly, models receive too much irrelevant input, users burn through subscription allotments, and providers absorb unnecessary compute pressure. Better infrastructure can reduce that waste.
+
+CHAOS is built around the idea that efficient AI use should benefit both sides:
+
+- users get more useful work per session,
+- providers see less avoidable token strain,
+- hardware resources are used more intentionally,
+- and higher-quality context can improve output without simply increasing prompt size.
+
+In other words: better AI infrastructure can help the brain perform at a higher level while conserving the resources needed to run it.
+
+## Major Public-Safe Components
+
+The private implementation is not reproduced in this showcase, but the major concept areas are safe to describe.
+
+| Component Area | Public-Safe Role |
+|----------------|------------------|
+| **Context memory** | Stores and retrieves durable project knowledge across sessions. |
+| **Context injection** | Selects relevant context under a budget so the AI receives useful signal instead of raw noise. |
+| **Orchestration runtime** | Coordinates work across agents, tasks, repositories, and execution states. |
+| **MCP server** | Exposes local capabilities through an AI-tool-compatible protocol boundary. |
+| **Local web interface** | Gives users an operational surface for the runtime through localhost, including Codex browser use. |
+| **Provider and CLI integration** | Connects CHAOS into existing AI provider development interfaces, IDE flows, and command-line tools. |
+| **Automation layer** | Turns repeatable development activities into structured workflows. |
+| **Sync and clone coordination** | Supports parallel work across related local repositories and machines. |
+| **Audit and history layer** | Preserves what happened, when it happened, and why it mattered. |
+| **Dockerized local platform** | Keeps the operating center on the user's machine with portable local deployment across major operating systems. |
+
+## What CHAOS Is Not
+
+CHAOS is not just:
+
+- a prompt library,
+- a chatbot wrapper,
+- a single-model interface,
+- a cloud-only SaaS dashboard,
+- or a collection of disconnected scripts.
+
+It is better understood as an operating layer for AI-assisted software work.
+
+## Short Version
+
+CHAOS is a local-first nervous system for AI-assisted development: it gives the LLM persistent memory, structured context, orchestration, automation, and auditability so AI work becomes more efficient, repeatable, and trustworthy.

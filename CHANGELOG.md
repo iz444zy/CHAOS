@@ -4,6 +4,16 @@ All notable changes to this **public showcase repository** are documented here.
 
 This changelog is intentionally generalized. It preserves the release rhythm and maturity curve of the original project without reproducing private implementation detail.
 
+## [Unreleased]
+
+### Changed
+
+- Expanded the public CHAOS concept documentation around the LLM-as-brain and CHAOS-as-nervous-system framing.
+- Reworked the architecture overview with a simplified public-safe diagram and clearer component responsibilities.
+- Clarified the intended Docker, MCP server, localhost web UI, provider CLI integration, and cross-platform local deployment strategy.
+- Added the public purple CHAOS logo asset to the showcase README.
+- Added a public CHAOS nervous-system concept visual to the product overview.
+
 ## [Showcase replay baseline]
 
 ### Added

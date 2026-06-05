@@ -1190,3 +1190,91 @@
 {"replay": 1190, "timestamp": "2026-05-04T00:03:56-04:00", "subject": "fix(demo): make tutorial overlay contextual"}
 {"replay": 1191, "timestamp": "2026-05-04T00:08:35-04:00", "subject": "fix(demo): keep toolbar status out of dashboard"}
 {"replay": 1192, "timestamp": "2026-05-04T00:14:43-04:00", "subject": "fix(demo): align spotlight and status layout"}
+{"replay": 1193, "timestamp": "2026-05-04T00:22:32-04:00", "subject": "docs(demo): record public demo planning update"}
+{"replay": 1194, "timestamp": "2026-05-04T00:34:21-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1195, "timestamp": "2026-05-04T00:42:15-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1196, "timestamp": "2026-05-04T00:48:25-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1197, "timestamp": "2026-05-04T00:57:12-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1198, "timestamp": "2026-05-04T01:05:21-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1199, "timestamp": "2026-05-04T01:09:41-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1200, "timestamp": "2026-05-04T01:13:49-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1201, "timestamp": "2026-05-04T01:23:26-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1202, "timestamp": "2026-05-04T01:26:32-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1203, "timestamp": "2026-05-04T01:41:57-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1204, "timestamp": "2026-05-04T01:54:12-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1205, "timestamp": "2026-05-04T02:04:00-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1206, "timestamp": "2026-05-04T02:07:38-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1207, "timestamp": "2026-05-04T08:55:45-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1208, "timestamp": "2026-05-04T09:15:50-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1209, "timestamp": "2026-05-04T09:25:38-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1210, "timestamp": "2026-05-04T09:31:46-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1211, "timestamp": "2026-05-04T09:44:09-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1212, "timestamp": "2026-05-04T12:38:31-04:00", "subject": "docs(demo): record public demo planning update"}
+{"replay": 1213, "timestamp": "2026-05-04T13:00:25-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1214, "timestamp": "2026-05-04T13:05:39-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1215, "timestamp": "2026-05-04T13:32:01-04:00", "subject": "feat(demo): refine public demo experience"}
+{"replay": 1216, "timestamp": "2026-05-04T14:19:59-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1217, "timestamp": "2026-05-04T15:39:06-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1218, "timestamp": "2026-05-04T15:59:36-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1219, "timestamp": "2026-05-04T16:06:47-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1220, "timestamp": "2026-05-04T16:17:48-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1221, "timestamp": "2026-05-04T16:30:32-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1222, "timestamp": "2026-05-04T16:46:41-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1223, "timestamp": "2026-05-04T17:05:46-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1224, "timestamp": "2026-05-04T18:00:31-04:00", "subject": "docs(demo): record public demo planning update"}
+{"replay": 1225, "timestamp": "2026-05-04T18:04:30-04:00", "subject": "docs(demo): record public demo planning update"}
+{"replay": 1226, "timestamp": "2026-05-04T19:26:37-04:00", "subject": "fix(demo): refine public demo experience"}
+{"replay": 1227, "timestamp": "2026-05-04T19:28:24-04:00", "subject": "feat(demo): refine public demo experience"}
+{"replay": 1228, "timestamp": "2026-05-06T01:41:50-04:00", "subject": "docs(qa): record planning and review artifacts"}
+{"replay": 1229, "timestamp": "2026-05-06T01:43:06-04:00", "subject": "docs(qa): record planning and review artifacts"}
+{"replay": 1230, "timestamp": "2026-05-06T11:36:14-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1231, "timestamp": "2026-05-06T11:47:13-04:00", "subject": "feat(runtime): record local runtime maturity milestone"}
+{"replay": 1232, "timestamp": "2026-05-08T14:21:30-04:00", "subject": "feat(runtime): record local runtime maturity milestone"}
+{"replay": 1233, "timestamp": "2026-05-08T14:22:47-04:00", "subject": "feat(runtime): record local runtime maturity milestone"}
+{"replay": 1234, "timestamp": "2026-05-08T14:22:59-04:00", "subject": "feat(runtime): record local runtime maturity milestone"}
+{"replay": 1235, "timestamp": "2026-05-08T17:55:59-04:00", "subject": "feat(runtime): record local runtime maturity milestone"}
+{"replay": 1236, "timestamp": "2026-05-08T18:07:04-04:00", "subject": "feat(runtime): record local runtime maturity milestone"}
+{"replay": 1237, "timestamp": "2026-05-08T20:57:29-04:00", "subject": "feat(runtime): record local runtime maturity milestone"}
+{"replay": 1238, "timestamp": "2026-05-09T02:43:07-04:00", "subject": "feat(runtime): record local runtime maturity milestone"}
+{"replay": 1239, "timestamp": "2026-05-09T02:43:36-04:00", "subject": "feat(runtime): record local runtime maturity milestone"}
+{"replay": 1240, "timestamp": "2026-05-09T18:15:13-04:00", "subject": "fix(runtime): refine local runtime planning surface"}
+{"replay": 1241, "timestamp": "2026-05-09T18:20:40-04:00", "subject": "fix(runtime): refine local runtime planning surface"}
+{"replay": 1242, "timestamp": "2026-05-11T16:29:41-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1243, "timestamp": "2026-05-11T16:31:00-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1244, "timestamp": "2026-05-11T16:36:09-04:00", "subject": "feat(runtime): record local runtime maturity milestone"}
+{"replay": 1245, "timestamp": "2026-05-22T19:00:32-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1246, "timestamp": "2026-05-22T19:41:35-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1247, "timestamp": "2026-05-23T13:24:14-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1248, "timestamp": "2026-05-23T13:25:06-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1249, "timestamp": "2026-05-23T13:25:49-04:00", "subject": "docs(workflow): record agent workflow planning update"}
+{"replay": 1250, "timestamp": "2026-05-23T13:38:10-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1251, "timestamp": "2026-05-23T13:38:44-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1252, "timestamp": "2026-05-23T13:40:00-04:00", "subject": "docs(workflow): record agent workflow planning update"}
+{"replay": 1253, "timestamp": "2026-05-23T15:00:59-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1254, "timestamp": "2026-05-23T15:04:55-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1255, "timestamp": "2026-05-23T15:05:58-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1256, "timestamp": "2026-05-23T15:09:12-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1257, "timestamp": "2026-05-23T15:36:22-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1258, "timestamp": "2026-05-27T15:57:35-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1259, "timestamp": "2026-05-27T16:30:43-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1260, "timestamp": "2026-05-27T16:45:32-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1261, "timestamp": "2026-05-27T16:47:36-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1262, "timestamp": "2026-06-02T13:49:26-04:00", "subject": "docs(showcase): record planning update"}
+{"replay": 1263, "timestamp": "2026-06-04T12:53:32-04:00", "subject": "docs(qa): record planning and review artifacts"}
+{"replay": 1264, "timestamp": "2026-06-04T12:53:54-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1265, "timestamp": "2026-06-04T13:15:19-04:00", "subject": "docs(qa): record planning and review artifacts"}
+{"replay": 1266, "timestamp": "2026-06-04T13:40:35-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1267, "timestamp": "2026-06-04T14:41:46-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1268, "timestamp": "2026-06-04T17:25:39-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1269, "timestamp": "2026-06-04T17:35:18-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1270, "timestamp": "2026-06-04T17:45:25-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1271, "timestamp": "2026-06-04T17:57:42-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1272, "timestamp": "2026-06-04T20:58:13-04:00", "subject": "feat(sync): record local coordination milestone"}
+{"replay": 1273, "timestamp": "2026-06-04T20:58:54-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1274, "timestamp": "2026-06-04T21:03:05-04:00", "subject": "feat(sync): record local coordination milestone"}
+{"replay": 1275, "timestamp": "2026-06-04T22:26:14-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1276, "timestamp": "2026-06-04T22:31:03-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1277, "timestamp": "2026-06-04T22:46:10-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1278, "timestamp": "2026-06-04T22:49:12-04:00", "subject": "docs(refactor): record planning consolidation milestone"}
+{"replay": 1279, "timestamp": "2026-06-04T22:22:40-04:00", "subject": "docs(planning): record planning transfer update"}
+{"replay": 1280, "timestamp": "2026-06-04T22:50:21-04:00", "subject": "docs(showcase): record visual communication assets"}
