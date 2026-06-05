@@ -12,6 +12,7 @@ This changelog is intentionally generalized. It preserves the release rhythm and
 - Reworked the architecture overview with a simplified public-safe diagram and clearer component responsibilities.
 - Clarified the intended Docker, MCP server, localhost web UI, provider CLI integration, and cross-platform local deployment strategy.
 - Added the public purple CHAOS logo asset to the showcase README.
+- Added a public CHAOS nervous-system concept visual to the product overview.
 
 ## [Showcase replay baseline]
 

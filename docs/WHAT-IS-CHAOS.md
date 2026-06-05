@@ -6,6 +6,10 @@ The simplest way to explain it is:
 
 > **The LLM is the brain. CHAOS is the nervous system that helps the brain sense, remember, coordinate, and act.**
 
+<p align="center">
+  <img src="../assets/chaos-infographic.jpeg" alt="CHAOS nervous system concept diagram" width="560">
+</p>
+
 An LLM can reason, write, plan, and explain. But by itself, it often has weak continuity. It forgets the working context between sessions, needs the same project details repeated, struggles to coordinate several workstreams at once, and leaves users with limited visibility into what happened and why.
 
 CHAOS is designed around the missing operating layer around that intelligence: persistent context, orchestration, automation, auditability, and local-first control.
