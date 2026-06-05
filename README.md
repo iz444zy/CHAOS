@@ -10,6 +10,10 @@ CHAOS is a **local-first AI infrastructure layer for software work**. The simple
 
 AI models are powerful reasoning engines, but real development work needs more than one-off intelligence. It needs persistent memory, task coordination, workflow discipline, operational visibility, and efficient use of context. CHAOS is being developed around that missing operating layer.
 
+<p align="center">
+  <img src="assets/chaos-infographic.jpeg" alt="CHAOS nervous system concept diagram" width="560">
+</p>
+
 This repository is a **sanitized public showcase**. It is meant to demonstrate the way the project is run: commit cadence, documentation maintenance, release rhythm, git hygiene, and the overall shape of the product direction. It does **not** reproduce the private implementation repository.
 
 ## What CHAOS is about
