@@ -14,6 +14,13 @@ This changelog is intentionally generalized. It preserves the release rhythm and
 - Added the public purple CHAOS logo asset to the showcase README.
 - Added a public CHAOS nervous-system concept visual to the product overview.
 
+## [Sanitized replay - 2026-08-11]
+
+- Source: `iz444zy/claude-workflow`; source count: 1,791; target count: 1,791.
+- Broad mirrored themes: runtime and event coordination, durable context, managed integrations, task and repository workflows, planning, quality, audit, and public showcase documentation.
+- This history is sanitized and emulated. Matching counts do not mean matching diffs, hashes, authorship, or implementation.
+- Replay dates are a public visual configuration that preserves ordering, not source-identical timestamps.
+
 ## [Showcase replay baseline]
 
 ### Added
