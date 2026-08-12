@@ -1,116 +1,110 @@
+<div align="center">
+
+<a href="https://chaos-dev.ai"><img src="assets/chaos-logo-transparent.png" alt="CHAOS website" width="420" /></a>
+
 # CHAOS
 
-> *Orchestrated intelligence. Controlled chaos.*
+Local-first coordination for coding-agent work
 
-<p align="center">
-  <img src="assets/chaos-logo-purple.png" alt="CHAOS logo" width="220">
-</p>
+**Context Hydrated Agentic Orchestration System**
+*Persistent context, policy-gated execution, Git reconciliation, and inspectable action evidence.*
 
-CHAOS is a **local-first AI infrastructure layer for software work**. The simplest framing is: **the LLM is the brain; CHAOS is the nervous system that helps the brain remember, coordinate, automate, and act with better context.**
+[Website](https://chaos-dev.ai) · [Showcase](SHOWCASE.md) · [Component Map](COMPONENT-MAP.md) · [Engineering Evidence](ENGINEERING-EVIDENCE.md)
 
-AI models are powerful reasoning engines, but real development work needs more than one-off intelligence. It needs persistent memory, task coordination, workflow discipline, operational visibility, and efficient use of context. CHAOS is being developed around that missing operating layer.
+|  | GitHub | LinkedIn | Resume |
+|---|---|---|---|
+| Izzy Schlichting | [@iz444zy](https://github.com/iz444zy) | [Profile](https://www.linkedin.com/in/isa-lucia-sch/) | --- |
+| Daniella Schlichting | [@dani-sch](https://github.com/dani-sch) | [Profile](https://www.linkedin.com/in/daniella-schlichting/) | --- |
 
-<p align="center">
-  <img src="assets/chaos-infographic.jpeg" alt="CHAOS nervous system concept diagram" width="560">
-</p>
+</div>
 
-This repository is a **sanitized public showcase**. It is meant to demonstrate the way the project is run: commit cadence, documentation maintenance, release rhythm, git hygiene, and the overall shape of the product direction. It does **not** reproduce the private implementation repository.
+---
 
-## What CHAOS is about
+> [IMPORTANT]
+> This repository is a sanitized, documentation-only technical showcase of CHAOS. The implementation remains in a private source repository. This public repository is not a runnable distribution, source mirror, or claim of a completed product.
 
-At a high level, CHAOS is being developed to make AI-assisted software work:
+CHAOS is multi-agent development infrastructure for software work that must survive the boundaries between conversations, providers, terminals, repositories, worktrees, and human review. It retrieves bounded project context, coordinates controlled execution, reconciles Git state, and preserves durable evidence of what was requested, attempted, completed, rejected, or escalated.
 
-- more persistent across sessions,
-- more structured across planning, implementation, review, documentation, and handoff,
-- more coordinated across agents, repositories, and local machines,
-- more operationally visible and auditable,
-- less dependent on re-explaining the same context over and over,
-- and less wasteful with model tokens and provider resources.
+It is not a generic chat interface or an unrestricted autonomous coding bot. CHAOS separates workflow meaning, operational authority, retrieval truth, reusable practice knowledge, repository state, and action history so that no recommendation, event, or model response silently becomes permission to mutate a system.
 
-The private product work explores how a local-first system can coordinate workflow surfaces, carry forward useful context, orchestrate repeatable processes, and support disciplined engineering execution without turning the development process into a pile of disconnected tools.
+## Technical ownership
 
-## Deployment shape
+CHAOS was independently architected and implemented by **Izzy Schlichting & Daniella Schlichting** through an agentic development workflow. Coding agents were used as implementation collaborators; the architecture, system decomposition, specifications, integration strategy, verification standards, audit design, and final technical decisions were directed and governed by Izzy and Daniella.
 
-The intended product shape is a local deployment that can be plugged into existing AI development interfaces rather than replacing them:
+Repository line, test, and commit counts describe the resulting codebase. They are not presented as manually typed output or as a substitute for connected runtime proof.
 
-- a **Dockerized local runtime** for the core platform services,
-- an **MCP-compatible local server** for tool, resource, and workflow access,
-- a **localhost web interface** designed to run locally and be opened inside the Codex browser,
-- integration points for existing AI provider development surfaces, including desktop tools, IDE integrations, and CLIs,
-- and cross-platform operation across **Windows, macOS, and Linux**.
+## How CHAOS approaches a unit of work
 
-In practical terms, CHAOS is meant to become the local operating layer that existing AI tools can connect to through MCP-compatible interfaces.
+```mermaid
+flowchart LR
+    OBJECTIVE["Bounded objective"]
+    CONTEXT["Hydrate relevant context<br/>with provenance"]
+    CONTROL["Validate identity, scope,<br/>policy, and authority"]
+    EXECUTE["Dispatch controlled<br/>agent/provider work"]
+    EVIDENCE["Record runtime, Git,<br/>and event outcomes"]
+    REVIEW["Review, approve,<br/>retry, or escalate"]
 
-## Public-safe concept
+    OBJECTIVE --> CONTEXT --> CONTROL --> EXECUTE --> EVIDENCE --> REVIEW
+    REVIEW -. "next authorized objective" .-> OBJECTIVE
+```
 
-CHAOS can be understood as a runtime nervous system around AI-assisted development:
+This is the intended controlled lifecycle. Its component families are substantially implemented, but not every arrow is connected as one continuously supervised, restart-safe product service today. The strongest current proofs cover focused runtime slices rather than an unattended request-to-merged-pull-request loop.
 
-- **Context memory** keeps useful project knowledge from disappearing between sessions.
-- **Tiered context injection** sends the model relevant signal instead of flooding it with raw project material.
-- **Orchestration** coordinates work across agents, child repo clones, local machines, and workflow stages.
-- **Automation** turns repeatable development processes into structured flows.
-- **Auditability** makes work easier to inspect, replay, and trust.
-- **Local-first operation** keeps the user's machine as the center of gravity.
+## Core engineering areas
 
-This creates a win for both AI users and AI providers: users get better continuity and higher-quality assistance, while providers face less avoidable token waste from repeated context loading and oversized prompts.
+| Area | Current bounded capability |
+|---|---|
+| **Context and hydration** | Retrieves across Context, Praxis, and permitted read-only Engine sources; ranks, deduplicates, token-budgets, and retains selection provenance in hydration artifacts. |
+| **MCP Gateway** | Applies authentication, schema, mode, entitlement, capability, approval, execution-token, and audit-reservation checks before registered handlers run. |
+| **Operational authority** | Engine records tasks, assignments, claims, leases, execution sessions, approvals, tokens, results, and related control evidence. |
+| **Agent and provider runtime** | Manages bounded planning, dispatch, agent processes, provider sessions, terminal state, and local CLI adapters. Continuous restart-safe supervision remains active integration work. |
+| **GitManager** | Manages registered clone fleets, reconciliation, merge outcomes, conflict classification, and Git evidence without interpreting a requested mutation as successful. |
+| **MES and KID** | Maintains durable correlated action events, cursors, replay, and projections. GitManager and knowledge-integrity paths currently have the strongest producer coverage. |
+| **Operator surfaces** | Exposes CLI, Model Context Protocol (MCP) resources, status, event-tail, installer, and read-only taskboard surfaces. A unified operator interface is not yet shipped. |
 
-## What this showcase preserves
+## Current implementation boundary
 
-This public repository is intentionally focused on **process evidence**:
+| Proven or bounded today | Still being connected or completed |
+|---|---|
+| Gateway policy preflight and Engine control records | Uniform policy ownership across remaining compatibility entrypoints |
+| Multi-store retrieval, ranking, budgeting, and hydration provenance | Continuous knowledge refresh and session rehydration |
+| Bounded task claiming and real-agent dispatch proof | Restart-safe worker supervision and durable pause/input behavior |
+| Managed Git fleet lifecycle, reconciliation, and typed conflict outcomes | Policy-gated commits, remote publication, and bounded repair sessions |
+| Durable MES journals, cursors, replay, and Git/KID projections | Full event coverage for tasks, sessions, providers, tools, hydration, approvals, and health |
+| Development runtime topology and read surfaces | Clean-machine packaging, release lifecycle proof, and a unified operator experience |
 
-- conventional commit discipline,
-- timestamp-faithful replay of the original development cadence,
-- a visible changelog and development-log rhythm,
-- multi-phase repository evolution over time,
-- public-safe product and architecture summaries.
+CHAOS does **not** currently claim a production-ready unified interface, complete autonomous Git publication, autonomous conflict repair, final merge automation, or a packaged unattended request-to-merged-PR loop. Source presence is not treated as product completion: a capability must have connected composition, focused proof, appropriate recovery behavior, and current documentation before it is presented as complete.
 
-## What this showcase does not include
+## Audited private-source evidence
 
-To keep the showcase useful without exposing direct IP, it intentionally excludes:
+The latest repository-wide measurement included in this showcase is tied to the private-source snapshot internally identified as `83ab168e`, audited on **2026-07-30**. The measurements describe that snapshot, not the current working tree or release readiness.
 
-- private source code,
-- protected implementation details,
-- raw internal planning and operating documents,
-- seeded demo data and environment-specific operational material,
-- legal, business, patent, or trade-secret documentation.
+| Audited measure | Value |
+|---|---:|
+| Source Python files | 475 |
+| Source Python LOC | 92,204 |
+| Test Python files | 459 |
+| Test Python LOC | 91,612 |
+| Test-to-source Python LOC ratio | 99.4% |
+| Collected tests | 6,910 |
+| Statement coverage | 72.07% |
 
-## What you should read first
+The audit recorded 6,766 passing tests, but the retained public-safe summary does not classify the remaining collected outcomes. This showcase therefore does not characterize them as failures, skips, expected failures, or environment-blocked tests. See [Engineering Evidence](ENGINEERING-EVIDENCE.md) for the measurement method, representative proof paths, and publication boundary.
 
-- [docs/WHAT-IS-CHAOS.md](docs/WHAT-IS-CHAOS.md) — plain-language concept explanation
-- [docs/ARCHITECTURE-OVERVIEW.md](docs/ARCHITECTURE-OVERVIEW.md) — simplified public architecture diagram
-- [docs/DEV-LOG-HIGHLIGHTS.md](docs/DEV-LOG-HIGHLIGHTS.md) — major evolution themes
-- [docs/SHOWCASE-REPLAY-PLAN.md](docs/SHOWCASE-REPLAY-PLAN.md) — how this showcase history was reconstructed
-- [CHANGELOG.md](CHANGELOG.md) — generalized release narrative
+## Why the system is staged
 
-## Why the history matters here
+CHAOS contains multiple interdependent engines rather than one monolithic agent loop. Engine must establish durable authority before a continuous worker can act safely. Runtime sessions require normalized lifecycle and recovery contracts before they can survive interruption. Knowledge systems must improve retrieval without gaining operational authority. MES requires stable event semantics before it can represent a trustworthy cross-system timeline. GitManager needs those same authority, credential, and evidence boundaries before additional mutation can be automated.
 
-One of the main things this showcase is intended to demonstrate is that the project was handled with **care over time**, not just assembled into a polished snapshot at the end. The replayed commit history preserves the original ordering and timestamps so the public repo still reflects the pace, rhythm, and sequencing of the underlying work.
+The result is intentionally staged convergence: build each owner to a defensible contract, prove bounded behavior, connect it through explicit APIs and evidence, and only then present the composition as product behavior.
 
-That means the value of this repository is not just in its files; it is also in the visible pattern of:
+## Read the showcase
 
-- how features and fixes accumulated,
-- how documentation moved alongside implementation,
-- how cleanup and refactor work kept happening,
-- how the project evolved in phases instead of all at once.
+| If you want to... | Read |
+|---|---|
+| Understand the problem, differentiators, and target experience | [SHOWCASE.md](SHOWCASE.md) |
+| Inspect ownership boundaries, implementation posture, recovery, and completion criteria | [COMPONENT-MAP.md](COMPONENT-MAP.md) |
+| Review dated measurements, representative source paths, and test-backed traces | [ENGINEERING-EVIDENCE.md](ENGINEERING-EVIDENCE.md) |
 
-## Public-safe framing
+## Public history notice
 
-The cleanest way to read this repository is:
-
-> **This is a process showcase derived from a private product repository.**
-
-It is designed to communicate:
-
-1. what CHAOS is trying to become,
-2. how the work has been managed,
-3. what kind of engineering discipline shaped the product,
-4. and what the repository history says about that operating style.
-
-## Repository notes
-
-Because this is a public-safe showcase:
-
-- commit subjects may be lightly sanitized where needed,
-- commit bodies are intentionally generalized,
-- docs focus on product direction and workflow quality,
-- implementation detail is abstracted rather than reproduced.
+The public commit and pull-request history is a sanitized, non-code reconstruction of development milestones from the private source repository. It preserves project chronology and engineering intent where practical, but public hashes, metadata, descriptions, and diffs are not a cryptographic mirror and do not independently verify the private implementation.
