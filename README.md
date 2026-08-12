@@ -23,6 +23,9 @@ Local-first coordination for coding-agent work
 > [IMPORTANT]
 > This repository is a sanitized, documentation-only technical showcase of CHAOS. The implementation remains in a private source repository. This public repository is not a runnable distribution, source mirror, or claim of a completed product.
 
+> [!WARNING]
+> Copyright 2026 CHAOS-AI. All rights reserved. This material is available only for personal, non-commercial research, evaluation, and citation. Copying, reuse, derivative works, model training, distribution, or commercial use requires prior written permission. See [LICENSE](LICENSE).
+
 CHAOS is multi-agent development infrastructure for software work that must survive the boundaries between conversations, providers, terminals, repositories, worktrees, and human review. It retrieves bounded project context, coordinates controlled execution, reconciles Git state, and preserves durable evidence of what was requested, attempted, completed, rejected, or escalated.
 
 It is not a generic chat interface or an unrestricted autonomous coding bot. CHAOS separates workflow meaning, operational authority, retrieval truth, reusable practice knowledge, repository state, and action history so that no recommendation, event, or model response silently becomes permission to mutate a system.
