@@ -13,7 +13,7 @@ Local-first coordination for coding-agent work
 
 |  | GitHub | LinkedIn | Resume |
 |---|---|---|---|
-| Izzy Schlichting | [@iz444zy](https://github.com/iz444zy) | [Profile](https://www.linkedin.com/in/isa-lucia-sch/) | --- |
+| Izzy Schlichting | [@iz444zy](https://github.com/iz444zy) | [Profile](https://www.linkedin.com/in/isa-lucia-sch/) | [PDF](assets/Izzy_Schlichting_Backend_AI_Infrastructure_Engineer_Resume.pdf) |
 | Daniella Schlichting | [@dani-sch](https://github.com/dani-sch) | [Profile](https://www.linkedin.com/in/daniella-schlichting/) | --- |
 
 </div>
