@@ -11,11 +11,6 @@ Local-first coordination for coding-agent work
 
 [Website](https://chaos-dev.ai) · [Showcase](SHOWCASE.md) · [Component Map](COMPONENT-MAP.md) · [Engineering Evidence](ENGINEERING-EVIDENCE.md)
 
-|  | GitHub | LinkedIn | Resume |
-|---|---|---|---|
-| Izzy Schlichting | [@iz444zy](https://github.com/iz444zy) | [Profile](https://www.linkedin.com/in/isa-lucia-sch/) | [PDF](assets/Izzy_Schlichting_Backend_AI_Infrastructure_Engineer_Resume.pdf) |
-| Daniella Schlichting | [@dani-sch](https://github.com/dani-sch) | [Profile](https://www.linkedin.com/in/daniella-schlichting/) | --- |
-
 </div>
 
 ---
@@ -35,6 +30,11 @@ It is not a generic chat interface or an unrestricted autonomous coding bot. CHA
 CHAOS was independently architected and implemented by **Izzy Schlichting & Daniella Schlichting** through an agentic development workflow. Coding agents were used as implementation collaborators; the architecture, system decomposition, specifications, integration strategy, verification standards, audit design, and final technical decisions were directed and governed by Izzy and Daniella.
 
 Repository line, test, and commit counts describe the resulting codebase. They are not presented as manually typed output or as a substitute for connected runtime proof.
+
+|  | GitHub | LinkedIn | Email | Resume |
+|---|---|---|---|---|
+| Izzy Schlichting | [@iz444zy](https://github.com/iz444zy) | [Profile](https://www.linkedin.com/in/isa-lucia-sch/) | [izzy@chaos-dev.ai](mailto:izzy@chaos-dev.ai) | [PDF](assets/Izzy_Schlichting_Backend_AI_Infrastructure_Engineer_Resume.pdf) |
+| Daniella Schlichting | [@dani-sch](https://github.com/dani-sch) | [Profile](https://www.linkedin.com/in/daniella-schlichting/) | [dani@chaos-dev.ai](mailto:dani@chaos-dev.ai) | --- |
 
 ## How CHAOS approaches a unit of work
 
