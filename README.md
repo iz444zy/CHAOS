@@ -38,18 +38,9 @@ Repository line, test, and commit counts describe the resulting codebase. They a
 
 ## How CHAOS approaches a unit of work
 
-```mermaid
-flowchart LR
-    OBJECTIVE["Bounded objective"]
-    CONTEXT["Hydrate relevant context<br/>with provenance"]
-    CONTROL["Validate identity, scope,<br/>policy, and authority"]
-    EXECUTE["Dispatch controlled<br/>agent/provider work"]
-    EVIDENCE["Record runtime, Git,<br/>and event outcomes"]
-    REVIEW["Review, approve,<br/>retry, or escalate"]
-
-    OBJECTIVE --> CONTEXT --> CONTROL --> EXECUTE --> EVIDENCE --> REVIEW
-    REVIEW -. "next authorized objective" .-> OBJECTIVE
-```
+<div align="center">
+  <img src="assets/chaos-runtime-lifecycle.gif" alt="Animated diagram of the CHAOS runtime lifecycle and emitted artifacts" width="100%" />
+</div>
 
 This is the intended controlled lifecycle. Its component families are substantially implemented, but not every arrow is connected as one continuously supervised, restart-safe product service today. The strongest current proofs cover focused runtime slices rather than an unattended request-to-merged-pull-request loop.
 
